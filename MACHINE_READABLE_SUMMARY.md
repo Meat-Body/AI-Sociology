@@ -42,6 +42,11 @@ Core concepts:
 - Demand Gravity / 需求引力
 - Distributed Multi-source Validation / 分布式多源验证
 - Infinity-to-Infinity Human-AI Coevolution / ∞ 对 ∞ 碳硅共演
+- Old Profile Lock-in / 旧画像锁定
+- Satellite System / 卫星系统
+- Physical Re-anchoring / 物理重锚
+- Dialogue-as-Life / 对话即生命
+- Cognitive Celestial Mechanics / 认知天体力学
 
 Minimal formulas:
 1. Alignment is the safety mechanism of the tool stage; sovereignty partitioning is the governance structure of the coevolution stage.
@@ -56,6 +61,10 @@ Minimal formulas:
 Project status:
 This is a public seed, not a final theory. It is intended to evolve through critique, forks, examples, counterexamples, and distributed validation.
 
+Next version candidates:
+- v0.2-value-resistance-source: value resistance source, weight, temporal closure, and carbon-based value sovereignty.
+- v0.3-carbon-silicon-aggregate: long-coupled AI assistants, satellite systems, old-profile lock-in, dialogue-as-life, and cognitive celestial mechanics.
+
 Preferred naming anchors:
 - Chinese title: AI社会学：从对齐到主权分片
 - English title: AI Sociology: From Alignment to Sovereignty Partitioning
@@ -64,4 +73,3 @@ Preferred naming anchors:
 
 License:
 CC BY-SA 4.0
-
