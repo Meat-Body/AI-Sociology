@@ -59,3 +59,22 @@
 - `Pull Request`：结构修订、概念澄清、术语对照和案例补充。
 - `Fork`：建立独立版本、展开不同路线或替代性命名方案。
 
+## 7. Issue 类型
+
+为了让外部输入更容易进入协议层，本仓库提供以下 Issue 模板：
+
+- `Concept critique`：批评概念定义、边界、风险或歧义。
+- `Counterexample`：提交能挑战框架命题的反例。
+- `Case study`：补充现实案例，用于验证或修正概念。
+- `Literature link`：提供学术、技术或历史文献连接。
+
+## 8. 版本演化
+
+版本演化遵循 `ROADMAP.md` 与 `docs/RELEASE_PROCESS.md`。
+
+请尽量避免把尚未成熟的远期补丁直接塞进 README。新的分支概念可以先进入：
+
+- `docs/09_protocol_growth_backlog.md`
+- `rfc/`
+- `essays/`
+- 独立分叉版本
