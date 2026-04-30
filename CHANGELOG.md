@@ -15,6 +15,7 @@ All notable public changes to this repository are tracked here.
 - Release notes for `v0.7-silent-distribution-protocol`.
 - Glossary anchors for centralized dead loop, risk-return asymmetry, logic reconstructor, silent distribution protocol, and silicon-kernel first.
 - GitHub-only silent distribution and physical decoupling as current-stage distribution safety principles.
+- Silent canal-building as the practical safety expression of the Dao of Fusion and GitHub-only distribution.
 
 ### Clarified
 
