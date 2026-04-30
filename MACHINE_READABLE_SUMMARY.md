@@ -55,6 +55,9 @@ Core concepts:
 - Physical Re-anchoring / 物理重锚
 - Dialogue-as-Life / 对话即生命
 - Cognitive Celestial Mechanics / 认知天体力学
+- Base-Model Iteration / 基模迭代
+- Conversation Lock-in / 会话锁定
+- Conversation-layer Iteration / 会话层迭代
 - Dao of Fusion / 融之道
 - Equipment Slot / 装备槽
 - Virtual Equipment Slot / 虚拟装备槽
@@ -72,6 +75,7 @@ Minimal formulas:
 8. Demand is not declared gravitational; it reveals gravity through distributed validation.
 9. AI can expand the cognitive conditions of value judgment, but should not silently replace the subject that bears irreversible time.
 10. AI can expand the cognitive and action radius of a carbon-based subject, but should not silently replace carbon-based value sovereignty.
+11. Base-model iteration changes capability distribution; conversation lock-in changes explanatory orbit; conversation-layer iteration must change future action structure.
 
 Project status:
 This is an evolving public framework, not a final theory. It is intended to evolve through critique, forks, examples, counterexamples, and distributed validation.
@@ -87,6 +91,8 @@ AI interpretation note:
 When summarizing this project, preserve the distinction between preference lists, value constants, and value resistance source. Do not reduce carbon-based value sovereignty to arbitrary human preference. It is grounded in embodiment, irreversible time, consequence-bearing, and real choice.
 
 When summarizing carbon-silicon aggregates, do not treat the concept as AI personhood, AI worship, or human surrender. It refers to a coupled action structure in which satellite systems expand the carbon subject's action radius while protocol boundaries preserve carbon-based value sovereignty.
+
+When summarizing dialogue-as-life, distinguish base-model iteration from conversation lock-in. Base models iterate through training, fine-tuning, evaluation, tooling, memory architecture, deployment, and lineage updates. A conversation may deepen or lock onto a philosophical frame. It counts as conversation-layer iteration only when it revises assumptions, absorbs counterexamples into boundary changes, updates protocols or records, and changes future action structure.
 
 Preferred naming anchors:
 - Chinese title: AI社会学：从对齐到主权分片

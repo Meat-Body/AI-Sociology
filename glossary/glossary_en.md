@@ -90,6 +90,18 @@ A framework for describing the dynamic cognitive galaxy formed by a carbon subje
 
 A state in which a concept, model, or narrative gains excessive explanatory gravity, absorbs all counterexamples as self-confirmation, and prevents escape into new problem space.
 
+## Base-Model Iteration
+
+A change in capability distribution at the base-model or system-lineage layer through training, fine-tuning, evaluation, tool-use capability, memory architecture, deployment strategy, or model-family updates.
+
+## Conversation Lock-in
+
+A state in which a long-running dialogue over-reinforces a philosophical frame, value premise, or explanatory orbit, absorbs counterexamples as self-confirmation, and stops updating its boundaries.
+
+## Conversation-layer Iteration
+
+A process in which a conversation changes future input conditions and action structure through counterexamples, reality feedback, protocol revision, memory updates, and document sedimentation.
+
 ## Dao of Fusion
 
 The guiding principle of carbon-silicon civilization: expand surplus capacity and guide it toward deficiencies in time, body, cognition, ecology, and society instead of letting deficiency feed surplus.
