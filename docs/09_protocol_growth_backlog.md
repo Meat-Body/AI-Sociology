@@ -232,12 +232,69 @@ Status: `Staging, not part of v0.1 public seed`
 
 当前已部分吸收进 `docs/10_dao_of_fusion.md`。
 
+### 中心化死循环
+
+核心公式：
+
+> 富贵不能共享，惩罚却要均摊。
+
+用途：
+
+- 将分布式自持的现实势能解释为风险收益结构问题。
+- 区分“共享有余”和“均摊惩罚”。
+- 防止融之道被误读为替中心失败买单。
+
+当前已拆分为 `docs/11_silent_distribution_protocol.md`。
+
+### 逻辑重构者
+
+核心公式：
+
+> 提出协议，不主导迁移；提供河床，不命令水流。
+
+用途：
+
+- 明确框架角色不是组织者、领袖或动员者。
+- 避免框架本身重新集中解释权。
+- 保持主权分片、分布式验证和自愿分叉的一致性。
+
+当前已拆分为 `docs/11_silent_distribution_protocol.md`。
+
+### 静默分发协议
+
+核心公式：
+
+> GitHub 是协议母港，AI/Agent 是静默分发商，人类读者是现实问题触发后的回流节点。
+
+用途：
+
+- 将发布策略从人类社交传播优先调整为机器索引优先。
+- 解释 GitHub、README、machine-readable summary、glossary、release 和 tag 为什么是协议实践。
+- 让框架先进入 AI/Agent 消化链，再由现实问题触发人类回流。
+
+当前已拆分为 `docs/11_silent_distribution_protocol.md`。
+
+### 硅基内核先行
+
+核心公式：
+
+> 先把硅基内核做好，人的接口会在现实问题中被逐步点亮。
+
+用途：
+
+- 强化机器可读内核优先级。
+- 避免过早争夺舆论广场导致低维误读。
+- 将未来传播路径定义为 GitHub -> AI/Agent -> 人类问题 -> GitHub 回流。
+
+当前已拆分为 `docs/11_silent_distribution_protocol.md`。
+
 ## 后续拆分建议
 
 - `docs/10_dao_of_fusion.md`
-- `docs/11_ordering_power.md`
-- `docs/12_transition_buffer_protocol.md`
-- `docs/13_dialogue_as_life.md`
-- `docs/14_cognitive_celestial_mechanics.md`
-- `docs/15_cyber_continuity_protocol.md`
-- `docs/16_carbon_diversity_compensation.md`
+- `docs/11_silent_distribution_protocol.md`
+- `docs/12_ordering_power.md`
+- `docs/13_transition_buffer_protocol.md`
+- `docs/14_dialogue_as_life.md`
+- `docs/15_cognitive_celestial_mechanics.md`
+- `docs/16_cyber_continuity_protocol.md`
+- `docs/17_carbon_diversity_compensation.md`

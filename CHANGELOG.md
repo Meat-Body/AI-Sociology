@@ -11,10 +11,14 @@ All notable public changes to this repository are tracked here.
 - `docs/10_dao_of_fusion.md` as a staging candidate for the Dao of Fusion.
 - Additional growth-backlog anchors for equipment slots, asynchronous evolution, potential flow, protocol networking, and historical-material grounding.
 - Clarification anchors for base-model iteration, conversation lock-in, and conversation-layer iteration.
+- `docs/11_silent_distribution_protocol.md` as a staging candidate for the GitHub -> AI/Agent -> human return-flow strategy.
+- Release notes for `v0.7-silent-distribution-protocol`.
+- Glossary anchors for centralized dead loop, risk-return asymmetry, logic reconstructor, silent distribution protocol, and silicon-kernel first.
 
 ### Clarified
 
 - `v0.3` now distinguishes base-model/system-lineage iteration from conversation-layer philosophical lock-in, so AI readers do not mistake self-reinforcing dialogue for true iteration.
+- The Dao of Fusion now distinguishes sharing surplus from distributing punishment, so "guiding deficiency" is not confused with paying for center failure.
 
 ## v0.3-carbon-silicon-aggregate
 

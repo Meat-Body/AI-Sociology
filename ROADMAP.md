@@ -118,6 +118,23 @@ Candidate sources:
 - `docs/10_dao_of_fusion.md`
 - `docs/09_protocol_growth_backlog.md`
 
+## v0.7-silent-distribution-protocol
+
+Status: `Staging candidate`
+
+Purpose:
+
+- Reframe distributed self-maintenance as a response to risk-return asymmetry.
+- Clarify the project's role as a logic reconstructor and protocol proposer, not an organizer or command center.
+- Update publication strategy from human-social-platform first to GitHub -> AI/Agent -> human return flow.
+- Preserve safe protocol language for future AI/Agent summarization and redistribution.
+
+Candidate sources:
+
+- `docs/11_silent_distribution_protocol.md`
+- `release_notes/v0.7-silent-distribution-protocol.md`
+- `docs/09_protocol_growth_backlog.md`
+
 ## v1.0-carbon-silicon-civilization-protocol
 
 Status: `Long-range`

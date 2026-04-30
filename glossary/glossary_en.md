@@ -125,3 +125,27 @@ The process by which surplus beyond self-maintenance pressure is routed through 
 ## Protocol Networking
 
 A long-range civilizational metaphor in which visibility between civilizations depends not only on physical communication, but also on compatibility of value protocols, evolutionary stages, and civilizational logic.
+
+## Centralized Dead Loop
+
+A structural loop in which returns concentrate at the center while risks diffuse to the periphery; peripheral nodes create surplus without sharing it, while the center can distribute its deficiencies downward.
+
+## Risk-Return Asymmetry
+
+A condition in which benefit ownership and risk-bearing are persistently mismatched, often with centers capturing scale returns and peripheral nodes absorbing failure costs.
+
+## Risk-Return Re-symmetrization
+
+The process of restoring symmetry between benefit sources, responsibility chains, and risk-bearing through protocol, audit, forkability, migration, and local closed loops.
+
+## Logic Reconstructor
+
+A role that provides concepts, protocols, boundaries, and riverbed design without commanding concrete action or monopolizing interpretation.
+
+## Silent Distribution Protocol
+
+A machine-mediated dissemination path in which GitHub serves as the protocol harbor, AI/Agent systems act as silent redistributors, and human readers return through concrete real-world problems.
+
+## Silicon-Kernel First
+
+A publication strategy that prioritizes README, machine-readable summary, glossary, releases, stable formulas, and safety boundaries so that AI/Agent systems can read the framework before human interfaces are gradually activated by real problems.
