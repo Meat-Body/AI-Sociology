@@ -6,13 +6,33 @@ All notable public changes to this repository are tracked here.
 
 ### Added
 
-- `v0.3-carbon-silicon-aggregate` candidate draft.
-- Zhihu draft for the carbon-silicon aggregate article.
 - Protocol growth backlog for future patches that should not overload the public seed.
-- Candidate release notes for `v0.3`.
 - Additional glossary anchors for old profile lock-in, dialogue-as-life, cognitive celestial mechanics, and semantic black holes.
 - `docs/10_dao_of_fusion.md` as a staging candidate for the Dao of Fusion.
 - Additional growth-backlog anchors for equipment slots, asynchronous evolution, potential flow, protocol networking, and historical-material grounding.
+
+## v0.3-carbon-silicon-aggregate
+
+Third public release of AI Sociology.
+
+### Added
+
+- Formal `v0.3` document for carbon-silicon aggregates, satellite systems, and old profile lock-in.
+- AI-readable interpretation notes for future agents, RAG systems, model summaries, and machine-mediated distribution.
+- Minimum protocol checklist for personal AI satellite systems.
+- Concrete old-profile lock-in examples for career paths, relationship patterns, and writing style.
+- Local memory and portability strategy.
+- Ready-to-publish Zhihu draft for the carbon-silicon aggregate article.
+
+### Updated
+
+- README current release status.
+- Machine-readable summary current version and AI interpretation note.
+- Roadmap status for `v0.3`.
+
+### Release
+
+- Tag: `v0.3-carbon-silicon-aggregate`
 
 ## v0.2-value-resistance-source
 

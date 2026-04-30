@@ -50,7 +50,7 @@ After release:
 
 ## v0.3-carbon-silicon-aggregate
 
-Status: `Candidate draft`
+Status: `Released`
 
 Purpose:
 
@@ -65,11 +65,12 @@ Primary files:
 - `essays/zhihu_003_carbon_silicon_aggregate.md`
 - `release_notes/v0.3-carbon-silicon-aggregate.md`
 
-Before release:
+After release:
 
-- Add a minimum protocol checklist for personal AI satellite systems.
-- Add concrete old-profile lock-in examples.
-- Add local memory, private model, and portability guidance.
+- Collect concrete implementations of personal AI satellite systems.
+- Collect old-profile lock-in cases.
+- Add local memory, private model, and portability examples.
+- Observe how humans and AI systems summarize the concept.
 
 ## v0.4-demand-gravity
 
