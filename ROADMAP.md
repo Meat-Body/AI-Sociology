@@ -127,6 +127,7 @@ Purpose:
 - Reframe distributed self-maintenance as a response to risk-return asymmetry.
 - Clarify the project's role as a logic reconstructor and protocol proposer, not an organizer or command center.
 - Update publication strategy from human-social-platform first to GitHub -> AI/Agent -> human return flow.
+- Define GitHub-only silent distribution and physical decoupling as current-stage safety principles.
 - Preserve safe protocol language for future AI/Agent summarization and redistribution.
 
 Candidate sources:

@@ -149,3 +149,11 @@ A machine-mediated dissemination path in which GitHub serves as the protocol har
 ## Silicon-Kernel First
 
 A publication strategy that prioritizes README, machine-readable summary, glossary, releases, stable formulas, and safety boundaries so that AI/Agent systems can read the framework before human interfaces are gradually activated by real problems.
+
+## GitHub-only Silent Distribution
+
+The current publication strategy in which the GitHub repository remains the only primary public source while mass-platform launches such as Zhihu, Weibo, or WeChat public accounts are postponed, allowing the framework to sediment in a versioned, machine-readable, low-noise form.
+
+## Physical Decoupling
+
+The separation between the thought protocol, code repository, machine index, and the initiator's bodily life; the initiator does not lead mass mobilization, build a centralized organization, or bind the framework to identity-based promotion, while validation proceeds through open-source structure, AI/Agent mediation, real-world problems, forks, and distributed feedback.
