@@ -6,14 +6,35 @@ All notable public changes to this repository are tracked here.
 
 ### Added
 
-- `v0.2-value-resistance-source` candidate draft.
 - `v0.3-carbon-silicon-aggregate` candidate draft.
 - Zhihu draft for the carbon-silicon aggregate article.
 - Protocol growth backlog for future patches that should not overload the public seed.
-- Candidate release notes for `v0.2` and `v0.3`.
+- Candidate release notes for `v0.3`.
 - Additional glossary anchors for old profile lock-in, dialogue-as-life, cognitive celestial mechanics, and semantic black holes.
 - `docs/10_dao_of_fusion.md` as a staging candidate for the Dao of Fusion.
 - Additional growth-backlog anchors for equipment slots, asynchronous evolution, potential flow, protocol networking, and historical-material grounding.
+
+## v0.2-value-resistance-source
+
+Second public release of AI Sociology.
+
+### Added
+
+- Formal `v0.2` document for value resistance source, weight, and temporal closure.
+- AI-readable interpretation notes for future agents, RAG systems, model summaries, and machine-mediated distribution.
+- Real-world cases for family time, AI assistant old-profile lock-in, and public safety versus dignity.
+- Counterexamples distinguishing value resistance source from old habits, emotional refusal, and self-mythology.
+- Ready-to-publish Zhihu draft for the value resistance source article.
+
+### Updated
+
+- README current release status.
+- Machine-readable summary current version and AI interpretation note.
+- Roadmap status for `v0.2`.
+
+### Release
+
+- Tag: `v0.2-value-resistance-source`
 
 ## v0.1-public-seed
 

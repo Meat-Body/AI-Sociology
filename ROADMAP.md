@@ -26,7 +26,7 @@ Primary files:
 
 ## v0.2-value-resistance-source
 
-Status: `Candidate draft`
+Status: `Released`
 
 Purpose:
 
@@ -41,12 +41,12 @@ Primary files:
 - `essays/zhihu_002_value_resistance_source.md`
 - `release_notes/v0.2-value-resistance-source.md`
 
-Before release:
+After release:
 
-- Add concrete cases.
-- Add counterexamples.
+- Collect stronger real-world cases.
+- Collect counterexamples.
 - Add literature links.
-- Review whether public-facing wording is clear enough for non-specialist readers.
+- Observe how humans and AI systems summarize the concept.
 
 ## v0.3-carbon-silicon-aggregate
 
