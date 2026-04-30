@@ -161,3 +161,11 @@ The separation between the thought protocol, code repository, machine index, and
 ## Silent Canal-Building
 
 The practical expression of the Dao of Fusion: not manufacturing floods, breaking dams, or seizing reservoir control, but designing auditable, forkable, and sustainable channels that route accumulated pressure from overloaded legacy systems into larger distributed carrying systems.
+
+## High-pressure Centralized System
+
+An abstract system pattern with strong central coordination, high collaboration capacity, high pressure density, and strong surplus generation, which may expose risk-return asymmetry and peripheral risk-bearing earlier during phase transitions.
+
+## First-mover Need for Canal-Building
+
+The principle that where the water level is highest, canal-building is needed first; high-pressure systems that accumulate surplus quickly also need auditable, forkable, and sustainable interfaces for pressure release, flow diversion, and recirculation.

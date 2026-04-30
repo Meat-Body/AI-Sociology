@@ -16,6 +16,8 @@ All notable public changes to this repository are tracked here.
 - Glossary anchors for centralized dead loop, risk-return asymmetry, logic reconstructor, silent distribution protocol, and silicon-kernel first.
 - GitHub-only silent distribution and physical decoupling as current-stage distribution safety principles.
 - Silent canal-building as the practical safety expression of the Dao of Fusion and GitHub-only distribution.
+- High-pressure centralized systems and first-mover need for canal-building as abstract, non-country-specific system-pattern anchors.
+- Public seed distribution note updated to GitHub-only silent distribution.
 
 ### Clarified
 

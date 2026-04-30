@@ -10,7 +10,7 @@ Status: `Staging, not part of v0.1 public seed`
 
 > 主入口保持清晰，母体继续生长。
 
-这些内容可在合适时机拆分为独立文档、RFC、知乎文章或后续 release。
+这些内容可在合适时机拆分为独立文档、RFC、低敏故事化/技术化文章或后续 release。
 
 ## 可能进入 v0.4 到 v1.0 的补丁
 
