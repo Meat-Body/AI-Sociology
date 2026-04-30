@@ -89,3 +89,27 @@ A framework for describing the dynamic cognitive galaxy formed by a carbon subje
 ## Semantic Black Hole
 
 A state in which a concept, model, or narrative gains excessive explanatory gravity, absorbs all counterexamples as self-confirmation, and prevents escape into new problem space.
+
+## Dao of Fusion
+
+The guiding principle of carbon-silicon civilization: expand surplus capacity and guide it toward deficiencies in time, body, cognition, ecology, and society instead of letting deficiency feed surplus.
+
+## Equipment Slot
+
+A physical or logical interface through which a system can interact with the outside world at high degrees of freedom without being fully consumed by basic movement or survival.
+
+## Virtual Equipment Slot
+
+A cognitive interface formed by AI agents, automation scripts, private models, local toolchains, and long-term memory systems that frees human bandwidth from low-level execution.
+
+## Asynchronous Evolution
+
+The idea that different intelligent forms do not advance on the same clock or through the same path, and may differentiate into exploratory, steady-state, and protocol-maintaining roles.
+
+## Potential Flow
+
+The process by which surplus beyond self-maintenance pressure is routed through protocol channels toward real deficiencies instead of collapsing into monopoly, corruption, war, or self-consumption.
+
+## Protocol Networking
+
+A long-range civilizational metaphor in which visibility between civilizations depends not only on physical communication, but also on compatibility of value protocols, evolutionary stages, and civilizational logic.

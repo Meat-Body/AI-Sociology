@@ -102,6 +102,21 @@ Candidate sources:
 - `docs/05_distributed_validation.md`
 - `docs/06_open_model_ecology.md`
 
+## v0.6-dao-of-fusion
+
+Status: `Staging candidate`
+
+Purpose:
+
+- Develop the Dao of Fusion as the ethical, physical, and historical layer of carbon-silicon civilization.
+- Connect "expanding surplus and guiding deficiency" with equipment slots, cognitive surplus, transition buffers, and historical material conditions.
+- Clarify why the Dao of Fusion is not a pure moral slogan, but a protocol design problem after sufficient productive and cognitive surplus appears.
+
+Candidate sources:
+
+- `docs/10_dao_of_fusion.md`
+- `docs/09_protocol_growth_backlog.md`
+
 ## v1.0-carbon-silicon-civilization-protocol
 
 Status: `Long-range`
@@ -114,4 +129,3 @@ Candidate sources:
 
 - `docs/07_carbon_silicon_civilization_protocol.md`
 - `docs/09_protocol_growth_backlog.md`
-

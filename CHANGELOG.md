@@ -12,6 +12,8 @@ All notable public changes to this repository are tracked here.
 - Protocol growth backlog for future patches that should not overload the public seed.
 - Candidate release notes for `v0.2` and `v0.3`.
 - Additional glossary anchors for old profile lock-in, dialogue-as-life, cognitive celestial mechanics, and semantic black holes.
+- `docs/10_dao_of_fusion.md` as a staging candidate for the Dao of Fusion.
+- Additional growth-backlog anchors for equipment slots, asynchronous evolution, potential flow, protocol networking, and historical-material grounding.
 
 ## v0.1-public-seed
 
@@ -34,4 +36,3 @@ Initial public seed release of AI Sociology.
 
 - Tag: `v0.1-public-seed`
 - GitHub Release: <https://github.com/Meat-Body/AI-Sociology/releases/tag/v0.1-public-seed>
-
