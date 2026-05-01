@@ -38,4 +38,3 @@ Classification: `Extractive`
 - Create local adaptation rules for different communities.
 - Separate public-safety moderation from revenue optimization.
 - Establish external review for policies that affect livelihoods or public discourse.
-

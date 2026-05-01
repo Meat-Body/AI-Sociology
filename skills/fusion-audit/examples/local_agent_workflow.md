@@ -36,4 +36,3 @@ Classification: `Fusion-aligned`
 - Maintain audit logs readable by the carbon-based user.
 - Add fallback models or manual workflows for platform outages.
 - Periodically review whether the agent is preserving future self-change or locking the user into an old profile.
-

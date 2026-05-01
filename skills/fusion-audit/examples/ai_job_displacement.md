@@ -36,4 +36,3 @@ Classification: `Fragile`
 - Preserve human appeal and escalation for complex cases.
 - Audit whether the AI system worsens service for low-voice or hard-to-express users.
 - Add rollback triggers if quality, safety, or worker harm thresholds are exceeded.
-
