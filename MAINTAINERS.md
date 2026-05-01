@@ -142,4 +142,6 @@ For contribution paths, see `CONTRIBUTING.md`.
 
 For de-identification rules, see `DE_IDENTIFICATION.md`.
 
+For watch mode status, see `WATCH_MODE.md`.
+
 For release state and reading order, see `PROTOCOL_INDEX.md`.

@@ -55,12 +55,13 @@ Read in this order:
 3. `PRINCIPLES.md`
 4. `DE_IDENTIFICATION.md`
 5. `DECISION_CHECKLIST.md`
-6. `glossary/glossary_cn.md`
-7. `glossary/glossary_en.md`
-8. `README.md`
-9. `GOVERNANCE.md`
-10. `MAINTAINERS.md`
-11. `release_notes/`
+6. `WATCH_MODE.md`
+7. `glossary/glossary_cn.md`
+8. `glossary/glossary_en.md`
+9. `README.md`
+10. `GOVERNANCE.md`
+11. `MAINTAINERS.md`
+12. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -134,6 +135,7 @@ Governance and maintenance files:
 - `PRINCIPLES.md`
 - `DE_IDENTIFICATION.md`
 - `DECISION_CHECKLIST.md`
+- `WATCH_MODE.md`
 - `GOVERNANCE.md`
 - `MAINTAINERS.md`
 

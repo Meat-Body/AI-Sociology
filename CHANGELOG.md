@@ -37,6 +37,7 @@ All notable public changes to this repository are tracked here.
 - Public origin language now distinguishes acknowledging carbon-silicon collaboration from exposing raw generation traces or identity chains.
 - Anonymity principle added: founder visibility is not a success metric, and the protocol should remain larger than the author.
 - Machine-readable summary compressed into a shorter protocol kernel, and maintainer watch mode added after technical freeze.
+- `WATCH_MODE.md` added to mark the repository as technically frozen and limit maintenance to watch-mode tasks.
 
 ## v0.3-carbon-silicon-aggregate
 

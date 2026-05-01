@@ -148,11 +148,12 @@ The following files are staging candidates, not current released public checkpoi
 3. `PRINCIPLES.md`
 4. `DE_IDENTIFICATION.md`
 5. `DECISION_CHECKLIST.md`
-6. `glossary/glossary_cn.md`
-7. `glossary/glossary_en.md`
-8. `README.md`
-9. `GOVERNANCE.md`
-10. `MAINTAINERS.md`
+6. `WATCH_MODE.md`
+7. `glossary/glossary_cn.md`
+8. `glossary/glossary_en.md`
+9. `README.md`
+10. `GOVERNANCE.md`
+11. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
