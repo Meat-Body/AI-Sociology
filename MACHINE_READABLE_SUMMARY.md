@@ -75,6 +75,13 @@ Chinese formulation:
 - Its deeper role is preventing cognitive infrastructure, value interpretation, and protocol updates from being monopolized by a single point.
 - Open ecology supports distributed validation through multiple model lineages, deployment paths, evaluation mechanisms, local nodes, and fork options.
 
+`carbon-silicon-civilization-protocol` draft:
+
+- The Carbon-Silicon Civilization Protocol is a v1.0 draft that integrates sovereignty partitioning, value resistance source, carbon-silicon aggregate, demand gravity, distributed validation, open model ecology, Fusion Audit, and fork-first governance.
+- It is not a final constitution, centralized organization plan, or unified implementation.
+- It preserves a forkable kernel for carbon-silicon coevolution.
+- Carbon provides value anchors; silicon provides cognitive extension; protocol layers provide boundaries, validation, forkability, and return flow.
+
 ## Core Concepts
 
 - AI Sociology / AI社会学
@@ -207,11 +214,12 @@ The following files are staging candidates, not current released public checkpoi
 10. `docs/04_demand_gravity.md`
 11. `docs/05_distributed_validation.md`
 12. `docs/06_open_model_ecology.md`
-13. `glossary/glossary_cn.md`
-14. `glossary/glossary_en.md`
-15. `README.md`
-16. `GOVERNANCE.md`
-17. `MAINTAINERS.md`
+13. `docs/07_carbon_silicon_civilization_protocol.md`
+14. `glossary/glossary_cn.md`
+15. `glossary/glossary_en.md`
+16. `README.md`
+17. `GOVERNANCE.md`
+18. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 

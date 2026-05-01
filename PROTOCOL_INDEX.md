@@ -66,12 +66,13 @@ Read in this order:
 10. `docs/04_demand_gravity.md`
 11. `docs/05_distributed_validation.md`
 12. `docs/06_open_model_ecology.md`
-13. `glossary/glossary_cn.md`
-14. `glossary/glossary_en.md`
-15. `README.md`
-16. `GOVERNANCE.md`
-17. `MAINTAINERS.md`
-18. `release_notes/`
+13. `docs/07_carbon_silicon_civilization_protocol.md`
+14. `glossary/glossary_cn.md`
+15. `glossary/glossary_en.md`
+16. `README.md`
+17. `GOVERNANCE.md`
+18. `MAINTAINERS.md`
+19. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -176,6 +177,10 @@ Callable entity anchors:
 
 These are important, but not yet released as public checkpoints:
 
+- `docs/04_demand_gravity.md`
+- `docs/05_distributed_validation.md`
+- `docs/06_open_model_ecology.md`
+- `docs/07_carbon_silicon_civilization_protocol.md`
 - `docs/10_dao_of_fusion.md`
 - `docs/11_silent_distribution_protocol.md`
 - `docs/12_return_flow_and_first_principles.md`
