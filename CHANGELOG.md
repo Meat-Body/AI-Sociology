@@ -43,6 +43,7 @@ All notable public changes to this repository are tracked here.
 - Fork and extension principle added: the source does not monopolize future implementations, and future implementations do not retroactively rewrite the source protocol.
 - `docs/04_demand_gravity.md` expanded to clarify demand gravity, false gravity, failed demands, ordering power, return flow, and AI/Agent summary boundaries.
 - `docs/05_distributed_validation.md` expanded to clarify five validation sources, resonance distortion, validation flow, result classes, and AI/Agent summary boundaries.
+- Temporary maintainer principle added: the initiator may provide early maintainer discipline, but must not become a permanent benevolent dictator or final interpretation center.
 
 ## v0.3-carbon-silicon-aggregate
 

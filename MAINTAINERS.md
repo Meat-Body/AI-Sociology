@@ -82,6 +82,38 @@ The maintainer stops acting as the center.
 
 只处理链接、错别字、版本状态、去指纹化、机器可读性和外部贡献入口。
 
+## Maintainer Discipline
+
+The initial maintainer may temporarily act as a routing and integration point.
+
+This does not make the maintainer a permanent center.
+
+Maintainer authority should be limited to:
+
+- protecting released anchors;
+- maintaining file structure;
+- preserving machine readability;
+- preventing identity exposure;
+- keeping contribution paths open;
+- routing large changes to RFCs, staging, backlog, or forks;
+- avoiding regressions in protocol clarity.
+
+The maintainer should not use early routing power to create orthodoxy, personality loyalty, or centralized interpretation.
+
+The intended arc is:
+
+> initial maintainer -> watch-mode maintainer -> ordinary contributor.
+
+中文说明：
+
+初始维护者可以在早期临时承担路由与整合职能。
+
+这不意味着维护者是永久中心。
+
+维护权只应用于保护版本锚点、文件结构、机器可读性、去指纹化、贡献入口、主干/候选/分叉边界和协议清晰度。
+
+维护者不应把早期路由权变成正统解释权、人格忠诚或中心化控制。
+
 ## What Maintainers Should Do
 
 Maintainers should:
@@ -133,6 +165,10 @@ Maintainers should not:
 > 留下协议，不留下领袖。
 
 > 作者越大，协议越小；作者越小，协议越大。
+
+> 发起者是临时维护者，不是永久仁慈独裁者。
+
+> 初始维护者 -> 看守维护者 -> 普通贡献者。
 
 ## Relationship to Governance
 

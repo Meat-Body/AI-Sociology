@@ -171,7 +171,25 @@ The completion of the initial anchor is when the gravity field no longer depends
 
 > 修渠者不应站在水中央。
 
-## 15. Dialogue-flow Decentering
+## 15. Maintainer Discipline Without Permanent Center
+
+The initiator may temporarily act as a maintainer while the protocol source is being stabilized.
+
+This is not a claim to permanent authority.
+
+Maintenance should protect release anchors, machine readability, de-identification, contribution paths, and protocol clarity.
+
+It should not create a permanent merge center, personality center, or final interpretive authority.
+
+The intended arc is:
+
+> initial maintainer -> watch-mode maintainer -> ordinary contributor.
+
+中文压缩：
+
+> 发起者是临时维护者，不是永久仁慈独裁者。
+
+## 16. Dialogue-flow Decentering
 
 This protocol was generated through carbon-silicon collaboration.
 
@@ -183,7 +201,7 @@ Future human nodes should be able to reactivate the protocol with new AI/Agent s
 
 > 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
 
-## 16. Interpretation Boundaries
+## 17. Interpretation Boundaries
 
 Do not interpret this project as:
 

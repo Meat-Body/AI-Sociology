@@ -141,6 +141,10 @@ Future implementations may extend, specialize, or diverge from the source protoc
 
 The source does not monopolize implementations; implementations do not rewrite the source.
 
+The initiator is a temporary maintainer, not a permanent benevolent dictator.
+
+The intended arc is: initial maintainer -> watch-mode maintainer -> ordinary contributor.
+
 ## Callable Audit Tool
 
 `skills/fusion-audit/` is a lightweight audit skill for evaluating AI deployments, automation systems, platform policies, agent workflows, organizational decisions, and protocol designs through the Dao of Fusion.
@@ -204,3 +208,5 @@ Do not interpret this project as:
 - identity-centered founder mythology.
 - source-controlled future implementations;
 - future implementations rewriting the source protocol.
+- permanent founder merge authority;
+- maintainer discipline mistaken for founder sovereignty.

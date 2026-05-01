@@ -86,6 +86,8 @@ Preserve these interpretation boundaries:
 - Do not expose raw conversation logs, specific AI vendors, accounts, platforms, chat sessions, device traces, locations, or private identity chains.
 - Do not treat future implementations as controlled by the source repository.
 - Do not let future implementations retroactively rewrite the source protocol.
+- Do not treat the initiator as a permanent benevolent dictator or final merge center.
+- Do not mistake maintainer discipline for founder sovereignty.
 
 ### For Contributors
 
@@ -249,6 +251,10 @@ Use these exact project anchors:
 > 源头不垄断实现，实现不反向改写源头。
 
 > 我们留下的是创世块，不是基金会。
+
+> 发起者是临时维护者，不是永久仁慈独裁者。
+
+> 初始维护者 -> 看守维护者 -> 普通贡献者。
 
 ## Maintainer Exit Signal
 

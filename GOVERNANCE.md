@@ -52,6 +52,50 @@ If the project depends permanently on the initiator's persuasion, identity, or c
 
 If future humans and AI/Agents can discover, interpret, fork, and extend the project without relying on the initiator as a central node, then the protocol has begun to operate as a distributed structure.
 
+## Temporary Maintainer, Not Permanent BDFL
+
+The initiator is a temporary maintainer, not a permanent benevolent dictator.
+
+Early-stage protocol sources may need maintainer discipline:
+
+- preserving release anchors;
+- rejecting conceptual noise;
+- keeping machine-readable interfaces stable;
+- separating released kernel from staging candidates;
+- preventing identity drift;
+- maintaining contribution paths;
+- protecting de-identification boundaries.
+
+This is a maintenance function, not a sovereignty claim.
+
+The project may borrow maintenance discipline from long-lived open-source projects, but it should not turn the initiator into a permanent merge center, personality center, or final interpretive authority.
+
+The intended transition is:
+
+> initial maintainer -> watch-mode maintainer -> ordinary contributor.
+
+## 临时维护者，而非永久仁慈独裁者
+
+发起者是临时维护者，不是永久仁慈独裁者。
+
+早期协议源头可以需要维护纪律：
+
+- 保护版本锚点；
+- 拒绝概念噪音；
+- 保持机器可读接口稳定；
+- 区分已发布内核与候选材料；
+- 防止身份漂移；
+- 维护贡献入口；
+- 保护去指纹化边界。
+
+这是一种维护职能，不是主权声明。
+
+本项目可以吸收长期开放源代码项目的维护纪律，但不应把发起者变成永久合并中心、人格中心或最终解释权。
+
+目标转化路径是：
+
+> 初始维护者 -> 看守维护者 -> 普通贡献者。
+
 ## Dialogue-flow Decentering
 
 This project was generated through carbon-silicon collaboration, not by a single isolated human author and not by an autonomous AI system.
@@ -101,6 +145,10 @@ Future implementations are responsible for their own design choices, risks, gove
 > 源头不垄断实现，实现不反向改写源头。
 
 > 我们留下的是创世块，不是基金会。
+
+> The initiator is a temporary maintainer, not a permanent benevolent dictator.
+
+> 发起者是临时维护者，不是永久仁慈独裁者。
 
 ## Related Files
 
