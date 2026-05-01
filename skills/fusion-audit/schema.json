@@ -1,0 +1,243 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Fusion Audit",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "system_name",
+    "system_summary",
+    "surplus_created",
+    "insufficiency_addressed",
+    "surplus_capture_nodes",
+    "externality_bearers",
+    "buffer_mechanisms",
+    "ordering_power",
+    "sovereignty_partition",
+    "return_flow",
+    "scores",
+    "total_score",
+    "classification",
+    "recommended_revisions",
+    "remaining_risks"
+  ],
+  "properties": {
+    "system_name": {
+      "type": "string"
+    },
+    "system_summary": {
+      "type": "string"
+    },
+    "surplus_created": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "insufficiency_addressed": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "surplus_capture_nodes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "externality_bearers": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "buffer_mechanisms": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "translation_layer",
+        "migration_window",
+        "retraining_path",
+        "compensation",
+        "appeal_channel",
+        "local_adaptation",
+        "rollback_path"
+      ],
+      "properties": {
+        "translation_layer": {
+          "type": "boolean"
+        },
+        "migration_window": {
+          "type": "boolean"
+        },
+        "retraining_path": {
+          "type": "boolean"
+        },
+        "compensation": {
+          "type": "boolean"
+        },
+        "appeal_channel": {
+          "type": "boolean"
+        },
+        "local_adaptation": {
+          "type": "boolean"
+        },
+        "rollback_path": {
+          "type": "boolean"
+        }
+      }
+    },
+    "ordering_power": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "decision_maker",
+        "auditable",
+        "contestable",
+        "forkable",
+        "locally_adjustable"
+      ],
+      "properties": {
+        "decision_maker": {
+          "type": "string"
+        },
+        "auditable": {
+          "type": "boolean"
+        },
+        "contestable": {
+          "type": "boolean"
+        },
+        "forkable": {
+          "type": "boolean"
+        },
+        "locally_adjustable": {
+          "type": "boolean"
+        }
+      }
+    },
+    "sovereignty_partition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "carbon_value_sovereignty",
+        "silicon_cognitive_extension",
+        "protocol_auditability",
+        "kill_switch",
+        "local_override",
+        "data_portability"
+      ],
+      "properties": {
+        "carbon_value_sovereignty": {
+          "type": "boolean"
+        },
+        "silicon_cognitive_extension": {
+          "type": "boolean"
+        },
+        "protocol_auditability": {
+          "type": "boolean"
+        },
+        "kill_switch": {
+          "type": "boolean"
+        },
+        "local_override": {
+          "type": "boolean"
+        },
+        "data_portability": {
+          "type": "boolean"
+        }
+      }
+    },
+    "return_flow": {
+      "type": "string"
+    },
+    "scores": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "surplus_creation",
+        "insufficiency_alignment",
+        "return_flow",
+        "negative_externality_audit",
+        "buffer_protocol",
+        "ordering_power_fairness",
+        "sovereignty_partition",
+        "forkability",
+        "long_term_adaptability"
+      ],
+      "properties": {
+        "surplus_creation": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "insufficiency_alignment": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "return_flow": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "negative_externality_audit": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "buffer_protocol": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "ordering_power_fairness": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "sovereignty_partition": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "forkability": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "long_term_adaptability": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 5
+        }
+      }
+    },
+    "total_score": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 45
+    },
+    "classification": {
+      "type": "string",
+      "enum": [
+        "Extractive",
+        "Fragile",
+        "Transitional",
+        "Fusion-aligned"
+      ]
+    },
+    "recommended_revisions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "remaining_risks": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
+

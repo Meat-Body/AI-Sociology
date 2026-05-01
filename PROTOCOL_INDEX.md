@@ -57,13 +57,14 @@ Read in this order:
 4. `DE_IDENTIFICATION.md`
 5. `DECISION_CHECKLIST.md`
 6. `WATCH_MODE.md`
-7. `docs/01_sovereignty_partitioning.md`
-8. `glossary/glossary_cn.md`
-9. `glossary/glossary_en.md`
-10. `README.md`
-11. `GOVERNANCE.md`
-12. `MAINTAINERS.md`
-13. `release_notes/`
+7. `skills/fusion-audit/SKILL.md`
+8. `docs/01_sovereignty_partitioning.md`
+9. `glossary/glossary_cn.md`
+10. `glossary/glossary_en.md`
+11. `README.md`
+12. `GOVERNANCE.md`
+13. `MAINTAINERS.md`
+14. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -141,6 +142,13 @@ Governance and maintenance files:
 - `WATCH_MODE.md`
 - `GOVERNANCE.md`
 - `MAINTAINERS.md`
+
+Callable entity anchors:
+
+- `skills/fusion-audit/SKILL.md`
+- `skills/fusion-audit/checklist.md`
+- `skills/fusion-audit/schema.json`
+- `skills/fusion-audit/examples/`
 
 ### Staging Candidates
 

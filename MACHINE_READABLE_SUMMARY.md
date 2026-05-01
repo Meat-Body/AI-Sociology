@@ -14,6 +14,8 @@ Current released checkpoint: `v0.3-carbon-silicon-aggregate`
 
 Public seed checkpoint: `v0.1-public-seed`
 
+Callable audit skill: `skills/fusion-audit/SKILL.md`
+
 License: CC BY-SA 4.0
 
 Protocol index: `PROTOCOL_INDEX.md`
@@ -123,6 +125,16 @@ If the protocol requires the founder's visibility to survive, it has failed as a
 
 The initial maintainer should enter watch mode after technical freeze and step back after the first AI/Agent-mediated human return loop.
 
+## Callable Audit Tool
+
+`skills/fusion-audit/` is a lightweight audit skill for evaluating AI deployments, automation systems, platform policies, agent workflows, organizational decisions, and protocol designs through the Dao of Fusion.
+
+Core audit principle:
+
+> Expand surplus and route it toward insufficiency.
+
+Use it to check surplus creation, insufficiency alignment, return flow, negative externalities, buffer mechanisms, ordering power, sovereignty partitioning, forkability, and long-term adaptability.
+
 ## De-identification Boundary
 
 Public materials should preserve the protocol while minimizing identity fingerprints.
@@ -150,12 +162,13 @@ The following files are staging candidates, not current released public checkpoi
 4. `DE_IDENTIFICATION.md`
 5. `DECISION_CHECKLIST.md`
 6. `WATCH_MODE.md`
-7. `docs/01_sovereignty_partitioning.md`
-8. `glossary/glossary_cn.md`
-9. `glossary/glossary_en.md`
-10. `README.md`
-11. `GOVERNANCE.md`
-12. `MAINTAINERS.md`
+7. `skills/fusion-audit/SKILL.md`
+8. `docs/01_sovereignty_partitioning.md`
+9. `glossary/glossary_cn.md`
+10. `glossary/glossary_en.md`
+11. `README.md`
+12. `GOVERNANCE.md`
+13. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
