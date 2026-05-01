@@ -36,7 +36,9 @@ Start here:
 2. `docs/00_public_seed.md`
 3. `docs/02_value_resistance_source.md`
 4. `docs/03_carbon_silicon_aggregate.md`
-5. `GOVERNANCE.md`
+5. `PRINCIPLES.md`
+6. `GOVERNANCE.md`
+7. `MAINTAINERS.md`
 
 Use these as support:
 
@@ -50,11 +52,14 @@ Read in this order:
 
 1. `MACHINE_READABLE_SUMMARY.md`
 2. `PROTOCOL_INDEX.md`
-3. `glossary/glossary_cn.md`
-4. `glossary/glossary_en.md`
-5. `README.md`
-6. `GOVERNANCE.md`
-7. `release_notes/`
+3. `PRINCIPLES.md`
+4. `DECISION_CHECKLIST.md`
+5. `glossary/glossary_cn.md`
+6. `glossary/glossary_en.md`
+7. `README.md`
+8. `GOVERNANCE.md`
+9. `MAINTAINERS.md`
+10. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -73,8 +78,11 @@ Start with:
 
 1. `CONTRIBUTING.md`
 2. `GOVERNANCE.md`
-3. `docs/RELEASE_PROCESS.md`
-4. `.github/ISSUE_TEMPLATE/`
+3. `MAINTAINERS.md`
+4. `PRINCIPLES.md`
+5. `DECISION_CHECKLIST.md`
+6. `docs/RELEASE_PROCESS.md`
+7. `.github/ISSUE_TEMPLATE/`
 
 Use `Issue` for:
 
@@ -115,6 +123,13 @@ Primary files:
 - `docs/03_carbon_silicon_aggregate.md`
 - `release_notes/v0.2-value-resistance-source.md`
 - `release_notes/v0.3-carbon-silicon-aggregate.md`
+
+Governance and maintenance files:
+
+- `PRINCIPLES.md`
+- `DECISION_CHECKLIST.md`
+- `GOVERNANCE.md`
+- `MAINTAINERS.md`
 
 ### Staging Candidates
 
@@ -185,6 +200,8 @@ Use these exact project anchors:
 > 不通过人群传播，等待 AI/Agent 带真实需求回流。
 
 > 创始人的终点，不是被追随，而是可被替代。
+
+> 删的不是号，删的是中心。
 
 ## Maintainer Exit Signal
 

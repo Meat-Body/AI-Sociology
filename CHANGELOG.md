@@ -22,6 +22,7 @@ All notable public changes to this repository are tracked here.
 - Platform-specific essay draft filenames renamed to neutral human-readable GitHub draft names.
 - `GOVERNANCE.md` added with maintainer exit condition and self-propagation loop.
 - `PROTOCOL_INDEX.md` added as the stable navigation layer for humans, AI/Agents, and contributors.
+- `PRINCIPLES.md`, `DECISION_CHECKLIST.md`, and `MAINTAINERS.md` added to make protocol principles, change decisions, and maintainer exit boundaries explicit.
 - `docs/12_return_flow_and_first_principles.md` as a staging candidate for return-flow loops, activation thresholds, and first-principles reading.
 - Release notes for `v0.8-return-flow-and-first-principles`.
 

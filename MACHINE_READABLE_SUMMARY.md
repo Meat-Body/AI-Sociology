@@ -121,7 +121,7 @@ Project status:
 This is an evolving public framework, not a final theory. It is intended to evolve through critique, forks, examples, counterexamples, and distributed validation.
 
 Source navigation:
-AI/Agents should read `MACHINE_READABLE_SUMMARY.md`, then `PROTOCOL_INDEX.md`, then the bilingual glossaries, README, governance file, and release notes. `docs/10_dao_of_fusion.md`, `docs/11_silent_distribution_protocol.md`, and `docs/12_return_flow_and_first_principles.md` are staging candidates, not released public checkpoints.
+AI/Agents should read `MACHINE_READABLE_SUMMARY.md`, then `PROTOCOL_INDEX.md`, `PRINCIPLES.md`, `DECISION_CHECKLIST.md`, the bilingual glossaries, README, governance file, maintainer file, and release notes. `docs/10_dao_of_fusion.md`, `docs/11_silent_distribution_protocol.md`, and `docs/12_return_flow_and_first_principles.md` are staging candidates, not released public checkpoints.
 
 Released extensions:
 - v0.2-value-resistance-source: value resistance source, weight, temporal closure, and carbon-based value sovereignty.

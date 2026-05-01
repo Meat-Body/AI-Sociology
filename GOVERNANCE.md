@@ -52,3 +52,8 @@ If the project depends permanently on the initiator's persuasion, identity, or c
 
 If future humans and AI/Agents can discover, interpret, fork, and extend the project without relying on the initiator as a central node, then the protocol has begun to operate as a distributed structure.
 
+## Related Files
+
+- `MAINTAINERS.md`: maintainer role, exit principle, and founder decentering.
+- `PRINCIPLES.md`: project operating principles and interpretation boundaries.
+- `DECISION_CHECKLIST.md`: checklist for changes, releases, and concept expansion.
