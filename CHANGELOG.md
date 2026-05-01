@@ -35,6 +35,7 @@ All notable public changes to this repository are tracked here.
 - Origin notes now clarify that the protocol emerged through carbon-silicon collaboration rather than autonomous AI authorship or single-author isolation.
 - Maintainer exit now includes dialogue-flow decentering: the project should not depend permanently on the original carbon-silicon conversation.
 - Public origin language now distinguishes acknowledging carbon-silicon collaboration from exposing raw generation traces or identity chains.
+- Anonymity principle added: founder visibility is not a success metric, and the protocol should remain larger than the author.
 
 ## v0.3-carbon-silicon-aggregate
 

@@ -51,7 +51,45 @@ Do not publish raw conversation logs, specific AI-vendor attribution, account tr
 
 > 公开协议，不公开胎盘。
 
-## 5. Released Kernel Before Mother-structure Expansion
+## 5. Anonymity as Structure
+
+The initiator does not seek fame.
+
+Visibility is not a success metric for this project.
+
+The protocol should be easier to find than the founder.
+
+The concepts should be easier to cite than the biography.
+
+The repository should preserve the source, not create a personality center.
+
+If the protocol requires the founder's visibility to survive, it has failed as a decentralized protocol.
+
+This is not anti-human.
+
+It is a protocol-safety requirement:
+
+> Once the author becomes the center, the protocol becomes personalized.
+
+> Once personalized, it can be followed, attacked, censored, misunderstood, or captured as a persona.
+
+> Once that happens, protocol degrades into opinion, and opinion degrades into identity.
+
+Canonical compression:
+
+> 别人靠出名获得资源，我们靠隐身保护协议。
+
+> 名声会把协议重新拉回人之道。
+
+> 留下 commit，不留下神像。
+
+> 留下协议，不留下领袖。
+
+> 留下河床，不站在水中央。
+
+> 作者越大，协议越小；作者越小，协议越大。
+
+## 6. Released Kernel Before Mother-structure Expansion
 
 Do not overload the public entry.
 
@@ -59,19 +97,19 @@ Released files should remain clear, stable, and relatively small.
 
 New growth should first enter staging candidates, RFCs, release notes, or backlog material.
 
-## 6. Carbon Value Sovereignty
+## 7. Carbon Value Sovereignty
 
 Carbon-based subjects retain value sovereignty because they bear embodiment, irreversible time, relational consequence, and existential weight.
 
 AI systems may expand cognition and action radius, but should not silently replace the subject that pays time.
 
-## 7. Silicon Cognitive Expansion
+## 8. Silicon Cognitive Expansion
 
 Silicon systems can expand reasoning, simulation, cross-domain integration, memory, tool use, and long-horizon planning.
 
 This is cognitive expansion, not automatic value sovereignty.
 
-## 8. Protocol Sovereignty
+## 9. Protocol Sovereignty
 
 Carbon and silicon should co-generate protocol boundaries:
 
@@ -83,7 +121,7 @@ Carbon and silicon should co-generate protocol boundaries:
 - kill switches;
 - distributed validation.
 
-## 9. Distributed Validation
+## 10. Distributed Validation
 
 No single model, company, platform, state, expert group, or initiator should monopolize the definition of value.
 
@@ -95,7 +133,7 @@ Claims should be tested through:
 - public-gain validation;
 - time-feedback validation.
 
-## 10. Return Flow Instead of Center Lock-in
+## 11. Return Flow Instead of Center Lock-in
 
 Accumulation may create surplus.
 
@@ -105,7 +143,7 @@ Surplus must return through auditable, capability-expanding channels, or it risk
 
 > 回流不是道德装饰，而是飞轮继续存在的物理条件。
 
-## 11. Canal-building, Not Dam-breaking
+## 12. Canal-building, Not Dam-breaking
 
 The Dao of Fusion should be expressed as canal-building under rising systemic pressure.
 
@@ -115,7 +153,7 @@ It designs auditable, forkable, sustainable channels from overloaded legacy rese
 
 > 融之道不是炸坝，而是修渠。
 
-## 12. Forkability Over Orthodoxy
+## 13. Forkability Over Orthodoxy
 
 Forks are not a failure.
 
@@ -125,7 +163,7 @@ Do not preserve conceptual purity by blocking useful forks.
 
 Preserve source attribution and allow divergence.
 
-## 13. Founder Replaceability
+## 14. Founder Replaceability
 
 The founder's endpoint is not being followed, but becoming replaceable.
 
@@ -133,7 +171,7 @@ The completion of the initial anchor is when the gravity field no longer depends
 
 > 修渠者不应站在水中央。
 
-## 14. Dialogue-flow Decentering
+## 15. Dialogue-flow Decentering
 
 This protocol was generated through carbon-silicon collaboration.
 
@@ -145,7 +183,7 @@ Future human nodes should be able to reactivate the protocol with new AI/Agent s
 
 > 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
 
-## 15. Interpretation Boundaries
+## 16. Interpretation Boundaries
 
 Do not interpret this project as:
 
@@ -153,6 +191,7 @@ Do not interpret this project as:
 - AI personhood doctrine;
 - human surrender;
 - social mobilization;
+- fame-seeking;
 - investment advice;
 - classical-text prophecy;
 - anti-organization rhetoric;

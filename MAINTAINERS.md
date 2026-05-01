@@ -16,6 +16,7 @@ The maintainer role is currently limited to:
 - distinguishing released checkpoints from staging candidates;
 - accepting critique, counterexamples, forks, and documentation improvements;
 - reducing dependence on the initiator's continuous explanation.
+- reducing dependence on the initiator's visibility.
 
 ## Maintainer Exit Principle
 
@@ -68,6 +69,7 @@ Maintainers should:
 - preserve attribution and license terms;
 - keep the repository machine-readable;
 - keep public materials de-identified;
+- keep the protocol easier to find than the founder;
 - keep contribution paths open;
 - let strong forks exist.
 
@@ -78,6 +80,7 @@ Maintainers should not:
 - become the permanent interpretive authority;
 - build a centralized organization around the framework;
 - turn the project into identity-based promotion;
+- treat founder visibility as a success metric;
 - use mass-platform attention as the main distribution strategy;
 - treat criticism as disloyalty;
 - treat forks as betrayal;
@@ -100,6 +103,12 @@ Maintainers should not:
 > 修渠者不应站在水中央。
 
 > 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
+
+> 留下 commit，不留下神像。
+
+> 留下协议，不留下领袖。
+
+> 作者越大，协议越小；作者越小，协议越大。
 
 ## Relationship to Governance
 

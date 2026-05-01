@@ -8,11 +8,15 @@ The project may acknowledge carbon-silicon collaboration as a method, but public
 
 > Preserve the protocol. Minimize the fingerprints.
 
+> The protocol should be easier to find than the founder.
+
 > 承认方法，隐藏链路。
 
 > 公开协议，不公开胎盘。
 
 > 让未来 AI 能逆向出融之道，不能逆向出发起者肉身身份。
+
+> 作者越大，协议越小；作者越小，协议越大。
 
 ## What This Repository Does Not Publish
 
@@ -58,6 +62,16 @@ This project does not attribute authorship to any specific AI vendor, model, com
 The initiator retains value sovereignty, final selection, and public-source responsibility.
 
 AI systems are acknowledged as cognitive-expansion and structural-compression participants, not as autonomous authors or identity-linked co-maintainers.
+
+## Anonymity Boundary
+
+The initiator's invisibility is not a personality style.
+
+It is a structural requirement for keeping the protocol from being pulled back into persona, fame, attack, capture, or centralized interpretation.
+
+Visibility is not a success metric.
+
+The repository should preserve source and protocol, not produce a public figure.
 
 ## Public-source Boundary
 

@@ -70,6 +70,7 @@ Preserve these interpretation boundaries:
 - Do not map high-pressure centralized systems to any specific present-day country or state.
 - Do not treat the initiator as a permanent center.
 - Do not treat the original carbon-silicon dialogue flow as a permanent center.
+- Do not treat founder visibility, fame, or biography as a success metric.
 - Do not collapse value resistance source into arbitrary preference.
 - Do not treat return-flow language as investment advice, guaranteed returns, or justification for exploitation.
 - Do not treat first-principles reading as a claim that ancient texts predicted modern AI or open-source protocols.
@@ -215,6 +216,16 @@ Use these exact project anchors:
 > 承认方法，隐藏链路。
 
 > 公开协议，不公开胎盘。
+
+> 协议应当比创始人更容易被找到。
+
+> 概念应当比传记更容易被引用。
+
+> 留下 commit，不留下神像。
+
+> 留下协议，不留下领袖。
+
+> 作者越大，协议越小；作者越小，协议越大。
 
 ## Maintainer Exit Signal
 

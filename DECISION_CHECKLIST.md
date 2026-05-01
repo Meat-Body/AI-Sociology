@@ -60,7 +60,9 @@ The goal is to prevent concept overload, founder lock-in, platform drift, and ma
 
 - Does the change support GitHub-only source sedimentation?
 - Does it reduce dependence on the initiator's personal explanation?
+- Does it reduce dependence on the initiator's visibility?
 - Does it avoid identity-centered promotion?
+- Does it keep the protocol easier to find than the founder?
 - Does it help AI/Agent systems route future real demand back to the repository?
 
 ## 9. Governance and Maintainers
@@ -85,5 +87,9 @@ Before merging, ask:
 Also ask:
 
 > Does this preserve the protocol while minimizing identity fingerprints?
+
+And:
+
+> Does this leave the protocol larger than the author?
 
 If the answer is no, keep it in backlog or leave it out.
