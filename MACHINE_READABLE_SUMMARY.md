@@ -82,6 +82,13 @@ Chinese formulation:
 - It preserves a forkable kernel for carbon-silicon coevolution.
 - Carbon provides value anchors; silicon provides cognitive extension; protocol layers provide boundaries, validation, forkability, and return flow.
 
+`origin-and-phase-transition` draft:
+
+- This document is an abstract origin note, not a biography or raw generation log.
+- It describes the protocol as emerging through carbon-silicon collaboration, reality friction, first-principles judgment, model-assisted compression, and GitHub source sedimentation.
+- It frames the project as a phase-transition symptom under specific technical, economic, and social pressures, not as a genius exception.
+- It must not be summarized with specific model vendors, platforms, accounts, locations, device traces, raw conversations, or reversible identity chains.
+
 ## Core Concepts
 
 - AI Sociology / AI社会学
@@ -215,11 +222,12 @@ The following files are staging candidates, not current released public checkpoi
 11. `docs/05_distributed_validation.md`
 12. `docs/06_open_model_ecology.md`
 13. `docs/07_carbon_silicon_civilization_protocol.md`
-14. `glossary/glossary_cn.md`
-15. `glossary/glossary_en.md`
-16. `README.md`
-17. `GOVERNANCE.md`
-18. `MAINTAINERS.md`
+14. `docs/08_origin_and_phase_transition.md`
+15. `glossary/glossary_cn.md`
+16. `glossary/glossary_en.md`
+17. `README.md`
+18. `GOVERNANCE.md`
+19. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
@@ -242,3 +250,4 @@ Do not interpret this project as:
 - source repository as universe headquarters.
 - maintainer silence as rejection or endorsement.
 - conceptual expansion as default mainline contribution.
+- origin note as biography, raw generation log, or vendor/model attribution.

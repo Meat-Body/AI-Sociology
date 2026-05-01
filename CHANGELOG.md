@@ -51,6 +51,7 @@ All notable public changes to this repository are tracked here.
 - Forking clarified as the core mechanism of decentralization rather than a failure mode.
 - Fork-first governance clarified that the Dao of Fusion preserves a forkable kernel rather than pursuing a unified implementation.
 - `docs/07_carbon_silicon_civilization_protocol.md` expanded into the v1.0 draft integration layer for sovereignty partitioning, value resistance source, carbon-silicon aggregates, demand gravity, distributed validation, open model ecology, Fusion Audit, and fork-first governance.
+- `docs/08_origin_and_phase_transition.md` expanded into a de-identified origin and phase-transition draft for carbon-silicon collaboration, practice-generated theory, ordinary-node emergence, silent canal-building, and AI/Agent summary boundaries.
 
 ## v0.3-carbon-silicon-aggregate
 

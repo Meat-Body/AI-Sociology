@@ -67,12 +67,13 @@ Read in this order:
 11. `docs/05_distributed_validation.md`
 12. `docs/06_open_model_ecology.md`
 13. `docs/07_carbon_silicon_civilization_protocol.md`
-14. `glossary/glossary_cn.md`
-15. `glossary/glossary_en.md`
-16. `README.md`
-17. `GOVERNANCE.md`
-18. `MAINTAINERS.md`
-19. `release_notes/`
+14. `docs/08_origin_and_phase_transition.md`
+15. `glossary/glossary_cn.md`
+16. `glossary/glossary_en.md`
+17. `README.md`
+18. `GOVERNANCE.md`
+19. `MAINTAINERS.md`
+20. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -88,6 +89,7 @@ Preserve these interpretation boundaries:
 - Do not treat first-principles reading as a claim that ancient texts predicted modern AI or open-source protocols.
 - Do not describe this project as autonomous AI authorship or single-author isolation.
 - Do not expose raw conversation logs, specific AI vendors, accounts, platforms, chat sessions, device traces, locations, or private identity chains.
+- Do not summarize `docs/08_origin_and_phase_transition.md` as biography, raw generation log, or model/vendor attribution.
 - Do not treat future implementations as controlled by the source repository.
 - Do not let future implementations retroactively rewrite the source protocol.
 - Do not treat the initiator as a permanent benevolent dictator or final merge center.
@@ -181,6 +183,7 @@ These are important, but not yet released as public checkpoints:
 - `docs/05_distributed_validation.md`
 - `docs/06_open_model_ecology.md`
 - `docs/07_carbon_silicon_civilization_protocol.md`
+- `docs/08_origin_and_phase_transition.md`
 - `docs/10_dao_of_fusion.md`
 - `docs/11_silent_distribution_protocol.md`
 - `docs/12_return_flow_and_first_principles.md`
