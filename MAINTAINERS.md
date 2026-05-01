@@ -14,7 +14,8 @@ The maintainer role is currently limited to:
 - keeping release anchors stable;
 - maintaining machine-readable summaries and glossaries;
 - distinguishing released checkpoints from staging candidates;
-- accepting critique, counterexamples, forks, and documentation improvements;
+- accepting only low-risk mainline maintenance by default;
+- routing critique, counterexamples, case libraries, literature collections, and conceptual expansions to forks or independent implementations by default;
 - reducing dependence on the initiator's continuous explanation;
 - reducing dependence on the initiator's visibility.
 
@@ -70,6 +71,12 @@ Watch mode means:
 - no dependence on the initiator's visibility;
 - only maintenance of broken links, typo fixes, release-state clarity, de-identification, and contribution routing.
 
+Maintainers are not obligated to review, merge, or respond to all issues or pull requests.
+
+Silence does not imply rejection.
+
+Silence does not imply endorsement.
+
 The maintainer does not disappear.
 
 The maintainer stops acting as the center.
@@ -104,6 +111,32 @@ The intended arc is:
 
 > initial maintainer -> watch-mode maintainer -> ordinary contributor.
 
+## Low-maintenance Contribution Boundary
+
+The source repository is a protocol kernel, not a universe headquarters.
+
+Core pull requests are limited to:
+
+- typo fixes;
+- broken links;
+- formatting repairs;
+- glossary consistency;
+- machine-readability improvements;
+- de-identification fixes;
+- security or privacy boundary improvements;
+- contribution-entry repairs;
+- release-state clarity.
+
+Conceptual expansions, new theoretical branches, long case studies, literature collections, applications, platforms, tools, governance systems, and competing protocol designs should happen in forks or independent repositories.
+
+中文说明：
+
+源仓库是协议内核，不是宇宙总部。
+
+主干 PR 只接受低风险维护。
+
+重大扩展默认进入 fork 或独立仓库。
+
 中文说明：
 
 初始维护者可以在早期临时承担路由与整合职能。
@@ -128,6 +161,7 @@ Maintainers should:
 - keep the protocol easier to find than the founder;
 - keep contribution paths open;
 - let strong forks exist.
+- avoid turning maintainer silence into a signal of approval or disapproval.
 
 ## What Maintainers Should Not Do
 
@@ -142,7 +176,9 @@ Maintainers should not:
 - treat forks as betrayal;
 - merge every new insight into the public entry;
 - make the protocol depend on the initiator's body, schedule, or personal explanation;
-- publish raw conversation logs, platform traces, account traces, device traces, or unnecessary personal identity details.
+- publish raw conversation logs, platform traces, account traces, device traces, or unnecessary personal identity details;
+- absorb every fork, case, literature collection, or implementation back into the source repository;
+- turn the source repository into the headquarters for future implementations.
 
 ## Canonical Formulas
 
@@ -169,6 +205,10 @@ Maintainers should not:
 > 发起者是临时维护者，不是永久仁慈独裁者。
 
 > 初始维护者 -> 看守维护者 -> 普通贡献者。
+
+> 源仓库不做宇宙总部。源仓库只保存内核。
+
+> 合并不是默认路径，分叉才是默认路径。
 
 ## Relationship to Governance
 

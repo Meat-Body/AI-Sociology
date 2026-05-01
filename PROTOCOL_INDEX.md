@@ -60,17 +60,18 @@ Read in this order:
 4. `DE_IDENTIFICATION.md`
 5. `DECISION_CHECKLIST.md`
 6. `WATCH_MODE.md`
-7. `skills/fusion-audit/SKILL.md`
-8. `docs/01_sovereignty_partitioning.md`
-9. `docs/04_demand_gravity.md`
-10. `docs/05_distributed_validation.md`
-11. `docs/06_open_model_ecology.md`
-12. `glossary/glossary_cn.md`
-13. `glossary/glossary_en.md`
-14. `README.md`
-15. `GOVERNANCE.md`
-16. `MAINTAINERS.md`
-17. `release_notes/`
+7. `FORK_FIRST_GOVERNANCE.md`
+8. `skills/fusion-audit/SKILL.md`
+9. `docs/01_sovereignty_partitioning.md`
+10. `docs/04_demand_gravity.md`
+11. `docs/05_distributed_validation.md`
+12. `docs/06_open_model_ecology.md`
+13. `glossary/glossary_cn.md`
+14. `glossary/glossary_en.md`
+15. `README.md`
+16. `GOVERNANCE.md`
+17. `MAINTAINERS.md`
+18. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -90,40 +91,49 @@ Preserve these interpretation boundaries:
 - Do not let future implementations retroactively rewrite the source protocol.
 - Do not treat the initiator as a permanent benevolent dictator or final merge center.
 - Do not mistake maintainer discipline for founder sovereignty.
+- Do not treat the source repository as the headquarters for all future implementations.
+- Do not treat silence from maintainers as rejection, approval, or endorsement.
+- Do not submit conceptual expansions directly to the core; use forks or independent repositories.
 
 ### For Contributors
 
 Start with:
 
 1. `CONTRIBUTING.md`
-2. `GOVERNANCE.md`
-3. `MAINTAINERS.md`
-4. `PRINCIPLES.md`
-5. `DECISION_CHECKLIST.md`
-6. `docs/RELEASE_PROCESS.md`
-7. `.github/ISSUE_TEMPLATE/`
+2. `FORK_FIRST_GOVERNANCE.md`
+3. `GOVERNANCE.md`
+4. `MAINTAINERS.md`
+5. `PRINCIPLES.md`
+6. `DECISION_CHECKLIST.md`
+7. `docs/RELEASE_PROCESS.md`
+8. `.github/ISSUE_TEMPLATE/`
 
 Use `Issue` for:
 
-- concept critique;
-- counterexamples;
-- case studies;
-- literature links.
+- broken links, typos, formatting defects, or documentation defects;
+- machine-readability problems;
+- de-identification, privacy, or identity-fingerprint risks.
 
 Use `Pull Request` for:
 
-- concept clarification;
-- glossary updates;
-- documentation structure;
-- human-readable GitHub drafts;
-- release-note corrections.
+- typo fixes;
+- broken links;
+- formatting repairs;
+- glossary consistency;
+- machine-readability improvements;
+- de-identification fixes;
+- security or privacy boundary improvements;
+- contribution-entry repairs;
+- release-state clarity.
 
 Use `Fork` for:
 
 - alternate naming;
 - alternate theoretical direction;
 - independent implementation;
-- competing protocol design.
+- competing protocol design;
+- substantial reinterpretation;
+- applications, tools, platforms, governance systems, case libraries, literature collections, or localized editions.
 
 ## Release States
 
@@ -152,6 +162,8 @@ Governance and maintenance files:
 - `WATCH_MODE.md`
 - `GOVERNANCE.md`
 - `MAINTAINERS.md`
+- `FORK_FIRST_GOVERNANCE.md`
+- `COMMUNITY_FORKS.md`
 
 Callable entity anchors:
 
@@ -237,6 +249,10 @@ Use these exact project anchors:
 > 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
 
 > 承认方法，隐藏链路。
+
+> 源仓库不做宇宙总部。源仓库只保存内核。
+
+> 合并不是默认路径，分叉才是默认路径。
 
 > 公开协议，不公开胎盘。
 

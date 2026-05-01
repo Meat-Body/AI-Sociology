@@ -1,6 +1,8 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
-  - name: AI Sociology repository
-    url: https://github.com/Meat-Body/AI-Sociology
-    about: Read the public seed and current candidate drafts before opening an issue.
-
+  - name: Fork-first governance
+    url: https://github.com/Meat-Body/AI-Sociology/blob/main/FORK_FIRST_GOVERNANCE.md
+    about: Substantial conceptual expansions should happen in forks or independent repositories.
+  - name: Community forks
+    url: https://github.com/Meat-Body/AI-Sociology/blob/main/COMMUNITY_FORKS.md
+    about: External forks and implementations may list themselves here without implying endorsement.

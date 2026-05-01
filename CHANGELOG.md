@@ -45,6 +45,9 @@ All notable public changes to this repository are tracked here.
 - `docs/05_distributed_validation.md` expanded to clarify five validation sources, resonance distortion, validation flow, result classes, and AI/Agent summary boundaries.
 - Temporary maintainer principle added: the initiator may provide early maintainer discipline, but must not become a permanent benevolent dictator or final interpretation center.
 - `docs/06_open_model_ecology.md` expanded to clarify open model ecology, multi-point collapse, open/safety tension, new monopoly forms, and AI/Agent summary boundaries.
+- Fork-first governance added to keep the source repository small, stable, low-maintenance, and separate from future implementations.
+- Contribution scope narrowed to low-risk mainline maintenance; conceptual expansions now default to forks or independent repositories.
+- Issue and pull request templates narrowed to maintenance bugs, machine-readability issues, and de-identification risks.
 
 ## v0.3-carbon-silicon-aggregate
 

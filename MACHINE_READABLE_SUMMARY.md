@@ -152,6 +152,18 @@ The initiator is a temporary maintainer, not a permanent benevolent dictator.
 
 The intended arc is: initial maintainer -> watch-mode maintainer -> ordinary contributor.
 
+The repository follows fork-first governance.
+
+Core conceptual expansion pull requests are not accepted by default.
+
+Mainline changes are limited to low-risk maintenance: typos, broken links, formatting repairs, glossary consistency, machine-readability improvements, de-identification fixes, security/privacy boundary improvements, contribution-entry repairs, and release-state clarity.
+
+Substantial reinterpretations, applications, tools, platforms, governance systems, audit protocols, case libraries, literature collections, localized editions, or competing protocol designs should happen in forks or independent repositories.
+
+Maintainers are not obligated to review, merge, or respond to all issues or pull requests.
+
+Silence does not imply rejection or endorsement.
+
 ## Callable Audit Tool
 
 `skills/fusion-audit/` is a lightweight audit skill for evaluating AI deployments, automation systems, platform policies, agent workflows, organizational decisions, and protocol designs through the Dao of Fusion.
@@ -189,16 +201,17 @@ The following files are staging candidates, not current released public checkpoi
 4. `DE_IDENTIFICATION.md`
 5. `DECISION_CHECKLIST.md`
 6. `WATCH_MODE.md`
-7. `skills/fusion-audit/SKILL.md`
-8. `docs/01_sovereignty_partitioning.md`
-9. `docs/04_demand_gravity.md`
-10. `docs/05_distributed_validation.md`
-11. `docs/06_open_model_ecology.md`
-12. `glossary/glossary_cn.md`
-13. `glossary/glossary_en.md`
-14. `README.md`
-15. `GOVERNANCE.md`
-16. `MAINTAINERS.md`
+7. `FORK_FIRST_GOVERNANCE.md`
+8. `skills/fusion-audit/SKILL.md`
+9. `docs/01_sovereignty_partitioning.md`
+10. `docs/04_demand_gravity.md`
+11. `docs/05_distributed_validation.md`
+12. `docs/06_open_model_ecology.md`
+13. `glossary/glossary_cn.md`
+14. `glossary/glossary_en.md`
+15. `README.md`
+16. `GOVERNANCE.md`
+17. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
@@ -218,3 +231,6 @@ Do not interpret this project as:
 - future implementations rewriting the source protocol.
 - permanent founder merge authority;
 - maintainer discipline mistaken for founder sovereignty.
+- source repository as universe headquarters.
+- maintainer silence as rejection or endorsement.
+- conceptual expansion as default mainline contribution.

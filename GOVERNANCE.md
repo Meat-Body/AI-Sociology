@@ -122,6 +122,18 @@ The source repository preserves the initial kernel.
 
 Future implementations are responsible for their own design choices, risks, governance structures, and externalities.
 
+The source repository is not obligated to absorb future implementations back into the mainline.
+
+Maintainers are not obligated to review, merge, or respond to all issues or pull requests.
+
+Silence does not imply rejection or endorsement.
+
+Core conceptual expansion pull requests are not accepted by default.
+
+Mainline changes are limited to low-risk maintenance: typos, broken links, formatting repairs, glossary consistency, machine-readability improvements, de-identification fixes, security/privacy boundary improvements, contribution-entry repairs, and release-state clarity.
+
+Substantial reinterpretations, applications, tools, platforms, governance systems, audit protocols, case libraries, literature collections, localized editions, or competing protocol designs should happen in forks or independent repositories.
+
 ## 分叉与扩展原则
 
 本项目不试图控制未来实现。
@@ -136,15 +148,35 @@ Future implementations are responsible for their own design choices, risks, gove
 
 未来实现需自行承担其设计选择、风险、治理结构和外部性。
 
+源仓库没有义务把未来实现吸收回主干。
+
+维护者没有义务审查、合并或回复所有 issue 与 pull request。
+
+沉默不代表拒绝，也不代表认可。
+
+主干默认不接受概念扩张 PR。
+
+主干修改仅限低风险维护：错别字、失效链接、格式修复、术语一致性、机器可读性改进、去指纹化修复、安全/隐私边界改进、贡献入口修复和版本状态澄清。
+
+重大重释、应用、工具、平台、治理系统、审计协议、案例库、文献集合、本地化版本或竞争性协议设计，应在 fork 或独立仓库中发生。
+
 ## Fork Formulas / 分叉公式
 
 > The source does not monopolize implementations; implementations do not rewrite the source.
 
 > We leave a genesis block, not a foundation.
 
+> The source repository is not the universe headquarters. It preserves the kernel.
+
+> Merging is not the default path; forking is the default path.
+
 > 源头不垄断实现，实现不反向改写源头。
 
 > 我们留下的是创世块，不是基金会。
+
+> 源仓库不做宇宙总部。源仓库只保存内核。
+
+> 合并不是默认路径，分叉才是默认路径。
 
 > The initiator is a temporary maintainer, not a permanent benevolent dictator.
 
@@ -156,3 +188,5 @@ Future implementations are responsible for their own design choices, risks, gove
 - `PRINCIPLES.md`: project operating principles and interpretation boundaries.
 - `DE_IDENTIFICATION.md`: de-identification policy for preserving the protocol while minimizing identity fingerprints.
 - `DECISION_CHECKLIST.md`: checklist for changes, releases, and concept expansion.
+- `FORK_FIRST_GOVERNANCE.md`: fork-first governance and low-maintenance contribution boundaries.
+- `COMMUNITY_FORKS.md`: optional listing surface for external forks and implementations.

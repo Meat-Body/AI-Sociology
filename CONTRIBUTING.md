@@ -1,89 +1,142 @@
-# 如何参与
+# Contribution Scope / 贡献范围
 
-这是一个开放演化中的思想框架，欢迎以下类型的贡献。
+This repository is in watch mode.
 
-## 1. 概念批评
+The core protocol is technically frozen.
 
-指出某个概念是否：
+Maintainers are not obligated to review, merge, or respond to all issues or pull requests.
 
-- 循环定义；
-- 过度隐喻化；
-- 不可操作化；
-- 与已有理论重复；
-- 缺少现实案例；
-- 存在价值风险。
+Silence does not imply rejection.
 
-## 2. 案例补充
+Silence does not imply endorsement.
 
-欢迎补充现实案例，例如：
+Most extensions should happen through forks, external notes, or independent implementations.
 
-- AI 助手与个人长期耦合；
-- 开源模型生态；
-- 本地模型与私有记忆；
-- 推荐系统与需求引力；
-- AI 治理与公共输入；
-- 算力、能源、芯片与认知主权。
+本仓库处于看守模式。
 
-## 3. 文献连接
+核心协议已经技术冻结。
 
-欢迎提供相关学术文献，包括但不限于：
+维护者没有义务审查、合并或回复所有 issue 与 pull request。
 
-- AI alignment；
-- sociotechnical AI governance；
-- human-AI coevolution；
-- distributed cognition；
-- extended mind；
-- collective intelligence；
-- open-source AI governance；
-- cybernetics；
-- political economy of platforms。
+沉默不代表拒绝，也不代表认可。
 
-## 4. 分叉与重写
+大多数扩展应通过 fork、外部笔记或独立实现完成。
 
-欢迎建立自己的版本。
+## Mainline Contribution Scope
 
-但请保留概念来源与署名。
+Pull requests to the core documents are limited to low-risk maintenance:
 
-## 5. 不接受的贡献
+- typo fixes;
+- broken links;
+- formatting repairs;
+- glossary consistency;
+- machine-readability improvements;
+- de-identification fixes;
+- security or privacy boundary improvements;
+- contribution-entry repairs;
+- release-state clarity.
 
-暂不接受：
+Conceptual expansions should not be submitted directly to the core.
 
-- 纯情绪攻击；
-- 无署名搬运；
-- 将本框架包装为封闭权威理论；
-- 把“主权分片”误读为 AI 神权或人类投降主义。
+Please publish conceptual expansions in your own fork.
 
-## 6. 建议的提交方式
+主干文档只接受低风险维护：
 
-- `Issue`：概念批评、开放问题、反例和文献线索。
-- `Pull Request`：结构修订、概念澄清、术语对照和案例补充。
-- `Fork`：建立独立版本、展开不同路线或替代性命名方案。
+- 错别字；
+- 失效链接；
+- 格式修复；
+- 术语一致性；
+- 机器可读性改进；
+- 去指纹化修复；
+- 安全与隐私边界改进；
+- 贡献入口修复；
+- 版本状态澄清。
 
-## 7. Issue 类型
+概念扩展不应直接提交到主干。
 
-为了让外部输入更容易进入协议层，本仓库提供以下 Issue 模板：
+请在你自己的 fork 中发布概念扩展。
 
-- `Concept critique`：批评概念定义、边界、风险或歧义。
-- `Counterexample`：提交能挑战框架命题的反例。
-- `Case study`：补充现实案例，用于验证或修正概念。
-- `Literature link`：提供学术、技术或历史文献连接。
+## Issue Scope
 
-## 8. 版本演化
+Issues are limited to repository maintenance and protocol-source hygiene.
 
-版本演化遵循 `PROTOCOL_INDEX.md`、`PRINCIPLES.md`、`DE_IDENTIFICATION.md`、`DECISION_CHECKLIST.md`、`ROADMAP.md` 与 `docs/RELEASE_PROCESS.md`。
+Use issues only for:
 
-项目治理与主维护退出条件见 `GOVERNANCE.md` 与 `MAINTAINERS.md`。
+- broken links, typos, formatting bugs, or documentation defects;
+- machine-readability problems;
+- de-identification, privacy, or identity-fingerprint risks.
 
-请尽量避免把尚未成熟的远期补丁直接塞进 README。新的分支概念可以先进入：
+Do not use issues for broad theory expansion, social-platform discussion, general commentary, or requests for the maintainer to become an interpretive center.
 
-- `docs/09_protocol_growth_backlog.md`
-- `rfc/`
-- `essays/`（人类可读 GitHub 文档草稿，不作为平台发布入口）
-- 独立分叉版本
+Issue 不用于哲学广场。
 
-提交内容也应遵循 `DE_IDENTIFICATION.md`：
+Issue 只用于：
 
-- 不提交原始对话记录；
-- 不点名具体 AI 厂商、模型、账号、平台或会话；
-- 不加入不必要的个人履历、地点、设备、家庭或生活细节；
-- 尽量用协议结构表达洞见，而不是保留可追踪身份链。
+- 链接、错别字、格式或文档缺陷；
+- 机器可读性问题；
+- 去指纹化、隐私或身份指纹风险。
+
+不要用 issue 提交宏大理论扩展、大众平台讨论、一般评论，或要求维护者成为解释中心。
+
+## Fork-first Path
+
+Use a fork for:
+
+- substantial reinterpretations;
+- alternate naming systems;
+- new conceptual branches;
+- applications, tools, platforms, or governance systems;
+- long case studies;
+- literature collections;
+- competing protocol designs;
+- localized or translated editions with different framing.
+
+重大重释、命名替代、概念分支、应用工具、平台系统、治理框架、长案例、文献集合、竞争性协议设计和不同表达版本，默认走 fork。
+
+See `FORK_FIRST_GOVERNANCE.md`.
+
+## Pull Request Checklist
+
+Before opening a pull request, confirm:
+
+- the change stays within low-risk mainline scope;
+- the change does not expand the core doctrine;
+- the change does not introduce personal identity traces;
+- the change does not publish raw conversation logs;
+- the change does not attribute passages to specific AI vendors, models, accounts, platforms, or chat sessions;
+- the change does not move, rewrite, or reinterpret released anchors.
+
+## De-identification
+
+All contributions must follow `DE_IDENTIFICATION.md`.
+
+Do not submit:
+
+- raw conversation records;
+- screenshots of model chats;
+- specific AI vendor, model, account, platform, or session attribution;
+- private timelines;
+- device traces;
+- locations;
+- unnecessary biographical details;
+- identity chains that make the initiator or contributors reversible from the protocol.
+
+Public materials should preserve the protocol while minimizing identity fingerprints.
+
+## Community Forks
+
+External forks may list themselves in `COMMUNITY_FORKS.md`.
+
+Listing does not imply endorsement, review, audit, approval, or responsibility by this repository.
+
+Each fork is responsible for its own governance, risks, and externalities.
+
+## Canonical Formulas
+
+> The source repository is not the universe headquarters. It preserves the kernel.
+
+> Merging is not the default path; forking is the default path.
+
+> 源仓库不做宇宙总部。源仓库只保存内核。
+
+> 合并不是默认路径，分叉才是默认路径。
