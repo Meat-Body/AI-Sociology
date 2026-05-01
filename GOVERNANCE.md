@@ -170,6 +170,10 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 
 > Merging is not the default path; forking is the default path.
 
+> The Dao of Fusion does not pursue a unified implementation. It preserves a forkable kernel.
+
+> Real return flow does not mean all water returns to the source.
+
 > 源头不垄断实现，实现不反向改写源头。
 
 > 我们留下的是创世块，不是基金会。
@@ -177,6 +181,10 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 > 源仓库不做宇宙总部。源仓库只保存内核。
 
 > 合并不是默认路径，分叉才是默认路径。
+
+> 融之道不追求统一实现，只保留可分叉内核。
+
+> 真正的回流不是所有水都回到源头。
 
 > The initiator is a temporary maintainer, not a permanent benevolent dictator.
 

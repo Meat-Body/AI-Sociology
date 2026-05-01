@@ -49,6 +49,7 @@ All notable public changes to this repository are tracked here.
 - Contribution scope narrowed to low-risk mainline maintenance; conceptual expansions now default to forks or independent repositories.
 - Issue and pull request templates narrowed to maintenance bugs, machine-readability issues, and de-identification risks.
 - Forking clarified as the core mechanism of decentralization rather than a failure mode.
+- Fork-first governance clarified that the Dao of Fusion preserves a forkable kernel rather than pursuing a unified implementation.
 
 ## v0.3-carbon-silicon-aggregate
 

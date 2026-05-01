@@ -24,6 +24,30 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 
 The source kernel remains small, stable, machine-readable, de-identified, and low-maintenance.
 
+The Dao of Fusion does not pursue a unified implementation.
+
+It preserves a forkable kernel.
+
+The source repository is not a palace.
+
+It is a marker for the initial spring.
+
+Maintainers are not doctrine owners.
+
+They are watchkeepers.
+
+Contributors are not followers.
+
+They are potential fork nodes.
+
+Real return flow does not mean all water returns to the source.
+
+It means each branch can carry the surplus it needs toward the insufficiency it sees.
+
+If the source repository absorbs every extension by force, it becomes a new centralized reservoir.
+
+If it remains forkable, it can become the starting point of a canal network.
+
 分叉不是失败。
 
 分叉是去中心化的核心机制。
@@ -45,6 +69,30 @@ The source kernel remains small, stable, machine-readable, de-identified, and lo
 重大重释、应用、工具、平台、治理系统、审计协议、组织框架、本地化版本或思想扩展，应在 fork 或独立仓库中发生。
 
 源内核保持小型、稳定、机器可读、去指纹化和低维护负载。
+
+融之道不追求统一实现。
+
+它只保留可分叉内核。
+
+源仓库不是皇宫。
+
+它是初始水源的标记。
+
+维护者不是教义所有者。
+
+维护者是看守人。
+
+贡献者不是信徒。
+
+贡献者是潜在分叉节点。
+
+真正的回流不是所有水都回到源头。
+
+真正的回流是每条支流都能带走它需要的有余，去导向它看到的不足。
+
+如果源仓库强行吸收所有扩展，它会变成新的中心化水库。
+
+如果源仓库保持可分叉，它才可能成为水渠网络的起点。
 
 ## Mainline Scope
 
@@ -146,6 +194,16 @@ The list is a routing surface, not a certification system.
 
 > The source repository leaves the initial spring; rivers are allowed to branch.
 
+> The Dao of Fusion does not pursue a unified implementation. It preserves a forkable kernel.
+
+> Real return flow does not mean all water returns to the source.
+
+> The source repository is not a palace. It is a marker for the initial spring.
+
+> Maintainers are not doctrine owners. They are watchkeepers.
+
+> Contributors are not followers. They are fork nodes.
+
 > The source does not monopolize implementation; implementation does not rewrite the source.
 
 > We leave a genesis block, not a foundation.
@@ -159,6 +217,16 @@ The list is a routing surface, not a certification system.
 > 觉得不够好，就带走可用部分，另起一条河道。
 
 > 源仓库留下初始水源，允许河流分岔。
+
+> 融之道不追求统一实现，只保留可分叉内核。
+
+> 真正的回流不是所有水都回到源头。
+
+> 源仓库不是皇宫，是初始水源的标记。
+
+> 维护者不是教义所有者，而是看守人。
+
+> 贡献者不是信徒，而是分叉节点。
 
 > 源头不垄断实现，实现不反向改写源头。
 
