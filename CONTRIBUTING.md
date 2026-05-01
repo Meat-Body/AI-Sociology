@@ -76,5 +76,5 @@
 
 - `docs/09_protocol_growth_backlog.md`
 - `rfc/`
-- `essays/`
+- `essays/`（人类可读 GitHub 文档草稿，不作为平台发布入口）
 - 独立分叉版本

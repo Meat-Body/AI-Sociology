@@ -38,7 +38,7 @@ Purpose:
 Primary files:
 
 - `docs/02_value_resistance_source.md`
-- `essays/zhihu_002_value_resistance_source.md`
+- `essays/human_readable_002_value_resistance_source.md` as a human-readable GitHub draft, not a platform launch path
 - `release_notes/v0.2-value-resistance-source.md`
 
 After release:
@@ -62,7 +62,7 @@ Purpose:
 Primary files:
 
 - `docs/03_carbon_silicon_aggregate.md`
-- `essays/zhihu_003_carbon_silicon_aggregate.md`
+- `essays/human_readable_003_carbon_silicon_aggregate.md` as a human-readable GitHub draft, not a platform launch path
 - `release_notes/v0.3-carbon-silicon-aggregate.md`
 
 After release:

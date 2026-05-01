@@ -18,6 +18,8 @@ All notable public changes to this repository are tracked here.
 - Silent canal-building as the practical safety expression of the Dao of Fusion and GitHub-only distribution.
 - High-pressure centralized systems and first-mover need for canal-building as abstract, non-country-specific system-pattern anchors.
 - Public seed distribution note updated to GitHub-only silent distribution.
+- Centralized mass platforms removed from the current publication path; strategy clarified as GitHub-only source sedimentation plus AI/Agent redistribution plus future human return.
+- Platform-specific essay draft filenames renamed to neutral human-readable GitHub draft names.
 
 ### Clarified
 

@@ -152,7 +152,7 @@ A publication strategy that prioritizes README, machine-readable summary, glossa
 
 ## GitHub-only Silent Distribution
 
-The current publication strategy in which the GitHub repository remains the only primary public source while mass-platform launches such as Zhihu, Weibo, or WeChat public accounts are postponed, allowing the framework to sediment in a versioned, machine-readable, low-noise form.
+The current publication strategy in which the GitHub repository remains the only primary public source and centralized mass platforms are removed from the current publication path, allowing the framework to sediment in a versioned, machine-readable, low-noise form before AI/Agent systems bring real demand back.
 
 ## Physical Decoupling
 
