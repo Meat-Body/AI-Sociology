@@ -132,6 +132,7 @@ Purpose:
 
 Candidate sources:
 
+- `PROTOCOL_INDEX.md`
 - `docs/11_silent_distribution_protocol.md`
 - `release_notes/v0.7-silent-distribution-protocol.md`
 - `docs/09_protocol_growth_backlog.md`

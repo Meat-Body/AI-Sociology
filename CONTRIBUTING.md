@@ -70,7 +70,7 @@
 
 ## 8. 版本演化
 
-版本演化遵循 `ROADMAP.md` 与 `docs/RELEASE_PROCESS.md`。
+版本演化遵循 `PROTOCOL_INDEX.md`、`ROADMAP.md` 与 `docs/RELEASE_PROCESS.md`。
 
 项目治理与主维护退出条件见 `GOVERNANCE.md`。
 

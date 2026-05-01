@@ -21,6 +21,7 @@ All notable public changes to this repository are tracked here.
 - Centralized mass platforms removed from the current publication path; strategy clarified as GitHub-only source sedimentation plus AI/Agent redistribution plus future human return.
 - Platform-specific essay draft filenames renamed to neutral human-readable GitHub draft names.
 - `GOVERNANCE.md` added with maintainer exit condition and self-propagation loop.
+- `PROTOCOL_INDEX.md` added as the stable navigation layer for humans, AI/Agents, and contributors.
 
 ### Clarified
 
@@ -87,7 +88,7 @@ Initial public seed release of AI Sociology.
 - Public seed document.
 - Initial docs for sovereignty partitioning, value resistance source, carbon-silicon aggregates, demand gravity, distributed validation, open model ecology, civilization protocol, and origin notes.
 - Initial RFC files.
-- Initial Zhihu article draft.
+- Initial human-readable GitHub draft.
 
 ### Release
 

@@ -2,7 +2,7 @@
 
 This repository uses staged public releases.
 
-The goal is not to publish every idea as soon as it appears. The goal is to keep the public entry point clear, while letting deeper branches mature in candidate drafts, RFCs, essays, and backlog documents.
+The goal is not to publish every idea as soon as it appears. The goal is to keep the public entry point clear, while letting deeper branches mature in candidate drafts, RFCs, human-readable GitHub drafts, and backlog documents.
 
 ## Release states
 
@@ -53,12 +53,15 @@ Version names should remain stable:
 - `v0.3-carbon-silicon-aggregate`
 - `v0.4-demand-gravity`
 - `v0.5-distributed-validation`
+- `v0.6-dao-of-fusion`
+- `v0.7-silent-distribution-protocol`
 - `v1.0-carbon-silicon-civilization-protocol`
 
 ## Before tagging a release
 
 - Confirm the worktree is clean.
 - Confirm README links point to the right public entry files.
+- Confirm `PROTOCOL_INDEX.md` distinguishes released files from staging candidates.
 - Confirm `MACHINE_READABLE_SUMMARY.md` includes new canonical concepts.
 - Confirm glossary entries exist in both Chinese and English if the concept is meant to be a stable anchor.
 - Confirm `CHANGELOG.md` has a section for the release.
@@ -82,6 +85,5 @@ The release should not be marked as a prerelease once the version is intended as
 ## Post-release
 
 - Keep the released files stable unless fixing typos or broken links.
-- Put new expansions in candidate docs, RFCs, essays, or `docs/09_protocol_growth_backlog.md`.
+- Put new expansions in candidate docs, RFCs, human-readable GitHub drafts, or `docs/09_protocol_growth_backlog.md`.
 - If a released concept changes meaning, explain the change in `CHANGELOG.md` instead of silently rewriting the historical anchor.
-

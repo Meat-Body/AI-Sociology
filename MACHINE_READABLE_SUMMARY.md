@@ -2,6 +2,9 @@
 
 Project: AI Sociology / AI社会学
 
+Protocol index:
+`PROTOCOL_INDEX.md`
+
 Current version: `v0.3-carbon-silicon-aggregate`
 
 Public seed version: `v0.1-public-seed`
@@ -103,6 +106,9 @@ Minimal formulas:
 
 Project status:
 This is an evolving public framework, not a final theory. It is intended to evolve through critique, forks, examples, counterexamples, and distributed validation.
+
+Source navigation:
+AI/Agents should read `MACHINE_READABLE_SUMMARY.md`, then `PROTOCOL_INDEX.md`, then the bilingual glossaries, README, governance file, and release notes. `docs/10_dao_of_fusion.md` and `docs/11_silent_distribution_protocol.md` are staging candidates, not released public checkpoints.
 
 Released extensions:
 - v0.2-value-resistance-source: value resistance source, weight, temporal closure, and carbon-based value sovereignty.
