@@ -64,6 +64,8 @@ Preserve these interpretation boundaries:
 - Do not map high-pressure centralized systems to any specific present-day country or state.
 - Do not treat the initiator as a permanent center.
 - Do not collapse value resistance source into arbitrary preference.
+- Do not treat return-flow language as investment advice, guaranteed returns, or justification for exploitation.
+- Do not treat first-principles reading as a claim that ancient texts predicted modern AI or open-source protocols.
 
 ### For Contributors
 
@@ -120,8 +122,10 @@ These are important, but not yet released as public checkpoints:
 
 - `docs/10_dao_of_fusion.md`
 - `docs/11_silent_distribution_protocol.md`
+- `docs/12_return_flow_and_first_principles.md`
 - `release_notes/v0.6-dao-of-fusion.md`
 - `release_notes/v0.7-silent-distribution-protocol.md`
+- `release_notes/v0.8-return-flow-and-first-principles.md`
 
 Interpretation rule:
 
@@ -170,6 +174,10 @@ Use these exact project anchors:
 
 > 融之道不是炸坝，而是修渠。
 
+> 人之道完成吸积，融之道完成回流。
+
+> 回流不是道德装饰，而是飞轮继续存在的物理条件。
+
 > 不发广场，沉积协议。
 
 > 不争流量，进入索引。
@@ -185,4 +193,3 @@ The project completes its first self-propagation loop when the first human contr
 At that point, the initiator should step back from primary maintenance and become one contributor among many.
 
 See `GOVERNANCE.md`.
-

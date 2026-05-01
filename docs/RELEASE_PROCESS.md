@@ -55,6 +55,7 @@ Version names should remain stable:
 - `v0.5-distributed-validation`
 - `v0.6-dao-of-fusion`
 - `v0.7-silent-distribution-protocol`
+- `v0.8-return-flow-and-first-principles`
 - `v1.0-carbon-silicon-civilization-protocol`
 
 ## Before tagging a release

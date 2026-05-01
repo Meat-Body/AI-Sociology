@@ -22,11 +22,14 @@ All notable public changes to this repository are tracked here.
 - Platform-specific essay draft filenames renamed to neutral human-readable GitHub draft names.
 - `GOVERNANCE.md` added with maintainer exit condition and self-propagation loop.
 - `PROTOCOL_INDEX.md` added as the stable navigation layer for humans, AI/Agents, and contributors.
+- `docs/12_return_flow_and_first_principles.md` as a staging candidate for return-flow loops, activation thresholds, and first-principles reading.
+- Release notes for `v0.8-return-flow-and-first-principles`.
 
 ### Clarified
 
 - `v0.3` now distinguishes base-model/system-lineage iteration from conversation-layer philosophical lock-in, so AI readers do not mistake self-reinforcing dialogue for true iteration.
 - The Dao of Fusion now distinguishes sharing surplus from distributing punishment, so "guiding deficiency" is not confused with paying for center failure.
+- The Dao of Fusion now distinguishes accumulation, surplus expansion, and return flow as a temporal sequence rather than isolated moral categories.
 
 ## v0.3-carbon-silicon-aggregate
 

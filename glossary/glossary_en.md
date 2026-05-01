@@ -177,3 +177,31 @@ The condition under which the first human contributor reaches the repository thr
 ## Self-propagation Loop
 
 The loop in which the protocol is read by AI/Agent systems, redistributed through real-world problems, and brings humans with genuine demand back to the GitHub source.
+
+## Return-flow Loop
+
+A loop in which a system forms surplus through accumulation, then routes that surplus back toward real deficiencies through protocol so the ecosystem gains new capacity and can continue supporting the system.
+
+## Activation Threshold
+
+The point at which a protocol structure that may have existed in latent form becomes executable because civilizational energy, productive capacity, computation, information density, and interface conditions become sufficient.
+
+## Latent Flywheel
+
+A circular mechanism that exists structurally but cannot self-rotate due to insufficient energy or interfaces; it becomes sustainable only when surplus and return-flow conditions are sufficient.
+
+## System-level Correction
+
+A forced rebalancing formed by physical reality, ecological constraints, market feedback, technological shifts, social cost, and time feedback when a system blocks circulation, locks surplus, and drains deficiencies for too long.
+
+## First-principles Reading
+
+An interpretive method that begins not from classics, authority, or commentary, but from bottom-level constraints such as system durability, surplus generation, deficiency extraction, forkability, auditability, and protocol reproducibility.
+
+## Ordinary-node Disenchantment
+
+The removal of hero or savior narratives from protocol creation: ordinary nodes may encounter deep structural laws while solving concrete private problems, then upgrade local motives into verifiable protocol contributions.
+
+## Spacetime-node Implementation
+
+The idea that the same bottom-level structure generates different implementations under different historical environments, technical conditions, and physical constraints; the Dao is an abstract interface, the era is the runtime, and the individual is the concrete implementation.

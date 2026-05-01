@@ -137,6 +137,24 @@ Candidate sources:
 - `release_notes/v0.7-silent-distribution-protocol.md`
 - `docs/09_protocol_growth_backlog.md`
 
+## v0.8-return-flow-and-first-principles
+
+Status: `Staging candidate`
+
+Purpose:
+
+- Clarify the temporal relation between the Way of Humans, the Way of Heaven, and the Dao of Fusion.
+- Define return flow as the condition that lets surplus avoid becoming a centralized dead loop.
+- Introduce activation threshold and latent flywheel as explanations for why the Dao of Fusion may exist before it becomes executable.
+- Add first-principles reading, ordinary-node disenchantment, and spacetime-node implementation as interpretation boundaries.
+
+Candidate sources:
+
+- `docs/12_return_flow_and_first_principles.md`
+- `release_notes/v0.8-return-flow-and-first-principles.md`
+- `docs/10_dao_of_fusion.md`
+- `docs/09_protocol_growth_backlog.md`
+
 ## v1.0-carbon-silicon-civilization-protocol
 
 Status: `Long-range`
