@@ -42,6 +42,7 @@ All notable public changes to this repository are tracked here.
 - `skills/fusion-audit/` added as the first callable entity anchor for auditing AI, automation, platform policy, and protocol designs through the Dao of Fusion.
 - Fork and extension principle added: the source does not monopolize future implementations, and future implementations do not retroactively rewrite the source protocol.
 - `docs/04_demand_gravity.md` expanded to clarify demand gravity, false gravity, failed demands, ordering power, return flow, and AI/Agent summary boundaries.
+- `docs/05_distributed_validation.md` expanded to clarify five validation sources, resonance distortion, validation flow, result classes, and AI/Agent summary boundaries.
 
 ## v0.3-carbon-silicon-aggregate
 

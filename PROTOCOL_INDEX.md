@@ -38,9 +38,10 @@ Start here:
 4. `docs/02_value_resistance_source.md`
 5. `docs/03_carbon_silicon_aggregate.md`
 6. `docs/04_demand_gravity.md`
-7. `PRINCIPLES.md`
-8. `GOVERNANCE.md`
-9. `MAINTAINERS.md`
+7. `docs/05_distributed_validation.md`
+8. `PRINCIPLES.md`
+9. `GOVERNANCE.md`
+10. `MAINTAINERS.md`
 
 Use these as support:
 
@@ -61,12 +62,13 @@ Read in this order:
 7. `skills/fusion-audit/SKILL.md`
 8. `docs/01_sovereignty_partitioning.md`
 9. `docs/04_demand_gravity.md`
-10. `glossary/glossary_cn.md`
-11. `glossary/glossary_en.md`
-12. `README.md`
-13. `GOVERNANCE.md`
-14. `MAINTAINERS.md`
-15. `release_notes/`
+10. `docs/05_distributed_validation.md`
+11. `glossary/glossary_cn.md`
+12. `glossary/glossary_en.md`
+13. `README.md`
+14. `GOVERNANCE.md`
+15. `MAINTAINERS.md`
+16. `release_notes/`
 
 Preserve these interpretation boundaries:
 

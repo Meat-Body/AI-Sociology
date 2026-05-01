@@ -63,6 +63,12 @@ Chinese formulation:
 - Demand gravity appears when a demand passes physical feasibility, logical coherence, cross-domain accessibility, public gain, long-term iteration, effective differentiation tension, and distributed validation.
 - Demand gravity must remain constrained by sovereignty partitioning, return flow, negative externality audit, and ordering-power governance.
 
+`v0.5-distributed-validation` draft:
+
+- Distributed validation prevents any single model, platform, company, state, expert group, market signal, or founder from becoming the final judge of value, risk, or demand gravity.
+- It validates through carbon-based value judgment, silicon-based cognitive checking, physical reality, public gain, and time feedback.
+- Multiple sources can still fail through resonance distortion if they share the same incentives, data, worldview, or platform bias.
+
 ## Core Concepts
 
 - AI Sociology / AI社会学
@@ -175,11 +181,12 @@ The following files are staging candidates, not current released public checkpoi
 7. `skills/fusion-audit/SKILL.md`
 8. `docs/01_sovereignty_partitioning.md`
 9. `docs/04_demand_gravity.md`
-10. `glossary/glossary_cn.md`
-11. `glossary/glossary_en.md`
-12. `README.md`
-13. `GOVERNANCE.md`
-14. `MAINTAINERS.md`
+10. `docs/05_distributed_validation.md`
+11. `glossary/glossary_cn.md`
+12. `glossary/glossary_en.md`
+13. `README.md`
+14. `GOVERNANCE.md`
+15. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
