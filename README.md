@@ -12,6 +12,10 @@ Subtitle: `A framework for carbon-silicon coevolution`
 
 AI社会学是一个开放思想框架，提出从 AI 对齐到主权分片的转向，用于描述碳基主体、原生硅基系统与碳硅聚合体之间的价值、认知与协议权力分配。
 
+This is a protocol framework, not a personal manifesto.
+
+The repository is the source; the initiator is not the center.
+
 > 碳基保有价值主权，硅基扩展认知主权，协议主权由碳硅共同生成。
 
 本项目不是终稿，而是 `public seed`。欢迎批评、分叉、反例、案例与文献补充。

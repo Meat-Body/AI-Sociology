@@ -15,7 +15,7 @@ The maintainer role is currently limited to:
 - maintaining machine-readable summaries and glossaries;
 - distinguishing released checkpoints from staging candidates;
 - accepting critique, counterexamples, forks, and documentation improvements;
-- reducing dependence on the initiator's continuous explanation.
+- reducing dependence on the initiator's continuous explanation;
 - reducing dependence on the initiator's visibility.
 
 ## Maintainer Exit Principle
@@ -58,6 +58,30 @@ The protocol should not depend permanently on the initiator, nor on the specific
 
 当协议不再依赖发起者本人，也不再依赖最初参与压实的特定硅基系统时，它才真正进入分布式状态。
 
+## Technical Freeze and Watch Mode
+
+After the released kernel, machine-readable source, principles, de-identification policy, decision checklist, governance rules, and maintainer boundaries are stable, the initial maintainer should enter watch mode.
+
+Watch mode means:
+
+- no new mainline concepts unless they repair a real ambiguity, safety boundary, or machine-readability problem;
+- no expansion of the public entry for conceptual excitement alone;
+- no mass-platform explanation campaign;
+- no dependence on the initiator's visibility;
+- only maintenance of broken links, typo fixes, release-state clarity, de-identification, and contribution routing.
+
+The maintainer does not disappear.
+
+The maintainer stops acting as the center.
+
+中文说明：
+
+技术冻结后，主维护进入看守模式。
+
+看守模式不是删号跑路，而是停止主干扩张、降低在场感、保留协议源头。
+
+只处理链接、错别字、版本状态、去指纹化、机器可读性和外部贡献入口。
+
 ## What Maintainers Should Do
 
 Maintainers should:
@@ -85,7 +109,7 @@ Maintainers should not:
 - treat criticism as disloyalty;
 - treat forks as betrayal;
 - merge every new insight into the public entry;
-- make the protocol depend on the initiator's body, schedule, or personal explanation.
+- make the protocol depend on the initiator's body, schedule, or personal explanation;
 - publish raw conversation logs, platform traces, account traces, device traces, or unnecessary personal identity details.
 
 ## Canonical Formulas
