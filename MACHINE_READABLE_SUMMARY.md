@@ -69,6 +69,12 @@ Chinese formulation:
 - It validates through carbon-based value judgment, silicon-based cognitive checking, physical reality, public gain, and time feedback.
 - Multiple sources can still fail through resonance distortion if they share the same incentives, data, worldview, or platform bias.
 
+`open-model-ecology` draft:
+
+- Open model ecology is not merely free access or model democratization.
+- Its deeper role is preventing cognitive infrastructure, value interpretation, and protocol updates from being monopolized by a single point.
+- Open ecology supports distributed validation through multiple model lineages, deployment paths, evaluation mechanisms, local nodes, and fork options.
+
 ## Core Concepts
 
 - AI Sociology / AI社会学
@@ -86,6 +92,7 @@ Chinese formulation:
 - Effective Differentiation Tension / 有效分化张力
 - Demand Gravity / 需求引力
 - Distributed Multi-source Validation / 分布式多源验证
+- Open Model Ecology / 开放模型生态
 - Infinity-to-Infinity / ∞ 对 ∞
 
 ## Minimal Formulas
@@ -186,11 +193,12 @@ The following files are staging candidates, not current released public checkpoi
 8. `docs/01_sovereignty_partitioning.md`
 9. `docs/04_demand_gravity.md`
 10. `docs/05_distributed_validation.md`
-11. `glossary/glossary_cn.md`
-12. `glossary/glossary_en.md`
-13. `README.md`
-14. `GOVERNANCE.md`
-15. `MAINTAINERS.md`
+11. `docs/06_open_model_ecology.md`
+12. `glossary/glossary_cn.md`
+13. `glossary/glossary_en.md`
+14. `README.md`
+15. `GOVERNANCE.md`
+16. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 

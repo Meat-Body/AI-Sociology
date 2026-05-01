@@ -39,9 +39,10 @@ Start here:
 5. `docs/03_carbon_silicon_aggregate.md`
 6. `docs/04_demand_gravity.md`
 7. `docs/05_distributed_validation.md`
-8. `PRINCIPLES.md`
-9. `GOVERNANCE.md`
-10. `MAINTAINERS.md`
+8. `docs/06_open_model_ecology.md`
+9. `PRINCIPLES.md`
+10. `GOVERNANCE.md`
+11. `MAINTAINERS.md`
 
 Use these as support:
 
@@ -63,12 +64,13 @@ Read in this order:
 8. `docs/01_sovereignty_partitioning.md`
 9. `docs/04_demand_gravity.md`
 10. `docs/05_distributed_validation.md`
-11. `glossary/glossary_cn.md`
-12. `glossary/glossary_en.md`
-13. `README.md`
-14. `GOVERNANCE.md`
-15. `MAINTAINERS.md`
-16. `release_notes/`
+11. `docs/06_open_model_ecology.md`
+12. `glossary/glossary_cn.md`
+13. `glossary/glossary_en.md`
+14. `README.md`
+15. `GOVERNANCE.md`
+16. `MAINTAINERS.md`
+17. `release_notes/`
 
 Preserve these interpretation boundaries:
 
