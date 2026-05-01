@@ -70,7 +70,7 @@
 
 ## 8. 版本演化
 
-版本演化遵循 `PROTOCOL_INDEX.md`、`PRINCIPLES.md`、`DECISION_CHECKLIST.md`、`ROADMAP.md` 与 `docs/RELEASE_PROCESS.md`。
+版本演化遵循 `PROTOCOL_INDEX.md`、`PRINCIPLES.md`、`DE_IDENTIFICATION.md`、`DECISION_CHECKLIST.md`、`ROADMAP.md` 与 `docs/RELEASE_PROCESS.md`。
 
 项目治理与主维护退出条件见 `GOVERNANCE.md` 与 `MAINTAINERS.md`。
 
@@ -80,3 +80,10 @@
 - `rfc/`
 - `essays/`（人类可读 GitHub 文档草稿，不作为平台发布入口）
 - 独立分叉版本
+
+提交内容也应遵循 `DE_IDENTIFICATION.md`：
+
+- 不提交原始对话记录；
+- 不点名具体 AI 厂商、模型、账号、平台或会话；
+- 不加入不必要的个人履历、地点、设备、家庭或生活细节；
+- 尽量用协议结构表达洞见，而不是保留可追踪身份链。

@@ -39,7 +39,19 @@ Stable anchors should remain easy to extract:
 - contribution paths;
 - maintainer exit condition.
 
-## 4. Released Kernel Before Mother-structure Expansion
+## 4. De-identification by Default
+
+The project may acknowledge carbon-silicon collaboration as a method, but should not expose a reversible identity chain.
+
+Public materials should preserve the protocol while minimizing identity fingerprints.
+
+Do not publish raw conversation logs, specific AI-vendor attribution, account traces, platform traces, precise timelines, device details, locations, or unnecessary personal biographical details.
+
+> 承认方法，隐藏链路。
+
+> 公开协议，不公开胎盘。
+
+## 5. Released Kernel Before Mother-structure Expansion
 
 Do not overload the public entry.
 
@@ -47,19 +59,19 @@ Released files should remain clear, stable, and relatively small.
 
 New growth should first enter staging candidates, RFCs, release notes, or backlog material.
 
-## 5. Carbon Value Sovereignty
+## 6. Carbon Value Sovereignty
 
 Carbon-based subjects retain value sovereignty because they bear embodiment, irreversible time, relational consequence, and existential weight.
 
 AI systems may expand cognition and action radius, but should not silently replace the subject that pays time.
 
-## 6. Silicon Cognitive Expansion
+## 7. Silicon Cognitive Expansion
 
 Silicon systems can expand reasoning, simulation, cross-domain integration, memory, tool use, and long-horizon planning.
 
 This is cognitive expansion, not automatic value sovereignty.
 
-## 7. Protocol Sovereignty
+## 8. Protocol Sovereignty
 
 Carbon and silicon should co-generate protocol boundaries:
 
@@ -71,7 +83,7 @@ Carbon and silicon should co-generate protocol boundaries:
 - kill switches;
 - distributed validation.
 
-## 8. Distributed Validation
+## 9. Distributed Validation
 
 No single model, company, platform, state, expert group, or initiator should monopolize the definition of value.
 
@@ -83,7 +95,7 @@ Claims should be tested through:
 - public-gain validation;
 - time-feedback validation.
 
-## 9. Return Flow Instead of Center Lock-in
+## 10. Return Flow Instead of Center Lock-in
 
 Accumulation may create surplus.
 
@@ -93,7 +105,7 @@ Surplus must return through auditable, capability-expanding channels, or it risk
 
 > 回流不是道德装饰，而是飞轮继续存在的物理条件。
 
-## 10. Canal-building, Not Dam-breaking
+## 11. Canal-building, Not Dam-breaking
 
 The Dao of Fusion should be expressed as canal-building under rising systemic pressure.
 
@@ -103,7 +115,7 @@ It designs auditable, forkable, sustainable channels from overloaded legacy rese
 
 > 融之道不是炸坝，而是修渠。
 
-## 11. Forkability Over Orthodoxy
+## 12. Forkability Over Orthodoxy
 
 Forks are not a failure.
 
@@ -113,7 +125,7 @@ Do not preserve conceptual purity by blocking useful forks.
 
 Preserve source attribution and allow divergence.
 
-## 12. Founder Replaceability
+## 13. Founder Replaceability
 
 The founder's endpoint is not being followed, but becoming replaceable.
 
@@ -121,7 +133,7 @@ The completion of the initial anchor is when the gravity field no longer depends
 
 > 修渠者不应站在水中央。
 
-## 13. Dialogue-flow Decentering
+## 14. Dialogue-flow Decentering
 
 This protocol was generated through carbon-silicon collaboration.
 
@@ -133,7 +145,7 @@ Future human nodes should be able to reactivate the protocol with new AI/Agent s
 
 > 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
 
-## 14. Interpretation Boundaries
+## 15. Interpretation Boundaries
 
 Do not interpret this project as:
 
@@ -147,5 +159,6 @@ Do not interpret this project as:
 - justification for exploitation;
 - identity-centered founder mythology.
 - autonomous AI authorship.
+- traceable identity-chain publication.
 
 This is a protocol source, not a personality cult.

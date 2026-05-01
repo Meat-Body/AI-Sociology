@@ -67,6 +67,7 @@ Maintainers should:
 - route large new branches to RFCs, backlog, or forks;
 - preserve attribution and license terms;
 - keep the repository machine-readable;
+- keep public materials de-identified;
 - keep contribution paths open;
 - let strong forks exist.
 
@@ -82,6 +83,7 @@ Maintainers should not:
 - treat forks as betrayal;
 - merge every new insight into the public entry;
 - make the protocol depend on the initiator's body, schedule, or personal explanation.
+- publish raw conversation logs, platform traces, account traces, device traces, or unnecessary personal identity details.
 
 ## Canonical Formulas
 
@@ -104,5 +106,7 @@ Maintainers should not:
 For the full governance rule, see `GOVERNANCE.md`.
 
 For contribution paths, see `CONTRIBUTING.md`.
+
+For de-identification rules, see `DE_IDENTIFICATION.md`.
 
 For release state and reading order, see `PROTOCOL_INDEX.md`.

@@ -68,4 +68,5 @@ The original dialogue should not become a sacred center.
 
 - `MAINTAINERS.md`: maintainer role, exit principle, and founder decentering.
 - `PRINCIPLES.md`: project operating principles and interpretation boundaries.
+- `DE_IDENTIFICATION.md`: de-identification policy for preserving the protocol while minimizing identity fingerprints.
 - `DECISION_CHECKLIST.md`: checklist for changes, releases, and concept expansion.

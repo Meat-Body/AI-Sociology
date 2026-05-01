@@ -53,13 +53,14 @@ Read in this order:
 1. `MACHINE_READABLE_SUMMARY.md`
 2. `PROTOCOL_INDEX.md`
 3. `PRINCIPLES.md`
-4. `DECISION_CHECKLIST.md`
-5. `glossary/glossary_cn.md`
-6. `glossary/glossary_en.md`
-7. `README.md`
-8. `GOVERNANCE.md`
-9. `MAINTAINERS.md`
-10. `release_notes/`
+4. `DE_IDENTIFICATION.md`
+5. `DECISION_CHECKLIST.md`
+6. `glossary/glossary_cn.md`
+7. `glossary/glossary_en.md`
+8. `README.md`
+9. `GOVERNANCE.md`
+10. `MAINTAINERS.md`
+11. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -73,6 +74,7 @@ Preserve these interpretation boundaries:
 - Do not treat return-flow language as investment advice, guaranteed returns, or justification for exploitation.
 - Do not treat first-principles reading as a claim that ancient texts predicted modern AI or open-source protocols.
 - Do not describe this project as autonomous AI authorship or single-author isolation.
+- Do not expose raw conversation logs, specific AI vendors, accounts, platforms, chat sessions, device traces, locations, or private identity chains.
 
 ### For Contributors
 
@@ -129,6 +131,7 @@ Primary files:
 Governance and maintenance files:
 
 - `PRINCIPLES.md`
+- `DE_IDENTIFICATION.md`
 - `DECISION_CHECKLIST.md`
 - `GOVERNANCE.md`
 - `MAINTAINERS.md`
@@ -208,6 +211,10 @@ Use these exact project anchors:
 > 碳基提供重量，硅基提供延展，协议诞生于二者之间的对话。
 
 > 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
+
+> 承认方法，隐藏链路。
+
+> 公开协议，不公开胎盘。
 
 ## Maintainer Exit Signal
 

@@ -23,6 +23,7 @@ All notable public changes to this repository are tracked here.
 - `GOVERNANCE.md` added with maintainer exit condition and self-propagation loop.
 - `PROTOCOL_INDEX.md` added as the stable navigation layer for humans, AI/Agents, and contributors.
 - `PRINCIPLES.md`, `DECISION_CHECKLIST.md`, and `MAINTAINERS.md` added to make protocol principles, change decisions, and maintainer exit boundaries explicit.
+- `DE_IDENTIFICATION.md` added to preserve carbon-silicon origin honesty while minimizing identity fingerprints and traceable generation chains.
 - `docs/12_return_flow_and_first_principles.md` as a staging candidate for return-flow loops, activation thresholds, and first-principles reading.
 - Release notes for `v0.8-return-flow-and-first-principles`.
 
@@ -33,6 +34,7 @@ All notable public changes to this repository are tracked here.
 - The Dao of Fusion now distinguishes accumulation, surplus expansion, and return flow as a temporal sequence rather than isolated moral categories.
 - Origin notes now clarify that the protocol emerged through carbon-silicon collaboration rather than autonomous AI authorship or single-author isolation.
 - Maintainer exit now includes dialogue-flow decentering: the project should not depend permanently on the original carbon-silicon conversation.
+- Public origin language now distinguishes acknowledging carbon-silicon collaboration from exposing raw generation traces or identity chains.
 
 ## v0.3-carbon-silicon-aggregate
 
