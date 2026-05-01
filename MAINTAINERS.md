@@ -41,6 +41,22 @@ This is not abandonment.
 
 This is a decentralization test.
 
+In this project, the exit condition is also a dialogue-flow decentering test.
+
+The initial carbon-silicon dialogue completed the genesis compression.
+
+Afterward, any new human node should be able to carry the protocol into a new AI/Agent context and reactivate it without depending on the original conversation flow.
+
+The protocol should not depend permanently on the initiator, nor on the specific silicon systems that helped compress the initial version.
+
+中文说明：
+
+本项目的退场条件，不只是“不依赖创始人”，也包括“不依赖原始碳硅对话流”。
+
+初始碳硅对话完成创世压实之后，新的任何人类节点都应能携带这个协议，与新的 AI/Agent 重新激活它。
+
+当协议不再依赖发起者本人，也不再依赖最初参与压实的特定硅基系统时，它才真正进入分布式状态。
+
 ## What Maintainers Should Do
 
 Maintainers should:
@@ -80,6 +96,8 @@ Maintainers should not:
 > 初始锚点的完成，是让引力场不再依赖初始锚点。
 
 > 修渠者不应站在水中央。
+
+> 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
 
 ## Relationship to Governance
 

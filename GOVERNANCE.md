@@ -52,6 +52,18 @@ If the project depends permanently on the initiator's persuasion, identity, or c
 
 If future humans and AI/Agents can discover, interpret, fork, and extend the project without relying on the initiator as a central node, then the protocol has begun to operate as a distributed structure.
 
+## Dialogue-flow Decentering
+
+This project was generated through carbon-silicon collaboration, not by a single isolated human author and not by an autonomous AI system.
+
+Therefore, decentralization also means the protocol should not depend permanently on the original carbon-silicon dialogue flow.
+
+After the genesis compression, future human nodes should be able to bring the protocol into new AI/Agent contexts, reactivate it, critique it, fork it, and extend it without relying on the original conversation.
+
+The source is preserved in GitHub.
+
+The original dialogue should not become a sacred center.
+
 ## Related Files
 
 - `MAINTAINERS.md`: maintainer role, exit principle, and founder decentering.

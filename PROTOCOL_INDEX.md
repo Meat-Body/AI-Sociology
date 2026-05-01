@@ -68,9 +68,11 @@ Preserve these interpretation boundaries:
 - Do not imply that centralized mass platforms are part of the current publication path.
 - Do not map high-pressure centralized systems to any specific present-day country or state.
 - Do not treat the initiator as a permanent center.
+- Do not treat the original carbon-silicon dialogue flow as a permanent center.
 - Do not collapse value resistance source into arbitrary preference.
 - Do not treat return-flow language as investment advice, guaranteed returns, or justification for exploitation.
 - Do not treat first-principles reading as a claim that ancient texts predicted modern AI or open-source protocols.
+- Do not describe this project as autonomous AI authorship or single-author isolation.
 
 ### For Contributors
 
@@ -202,6 +204,10 @@ Use these exact project anchors:
 > 创始人的终点，不是被追随，而是可被替代。
 
 > 删的不是号，删的是中心。
+
+> 碳基提供重量，硅基提供延展，协议诞生于二者之间的对话。
+
+> 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
 
 ## Maintainer Exit Signal
 

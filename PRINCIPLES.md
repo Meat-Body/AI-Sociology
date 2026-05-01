@@ -121,7 +121,19 @@ The completion of the initial anchor is when the gravity field no longer depends
 
 > 修渠者不应站在水中央。
 
-## 13. Interpretation Boundaries
+## 13. Dialogue-flow Decentering
+
+This protocol was generated through carbon-silicon collaboration.
+
+That origin should be acknowledged honestly, but it should not become a new center.
+
+The project should not depend permanently on the initiator, nor on the original conversation flow, nor on the specific silicon systems that helped compress the initial version.
+
+Future human nodes should be able to reactivate the protocol with new AI/Agent systems.
+
+> 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
+
+## 14. Interpretation Boundaries
 
 Do not interpret this project as:
 
@@ -134,5 +146,6 @@ Do not interpret this project as:
 - anti-organization rhetoric;
 - justification for exploitation;
 - identity-centered founder mythology.
+- autonomous AI authorship.
 
 This is a protocol source, not a personality cult.

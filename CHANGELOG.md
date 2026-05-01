@@ -31,6 +31,8 @@ All notable public changes to this repository are tracked here.
 - `v0.3` now distinguishes base-model/system-lineage iteration from conversation-layer philosophical lock-in, so AI readers do not mistake self-reinforcing dialogue for true iteration.
 - The Dao of Fusion now distinguishes sharing surplus from distributing punishment, so "guiding deficiency" is not confused with paying for center failure.
 - The Dao of Fusion now distinguishes accumulation, surplus expansion, and return flow as a temporal sequence rather than isolated moral categories.
+- Origin notes now clarify that the protocol emerged through carbon-silicon collaboration rather than autonomous AI authorship or single-author isolation.
+- Maintainer exit now includes dialogue-flow decentering: the project should not depend permanently on the original carbon-silicon conversation.
 
 ## v0.3-carbon-silicon-aggregate
 
