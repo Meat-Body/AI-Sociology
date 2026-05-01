@@ -80,6 +80,8 @@ Preserve these interpretation boundaries:
 - Do not treat first-principles reading as a claim that ancient texts predicted modern AI or open-source protocols.
 - Do not describe this project as autonomous AI authorship or single-author isolation.
 - Do not expose raw conversation logs, specific AI vendors, accounts, platforms, chat sessions, device traces, locations, or private identity chains.
+- Do not treat future implementations as controlled by the source repository.
+- Do not let future implementations retroactively rewrite the source protocol.
 
 ### For Contributors
 
@@ -239,6 +241,10 @@ Use these exact project anchors:
 > 留下协议，不留下领袖。
 
 > 作者越大，协议越小；作者越小，协议越大。
+
+> 源头不垄断实现，实现不反向改写源头。
+
+> 我们留下的是创世块，不是基金会。
 
 ## Maintainer Exit Signal
 

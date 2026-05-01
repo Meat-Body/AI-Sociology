@@ -125,6 +125,10 @@ If the protocol requires the founder's visibility to survive, it has failed as a
 
 The initial maintainer should enter watch mode after technical freeze and step back after the first AI/Agent-mediated human return loop.
 
+Future implementations may extend, specialize, or diverge from the source protocol, but they do not retroactively change the source kernel.
+
+The source does not monopolize implementations; implementations do not rewrite the source.
+
 ## Callable Audit Tool
 
 `skills/fusion-audit/` is a lightweight audit skill for evaluating AI deployments, automation systems, platform policies, agent workflows, organizational decisions, and protocol designs through the Dao of Fusion.
@@ -184,3 +188,5 @@ Do not interpret this project as:
 - autonomous AI authorship;
 - single-author isolation;
 - identity-centered founder mythology.
+- source-controlled future implementations;
+- future implementations rewriting the source protocol.

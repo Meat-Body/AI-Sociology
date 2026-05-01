@@ -64,6 +64,44 @@ The source is preserved in GitHub.
 
 The original dialogue should not become a sacred center.
 
+## Fork and Extension Principle
+
+This project does not aim to control future implementations.
+
+Future contributors may build tools, platforms, governance systems, audit protocols, agent workflows, organizational frameworks, or institutional implementations based on this protocol.
+
+Such implementations may extend, reinterpret, specialize, or even diverge from the original kernel.
+
+They do not retroactively change the source protocol.
+
+The source repository preserves the initial kernel.
+
+Future implementations are responsible for their own design choices, risks, governance structures, and externalities.
+
+## 分叉与扩展原则
+
+本项目不试图控制未来实现。
+
+未来贡献者可以基于本协议构建工具、平台、治理系统、审计协议、Agent 工作流、组织框架或制度实现。
+
+这些实现可以扩展、重释、专门化，甚至偏离原始内核。
+
+它们不会反向改变源协议。
+
+源仓库只保存初始内核。
+
+未来实现需自行承担其设计选择、风险、治理结构和外部性。
+
+## Fork Formulas / 分叉公式
+
+> The source does not monopolize implementations; implementations do not rewrite the source.
+
+> We leave a genesis block, not a foundation.
+
+> 源头不垄断实现，实现不反向改写源头。
+
+> 我们留下的是创世块，不是基金会。
+
 ## Related Files
 
 - `MAINTAINERS.md`: maintainer role, exit principle, and founder decentering.
