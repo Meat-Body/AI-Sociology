@@ -1,5 +1,13 @@
 # Fork-first Governance / Fork 优先治理
 
+Forking is not a failure mode.
+
+Forking is the core mechanism of decentralization.
+
+This repository preserves the initial protocol kernel, not a permanent center of interpretation.
+
+If contributors disagree with the direction, scope, terminology, governance, or implementation choices of this repository, they are encouraged to fork the project, carry forward what they find valuable, and build a new implementation.
+
 This repository preserves the initial protocol kernel.
 
 It does not aim to absorb all future extensions.
@@ -15,6 +23,14 @@ Silence does not imply endorsement.
 Substantial reinterpretations, applications, tools, platforms, governance systems, audit protocols, organizational frameworks, localized editions, or ideological expansions should happen in forks or independent repositories.
 
 The source kernel remains small, stable, machine-readable, de-identified, and low-maintenance.
+
+分叉不是失败。
+
+分叉是去中心化的核心机制。
+
+本仓库保存初始协议内核，而不是永久解释中心。
+
+如果贡献者不同意本仓库的方向、范围、术语、治理或实现方式，可以 fork 本项目，带走其认为值得保留的部分，并建立新的实现。
 
 本仓库保存初始协议内核。
 
@@ -120,17 +136,29 @@ The list is a routing surface, not a certification system.
 
 ## Canonical Formulas
 
+> Forking is not failure. Forking is decentralization doing its job.
+
 > The source repository is not the universe headquarters. It preserves the kernel.
 
 > Merging is not the default path; forking is the default path.
+
+> If it is not good enough, carry forward what works and open another riverbed.
+
+> The source repository leaves the initial spring; rivers are allowed to branch.
 
 > The source does not monopolize implementation; implementation does not rewrite the source.
 
 > We leave a genesis block, not a foundation.
 
+> 分叉不是失败。分叉是去中心化机制正在运行。
+
 > 源仓库不做宇宙总部。源仓库只保存内核。
 
 > 合并不是默认路径，分叉才是默认路径。
+
+> 觉得不够好，就带走可用部分，另起一条河道。
+
+> 源仓库留下初始水源，允许河流分岔。
 
 > 源头不垄断实现，实现不反向改写源头。
 

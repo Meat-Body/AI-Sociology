@@ -48,6 +48,7 @@ All notable public changes to this repository are tracked here.
 - Fork-first governance added to keep the source repository small, stable, low-maintenance, and separate from future implementations.
 - Contribution scope narrowed to low-risk mainline maintenance; conceptual expansions now default to forks or independent repositories.
 - Issue and pull request templates narrowed to maintenance bugs, machine-readability issues, and de-identification risks.
+- Forking clarified as the core mechanism of decentralization rather than a failure mode.
 
 ## v0.3-carbon-silicon-aggregate
 
