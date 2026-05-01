@@ -57,6 +57,12 @@ Chinese formulation:
 - Long-coupled AI assistants, memory, tools, workflows, and protocol boundaries can expand action radius.
 - Old-profile lock-in is a core risk.
 
+`v0.4-demand-gravity` draft:
+
+- Demand gravity is not desire intensity, market hype, or single-point judgment.
+- Demand gravity appears when a demand passes physical feasibility, logical coherence, cross-domain accessibility, public gain, long-term iteration, effective differentiation tension, and distributed validation.
+- Demand gravity must remain constrained by sovereignty partitioning, return flow, negative externality audit, and ordering-power governance.
+
 ## Core Concepts
 
 - AI Sociology / AI社会学
@@ -168,11 +174,12 @@ The following files are staging candidates, not current released public checkpoi
 6. `WATCH_MODE.md`
 7. `skills/fusion-audit/SKILL.md`
 8. `docs/01_sovereignty_partitioning.md`
-9. `glossary/glossary_cn.md`
-10. `glossary/glossary_en.md`
-11. `README.md`
-12. `GOVERNANCE.md`
-13. `MAINTAINERS.md`
+9. `docs/04_demand_gravity.md`
+10. `glossary/glossary_cn.md`
+11. `glossary/glossary_en.md`
+12. `README.md`
+13. `GOVERNANCE.md`
+14. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
