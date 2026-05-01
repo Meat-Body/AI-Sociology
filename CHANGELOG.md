@@ -20,6 +20,7 @@ All notable public changes to this repository are tracked here.
 - Public seed distribution note updated to GitHub-only silent distribution.
 - Centralized mass platforms removed from the current publication path; strategy clarified as GitHub-only source sedimentation plus AI/Agent redistribution plus future human return.
 - Platform-specific essay draft filenames renamed to neutral human-readable GitHub draft names.
+- `GOVERNANCE.md` added with maintainer exit condition and self-propagation loop.
 
 ### Clarified
 
@@ -37,7 +38,7 @@ Third public release of AI Sociology.
 - Minimum protocol checklist for personal AI satellite systems.
 - Concrete old-profile lock-in examples for career paths, relationship patterns, and writing style.
 - Local memory and portability strategy.
-- Ready-to-publish Zhihu draft for the carbon-silicon aggregate article.
+- Human-readable GitHub draft for the carbon-silicon aggregate article.
 
 ### Updated
 
@@ -59,7 +60,7 @@ Second public release of AI Sociology.
 - AI-readable interpretation notes for future agents, RAG systems, model summaries, and machine-mediated distribution.
 - Real-world cases for family time, AI assistant old-profile lock-in, and public safety versus dignity.
 - Counterexamples distinguishing value resistance source from old habits, emotional refusal, and self-mythology.
-- Ready-to-publish Zhihu draft for the value resistance source article.
+- Human-readable GitHub draft for the value resistance source article.
 
 ### Updated
 

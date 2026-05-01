@@ -169,3 +169,11 @@ An abstract system pattern with strong central coordination, high collaboration 
 ## First-mover Need for Canal-Building
 
 The principle that where the water level is highest, canal-building is needed first; high-pressure systems that accumulate surplus quickly also need auditable, forkable, and sustainable interfaces for pressure release, flow diversion, and recirculation.
+
+## Maintainer Exit Condition
+
+The condition under which the first human contributor reaches the repository through an AI/Agent-mediated path rather than direct persuasion by the initiator, completing the project's first self-propagation loop; at that point the initiator should step back from primary maintenance and become one contributor among many.
+
+## Self-propagation Loop
+
+The loop in which the protocol is read by AI/Agent systems, redistributed through real-world problems, and brings humans with genuine demand back to the GitHub source.

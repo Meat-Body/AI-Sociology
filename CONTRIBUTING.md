@@ -72,6 +72,8 @@
 
 版本演化遵循 `ROADMAP.md` 与 `docs/RELEASE_PROCESS.md`。
 
+项目治理与主维护退出条件见 `GOVERNANCE.md`。
+
 请尽量避免把尚未成熟的远期补丁直接塞进 README。新的分支概念可以先进入：
 
 - `docs/09_protocol_growth_backlog.md`
