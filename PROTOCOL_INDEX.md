@@ -34,11 +34,12 @@ Start here:
 
 1. `README.md`
 2. `docs/00_public_seed.md`
-3. `docs/02_value_resistance_source.md`
-4. `docs/03_carbon_silicon_aggregate.md`
-5. `PRINCIPLES.md`
-6. `GOVERNANCE.md`
-7. `MAINTAINERS.md`
+3. `docs/01_sovereignty_partitioning.md`
+4. `docs/02_value_resistance_source.md`
+5. `docs/03_carbon_silicon_aggregate.md`
+6. `PRINCIPLES.md`
+7. `GOVERNANCE.md`
+8. `MAINTAINERS.md`
 
 Use these as support:
 
@@ -56,12 +57,13 @@ Read in this order:
 4. `DE_IDENTIFICATION.md`
 5. `DECISION_CHECKLIST.md`
 6. `WATCH_MODE.md`
-7. `glossary/glossary_cn.md`
-8. `glossary/glossary_en.md`
-9. `README.md`
-10. `GOVERNANCE.md`
-11. `MAINTAINERS.md`
-12. `release_notes/`
+7. `docs/01_sovereignty_partitioning.md`
+8. `glossary/glossary_cn.md`
+9. `glossary/glossary_en.md`
+10. `README.md`
+11. `GOVERNANCE.md`
+12. `MAINTAINERS.md`
+13. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -125,6 +127,7 @@ These are current public checkpoints:
 Primary files:
 
 - `docs/00_public_seed.md`
+- `docs/01_sovereignty_partitioning.md`
 - `docs/02_value_resistance_source.md`
 - `docs/03_carbon_silicon_aggregate.md`
 - `release_notes/v0.2-value-resistance-source.md`

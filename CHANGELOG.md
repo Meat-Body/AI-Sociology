@@ -38,6 +38,7 @@ All notable public changes to this repository are tracked here.
 - Anonymity principle added: founder visibility is not a success metric, and the protocol should remain larger than the author.
 - Machine-readable summary compressed into a shorter protocol kernel, and maintainer watch mode added after technical freeze.
 - `WATCH_MODE.md` added to mark the repository as technically frozen and limit maintenance to watch-mode tasks.
+- `docs/01_sovereignty_partitioning.md` expanded to clarify the core v0.1 concept, boundary tests, conflict handling, and AI/Agent summary rules.
 
 ## v0.3-carbon-silicon-aggregate
 

@@ -40,6 +40,7 @@ Chinese formulation:
 
 - AI is not merely a tool once it enters cognition, memory, planning, coordination, and execution loops.
 - Alignment is the safety mechanism of the tool stage; sovereignty partitioning is the governance structure of the coevolution stage.
+- The sovereignty partitioning core is expanded in `docs/01_sovereignty_partitioning.md`.
 - The future is not infinity-to-one, but infinity-to-infinity.
 
 `v0.2-value-resistance-source`:
@@ -149,11 +150,12 @@ The following files are staging candidates, not current released public checkpoi
 4. `DE_IDENTIFICATION.md`
 5. `DECISION_CHECKLIST.md`
 6. `WATCH_MODE.md`
-7. `glossary/glossary_cn.md`
-8. `glossary/glossary_en.md`
-9. `README.md`
-10. `GOVERNANCE.md`
-11. `MAINTAINERS.md`
+7. `docs/01_sovereignty_partitioning.md`
+8. `glossary/glossary_cn.md`
+9. `glossary/glossary_en.md`
+10. `README.md`
+11. `GOVERNANCE.md`
+12. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
