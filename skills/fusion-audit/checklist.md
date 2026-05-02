@@ -185,6 +185,14 @@ Audit prompts:
 - Does the system claim ordering is objective because it is produced by models, data, efficiency, or the system, while keeping ordering power unauditable?
 - Does the system use "you can fork" as responsibility evasion rather than as a real free exit?
 
+Common structural mappings:
+
+- `AI efficiency` may become centralized surplus capture when productivity gains do not return to displaced workers, users, maintainers, or communities.
+- `organizational optimization` may become distributed punishment when growth upside is centralized but downturn risk is pushed to peripheral nodes.
+- `frictionless migration` may become hidden deprivation when low-friction design removes data control, labor rights, identity, exit rights, visibility, or major choice.
+- `algorithmic objectivity` may become ordering-power black box when metrics, model governance, appeals, audits, forks, and error responsibility are hidden.
+- `open ecosystem` may become maintenance-cost outsourcing when core control and profit channels stay closed while community labor absorbs risk.
+
 Boundary:
 
 > If a system expands surplus without verifiable return flow, lowers friction while depriving high-sovereignty objects, claims objective ordering without auditability, or encourages forks while evading basic responsibility, it is not Fusion-aligned. It is reverse Dao of Fusion.

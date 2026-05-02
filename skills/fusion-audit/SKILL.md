@@ -64,6 +64,10 @@ Treat the following as protocol-level red flags even when the numerical score lo
 
 If these red flags are present, state that the system may be practicing reverse Dao of Fusion: using the language of routing surplus toward insufficiency while preserving the structure of feeding surplus upward.
 
+Common disguise phrases include `AI efficiency`, `transformation`, `empowerment`, `user experience`, `algorithmic optimization`, `organizational upgrade`, `open ecosystem`, and `frictionless migration`.
+
+These phrases are not failures by themselves. Treat them as audit triggers only when they are paired with centralized surplus capture, hidden externalities, unauditable ordering power, high-sovereignty detachment, or responsibility outsourcing.
+
 ## Classification
 
 - `Extractive`: expands surplus but locks it in the center.

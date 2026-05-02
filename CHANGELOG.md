@@ -15,6 +15,7 @@ All notable public changes to this repository are tracked here.
 - `v1.0` should close the source kernel, not the future ecosystem.
 - After `v1.0`, substantial implementations, tools, architectures, case libraries, and governance systems should move to forks or independent repositories.
 - Fusion Audit now includes reverse-fusion red flags as a non-scored safety check.
+- Reverse-fusion checks clarified as structural-risk analysis rather than institution-specific accusation, with mappings for AI efficiency, organizational optimization, frictionless migration, algorithmic objectivity, and open ecosystem language.
 
 ## v1.0-kernel-candidate
 
