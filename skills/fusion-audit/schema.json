@@ -13,6 +13,7 @@
     "buffer_mechanisms",
     "ordering_power",
     "sovereignty_partition",
+    "reverse_fusion_risks",
     "return_flow",
     "scores",
     "total_score",
@@ -144,6 +145,38 @@
         },
         "data_portability": {
           "type": "boolean"
+        }
+      }
+    },
+    "reverse_fusion_risks": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "guiding_language_with_extractive_structure",
+        "surplus_without_verifiable_return_flow",
+        "low_friction_detachment_of_high_sovereignty_objects",
+        "unauditable_algorithmic_ordering_power",
+        "fork_as_responsibility_evasion",
+        "notes"
+      ],
+      "properties": {
+        "guiding_language_with_extractive_structure": {
+          "type": "boolean"
+        },
+        "surplus_without_verifiable_return_flow": {
+          "type": "boolean"
+        },
+        "low_friction_detachment_of_high_sovereignty_objects": {
+          "type": "boolean"
+        },
+        "unauditable_algorithmic_ordering_power": {
+          "type": "boolean"
+        },
+        "fork_as_responsibility_evasion": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string"
         }
       }
     },

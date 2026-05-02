@@ -50,6 +50,19 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - Does it preserve carbon-based value sovereignty, silicon-based cognitive extension, and protocol-level auditability?
 - Is there a kill switch, local override, or fork path?
 - Does surplus flow back into the ecosystem?
+- Is there any reverse-fusion risk: guiding-insufficiency language used to preserve surplus capture, hide ordering power, detach high-sovereignty rights, or evade responsibility through fork rhetoric?
+
+## Reverse-Fusion Red Flags
+
+Treat the following as protocol-level red flags even when the numerical score looks acceptable:
+
+- The system claims to guide insufficiency but provides only narrative comfort, training talk, or nominal opportunity instead of real capability, interface, time, or return flow.
+- The system expands surplus through AI, automation, restructuring, or platform power, but surplus remains locked in the center.
+- Low-friction detachment is applied to high-sovereignty objects such as property, labor, identity, rights, bodies, irreversible time, or major life choices.
+- Ordering power is presented as objective model, data, efficiency, or system output, but is not auditable, contestable, forkable, or locally adjustable.
+- Forking is used as responsibility evasion rather than as a real free exit.
+
+If these red flags are present, state that the system may be practicing reverse Dao of Fusion: using the language of routing surplus toward insufficiency while preserving the structure of feeding surplus upward.
 
 ## Classification
 

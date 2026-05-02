@@ -8,11 +8,13 @@ All notable public changes to this repository are tracked here.
 
 - `FINALIZATION.md` added to define `v1.0-carbon-silicon-civilization-protocol` as the formal initial version and final source-repository version after limited calibration and return-flow observation.
 - Low-friction Detachment Protocol / 无感剥离协议 added as a staging patch for the low-level SOP of guiding deficiency: guide first, remove later.
+- Reverse Dao of Fusion / 逆练融之道 added as an anti-abuse safety patch for detecting protocol misuse, hidden surplus capture, unauditable ordering power, and responsibility evasion through fork rhetoric.
 
 ### Clarified
 
 - `v1.0` should close the source kernel, not the future ecosystem.
 - After `v1.0`, substantial implementations, tools, architectures, case libraries, and governance systems should move to forks or independent repositories.
+- Fusion Audit now includes reverse-fusion red flags as a non-scored safety check.
 
 ## v1.0-kernel-candidate
 

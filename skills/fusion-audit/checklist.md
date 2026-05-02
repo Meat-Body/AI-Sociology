@@ -169,6 +169,26 @@ Audit prompts:
 - Can it survive model, platform, or policy changes?
 - Can it avoid old-profile lock-in?
 
+## 11. Reverse-Fusion Risk
+
+Reverse Dao of Fusion means:
+
+> Using the language of guiding insufficiency while continuing the structure of feeding surplus upward.
+
+This section is a red-flag check, not an additional score dimension.
+
+Audit prompts:
+
+- Does the system claim to help insufficient nodes while giving them only narrative comfort, nominal opportunity, or training rhetoric?
+- Does the system expand surplus but fail to provide verifiable return flow?
+- Does the system lower friction by detaching high-sovereignty objects such as property, labor, identity, rights, bodies, irreversible time, or major life choices?
+- Does the system claim ordering is objective because it is produced by models, data, efficiency, or the system, while keeping ordering power unauditable?
+- Does the system use "you can fork" as responsibility evasion rather than as a real free exit?
+
+Boundary:
+
+> If a system expands surplus without verifiable return flow, lowers friction while depriving high-sovereignty objects, claims objective ordering without auditability, or encourages forks while evading basic responsibility, it is not Fusion-aligned. It is reverse Dao of Fusion.
+
 ## Final Assessment
 
 Classify the system as:
@@ -183,6 +203,7 @@ Then provide:
 - total score;
 - weakest dimension;
 - strongest dimension;
+- reverse-fusion red flags;
 - recommended revisions;
 - remaining risks;
 - minimum conditions for re-audit.
