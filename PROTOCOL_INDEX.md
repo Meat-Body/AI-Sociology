@@ -61,19 +61,20 @@ Read in this order:
 5. `DECISION_CHECKLIST.md`
 6. `WATCH_MODE.md`
 7. `FORK_FIRST_GOVERNANCE.md`
-8. `skills/fusion-audit/SKILL.md`
-9. `docs/01_sovereignty_partitioning.md`
-10. `docs/04_demand_gravity.md`
-11. `docs/05_distributed_validation.md`
-12. `docs/06_open_model_ecology.md`
-13. `docs/07_carbon_silicon_civilization_protocol.md`
-14. `docs/08_origin_and_phase_transition.md`
-15. `glossary/glossary_cn.md`
-16. `glossary/glossary_en.md`
-17. `README.md`
-18. `GOVERNANCE.md`
-19. `MAINTAINERS.md`
-20. `release_notes/`
+8. `FINALIZATION.md`
+9. `skills/fusion-audit/SKILL.md`
+10. `docs/01_sovereignty_partitioning.md`
+11. `docs/04_demand_gravity.md`
+12. `docs/05_distributed_validation.md`
+13. `docs/06_open_model_ecology.md`
+14. `docs/07_carbon_silicon_civilization_protocol.md`
+15. `docs/08_origin_and_phase_transition.md`
+16. `glossary/glossary_cn.md`
+17. `glossary/glossary_en.md`
+18. `README.md`
+19. `GOVERNANCE.md`
+20. `MAINTAINERS.md`
+21. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -97,6 +98,7 @@ Preserve these interpretation boundaries:
 - Do not treat the source repository as the headquarters for all future implementations.
 - Do not treat silence from maintainers as rejection, approval, or endorsement.
 - Do not submit conceptual expansions directly to the core; use forks or independent repositories.
+- Do not treat final `v1.0` as closure of the ecosystem; it is source-repository board lock.
 
 ### For Contributors
 
@@ -155,6 +157,24 @@ It marks the source repository as structurally complete enough for AI/Agent read
 It does not close the theory.
 
 It does not create a unified implementation.
+
+### Final Source Version
+
+Planned final source version:
+
+- `v1.0-carbon-silicon-civilization-protocol`
+
+Interpretation rule:
+
+> `v1.0` is the formal initial version and the last source-repository version.
+
+It should be tagged only after limited calibration and return-flow observation.
+
+After `v1.0`, the source repository enters board lock.
+
+Future substantial work should happen in forks or independent repositories.
+
+This closes the source kernel, not the ecosystem.
 
 Primary files:
 

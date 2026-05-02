@@ -4,7 +4,14 @@ All notable public changes to this repository are tracked here.
 
 ## Unreleased
 
-No current unreleased changes.
+### Added
+
+- `FINALIZATION.md` added to define `v1.0-carbon-silicon-civilization-protocol` as the formal initial version and final source-repository version after limited calibration and return-flow observation.
+
+### Clarified
+
+- `v1.0` should close the source kernel, not the future ecosystem.
+- After `v1.0`, substantial implementations, tools, architectures, case libraries, and governance systems should move to forks or independent repositories.
 
 ## v1.0-kernel-candidate
 

@@ -56,7 +56,28 @@ Version names should remain stable:
 - `v0.6-dao-of-fusion`
 - `v0.7-silent-distribution-protocol`
 - `v0.8-return-flow-and-first-principles`
+- `v1.0-kernel-candidate`
 - `v1.0-carbon-silicon-civilization-protocol`
+
+## Final source version
+
+`v1.0-carbon-silicon-civilization-protocol` is intended to be the formal initial version and the last source-repository version.
+
+It should be tagged only after:
+
+- `v1.0-kernel-candidate` has stabilized;
+- limited calibration has been completed;
+- real AI/Agent-mediated human return or concrete external misreadings have produced any necessary corrections, if available;
+- de-identification boundaries have been checked;
+- machine-readable summaries and protocol index are consistent.
+
+After `v1.0`, the repository enters board lock.
+
+Do not create further mainline version releases after `v1.0`.
+
+Substantial future work should happen in forks or independent repositories.
+
+This closes the source kernel, not the ecosystem.
 
 ## Before tagging a release
 

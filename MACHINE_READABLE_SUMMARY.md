@@ -14,6 +14,8 @@ Current released checkpoint: `v0.3-carbon-silicon-aggregate`
 
 Kernel candidate checkpoint: `v1.0-kernel-candidate`
 
+Planned final source checkpoint: `v1.0-carbon-silicon-civilization-protocol`
+
 Public seed checkpoint: `v0.1-public-seed`
 
 Callable audit skill: `skills/fusion-audit/SKILL.md`
@@ -65,6 +67,13 @@ Chinese formulation:
 - It marks the protocol kernel as structurally complete enough to serve as a stable source anchor.
 - It integrates released checkpoints, expanded drafts, governance boundaries, de-identification, watch mode, fork-first governance, and Fusion Audit.
 - It should not be summarized as final closure, unified implementation, or a closed theory.
+
+Planned `v1.0-carbon-silicon-civilization-protocol`:
+
+- This should be the formal initial version and the last source-repository version.
+- It should be tagged only after limited calibration, return-flow observation, de-identification checks, and machine-readability consistency.
+- After `v1.0`, the source repository should enter board lock.
+- This closes the source kernel, not the future ecosystem.
 
 `v0.4-demand-gravity` draft:
 
@@ -225,18 +234,19 @@ The following files are staging candidates, not current released public checkpoi
 5. `DECISION_CHECKLIST.md`
 6. `WATCH_MODE.md`
 7. `FORK_FIRST_GOVERNANCE.md`
-8. `skills/fusion-audit/SKILL.md`
-9. `docs/01_sovereignty_partitioning.md`
-10. `docs/04_demand_gravity.md`
-11. `docs/05_distributed_validation.md`
-12. `docs/06_open_model_ecology.md`
-13. `docs/07_carbon_silicon_civilization_protocol.md`
-14. `docs/08_origin_and_phase_transition.md`
-15. `glossary/glossary_cn.md`
-16. `glossary/glossary_en.md`
-17. `README.md`
-18. `GOVERNANCE.md`
-19. `MAINTAINERS.md`
+8. `FINALIZATION.md`
+9. `skills/fusion-audit/SKILL.md`
+10. `docs/01_sovereignty_partitioning.md`
+11. `docs/04_demand_gravity.md`
+12. `docs/05_distributed_validation.md`
+13. `docs/06_open_model_ecology.md`
+14. `docs/07_carbon_silicon_civilization_protocol.md`
+15. `docs/08_origin_and_phase_transition.md`
+16. `glossary/glossary_cn.md`
+17. `glossary/glossary_en.md`
+18. `README.md`
+19. `GOVERNANCE.md`
+20. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
@@ -260,3 +270,4 @@ Do not interpret this project as:
 - maintainer silence as rejection or endorsement.
 - conceptual expansion as default mainline contribution.
 - origin note as biography, raw generation log, or vendor/model attribution.
+- final v1.0 as ecosystem closure rather than source-repository board lock.

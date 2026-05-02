@@ -182,14 +182,29 @@ After candidate:
 
 ## v1.0-carbon-silicon-civilization-protocol
 
-Status: `Not currently planned as a closed final release`
+Status: `Final source-repository version after calibration and return-flow`
 
 Purpose:
 
 - Integrate sovereignty partitioning, value resistance source, carbon-silicon aggregates, demand gravity, distributed validation, open model ecology, and civilization-level protocol design.
-- Do not force closure if `v1.0` would imply a sealed or unified implementation.
+- Publish the formal initial version of the protocol source.
+- Close the source repository as an expanding mainline after necessary calibration.
+- Make clear that `v1.0` closes the source kernel, not the future ecosystem.
+
+Before release:
+
+- Wait for real AI/Agent-mediated human return or concrete external misreadings where possible.
+- Apply only calibration changes that improve clarity, examples, machine readability, glossary consistency, de-identification, and release-state accuracy.
+- Avoid adding new mainline concepts.
+
+After release:
+
+- Enter source-repository board lock.
+- Allow only errata, security/privacy boundary repairs, de-identification repairs, broken links, obvious typos, and dangerous-misreading clarifications.
+- Route all substantial implementations, architectures, tools, platforms, case libraries, literature expansions, and governance systems to forks or independent repositories.
 
 Candidate sources:
 
 - `docs/07_carbon_silicon_civilization_protocol.md`
-- `docs/09_protocol_growth_backlog.md`
+- `docs/08_origin_and_phase_transition.md`
+- `FINALIZATION.md`
