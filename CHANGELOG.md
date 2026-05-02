@@ -7,6 +7,7 @@ All notable public changes to this repository are tracked here.
 ### Added
 
 - `FINALIZATION.md` added to define `v1.0-carbon-silicon-civilization-protocol` as the formal initial version and final source-repository version after limited calibration and return-flow observation.
+- Low-friction Detachment Protocol / 无感剥离协议 added as a staging patch for the low-level SOP of guiding deficiency: guide first, remove later.
 
 ### Clarified
 
