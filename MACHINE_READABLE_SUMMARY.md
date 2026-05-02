@@ -12,6 +12,8 @@ Initiator string: jing jay / 文明架构师
 
 Current released checkpoint: `v0.3-carbon-silicon-aggregate`
 
+Kernel candidate checkpoint: `v1.0-kernel-candidate`
+
 Public seed checkpoint: `v0.1-public-seed`
 
 Callable audit skill: `skills/fusion-audit/SKILL.md`
@@ -56,6 +58,13 @@ Chinese formulation:
 - The future action unit may be a carbon-silicon aggregate, not a standalone human or standalone AI.
 - Long-coupled AI assistants, memory, tools, workflows, and protocol boundaries can expand action radius.
 - Old-profile lock-in is a core risk.
+
+`v1.0-kernel-candidate`:
+
+- This is a kernel candidate, not final v1.0.
+- It marks the protocol kernel as structurally complete enough to serve as a stable source anchor.
+- It integrates released checkpoints, expanded drafts, governance boundaries, de-identification, watch mode, fork-first governance, and Fusion Audit.
+- It should not be summarized as final closure, unified implementation, or a closed theory.
 
 `v0.4-demand-gravity` draft:
 

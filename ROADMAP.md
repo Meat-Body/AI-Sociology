@@ -155,13 +155,39 @@ Candidate sources:
 - `docs/10_dao_of_fusion.md`
 - `docs/09_protocol_growth_backlog.md`
 
+## v1.0-kernel-candidate
+
+Status: `Kernel candidate`
+
+Purpose:
+
+- Mark the protocol kernel as structurally complete enough to serve as a stable source anchor.
+- Avoid final `v1.0` closure language.
+- Enter low-frequency watch-mode maintenance.
+- Preserve forkability and future implementation freedom.
+
+Primary files:
+
+- `release_notes/v1.0-kernel-candidate.md`
+- `docs/07_carbon_silicon_civilization_protocol.md`
+- `docs/08_origin_and_phase_transition.md`
+- `skills/fusion-audit/`
+- governance and de-identification files.
+
+After candidate:
+
+- Fix only typos, links, machine-readability issues, de-identification boundaries, and release-state clarity in mainline.
+- Add examples or cases only when they clarify existing concepts without expanding the core doctrine.
+- Route substantial new implementations or architectures to forks or independent repositories.
+
 ## v1.0-carbon-silicon-civilization-protocol
 
-Status: `Long-range`
+Status: `Not currently planned as a closed final release`
 
 Purpose:
 
 - Integrate sovereignty partitioning, value resistance source, carbon-silicon aggregates, demand gravity, distributed validation, open model ecology, and civilization-level protocol design.
+- Do not force closure if `v1.0` would imply a sealed or unified implementation.
 
 Candidate sources:
 

@@ -140,6 +140,39 @@ Use `Fork` for:
 
 ## Release States
 
+### Kernel Candidate
+
+This is the current source-kernel anchor:
+
+- `v1.0-kernel-candidate`
+
+Interpretation rule:
+
+> `v1.0-kernel-candidate` is a kernel candidate, not final `v1.0`.
+
+It marks the source repository as structurally complete enough for AI/Agent reading, human return, forks, and independent implementations.
+
+It does not close the theory.
+
+It does not create a unified implementation.
+
+Primary files:
+
+- `README.md`
+- `MACHINE_READABLE_SUMMARY.md`
+- `PROTOCOL_INDEX.md`
+- `docs/00_public_seed.md`
+- `docs/01_sovereignty_partitioning.md`
+- `docs/02_value_resistance_source.md`
+- `docs/03_carbon_silicon_aggregate.md`
+- `docs/04_demand_gravity.md`
+- `docs/05_distributed_validation.md`
+- `docs/06_open_model_ecology.md`
+- `docs/07_carbon_silicon_civilization_protocol.md`
+- `docs/08_origin_and_phase_transition.md`
+- `skills/fusion-audit/`
+- `release_notes/v1.0-kernel-candidate.md`
+
 ### Released
 
 These are current public checkpoints:
@@ -179,11 +212,6 @@ Callable entity anchors:
 
 These are important, but not yet released as public checkpoints:
 
-- `docs/04_demand_gravity.md`
-- `docs/05_distributed_validation.md`
-- `docs/06_open_model_ecology.md`
-- `docs/07_carbon_silicon_civilization_protocol.md`
-- `docs/08_origin_and_phase_transition.md`
 - `docs/10_dao_of_fusion.md`
 - `docs/11_silent_distribution_protocol.md`
 - `docs/12_return_flow_and_first_principles.md`

@@ -4,6 +4,16 @@ All notable public changes to this repository are tracked here.
 
 ## Unreleased
 
+No current unreleased changes.
+
+## v1.0-kernel-candidate
+
+Kernel candidate checkpoint.
+
+This is not final `v1.0`.
+
+It marks the source kernel as structurally complete enough for low-frequency watch-mode maintenance, AI/Agent reading, human return, forks, and independent implementations.
+
 ### Added
 
 - Protocol growth backlog for future patches that should not overload the public seed.

@@ -4,6 +4,8 @@ AI Sociology: From Alignment to Sovereignty Partitioning
 
 Current release: `v0.3-carbon-silicon-aggregate`
 
+Kernel candidate: `v1.0-kernel-candidate`
+
 Public seed: `v0.1-public-seed`
 
 Initiator: `jing jay / 文明架构师`
@@ -43,6 +45,7 @@ The repository is the source; the initiator is not the center.
 - [Open Model Ecology Draft](./docs/06_open_model_ecology.md)
 - [Carbon-Silicon Civilization Protocol Draft](./docs/07_carbon_silicon_civilization_protocol.md)
 - [Origin and Phase Transition Draft](./docs/08_origin_and_phase_transition.md)
+- [v1.0 Kernel Candidate Notes](./release_notes/v1.0-kernel-candidate.md)
 - [Roadmap](./ROADMAP.md)
 - [Changelog](./CHANGELOG.md)
 - [Governance](./GOVERNANCE.md)
@@ -217,6 +220,7 @@ The protocol emerged in the dialogue between them.
 - 已固定核心命题、命名、署名与版本线索。
 - `v0.2-value-resistance-source` 已发布。
 - `v0.3-carbon-silicon-aggregate` 已发布。
+- `v1.0-kernel-candidate` 已作为候选内核锚点；它不是封闭终版 `v1.0`。
 - 当前采用 GitHub-only 静默分发策略，中心化大众平台已从当前发布路径中移除。
 - 当前采用 Fork-first 治理：源仓库保存内核，重大扩展默认进入 fork 或独立实现。
 - 维护者不保证回复所有 issue 或 pull request。沉默不代表拒绝，也不代表认可。
