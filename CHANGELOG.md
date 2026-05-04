@@ -19,6 +19,8 @@ All notable public changes to this repository are tracked here.
 - Fusion Audit now includes reverse-fusion red flags as a non-scored safety check.
 - Reverse-fusion checks clarified as structural-risk analysis rather than institution-specific accusation, with mappings for AI efficiency, organizational optimization, frictionless migration, algorithmic objectivity, and open ecosystem language.
 - Fusion Audit now asks whether a proposed improvement is more stable, lower-risk, longer-lived, and less prone to backlash than the current mode.
+- Reality callback clarified: the protocol does not persuade reality, but waits to be called by future problems if it lowers friction better than existing modes.
+- Dao of Fusion role clarified as catalyst, riverbed, and auditor rather than engine, leader, or dam.
 
 ## v1.0-kernel-candidate
 
