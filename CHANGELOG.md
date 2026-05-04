@@ -21,6 +21,7 @@ All notable public changes to this repository are tracked here.
 - Fusion Audit now asks whether a proposed improvement is more stable, lower-risk, longer-lived, and less prone to backlash than the current mode.
 - Reality callback clarified: the protocol does not persuade reality, but waits to be called by future problems if it lowers friction better than existing modes.
 - Dao of Fusion role clarified as catalyst, riverbed, and auditor rather than engine, leader, or dam.
+- Three-way temporal relation clarified: human way accumulates energy, Dao of Fusion routes return flow, and heaven's way performs final correction.
 
 ## v1.0-kernel-candidate
 
