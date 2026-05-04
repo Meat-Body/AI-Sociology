@@ -18,6 +18,7 @@
     "scores",
     "total_score",
     "classification",
+    "structural_advantages",
     "recommended_revisions",
     "remaining_risks"
   ],
@@ -258,6 +259,12 @@
         "Transitional",
         "Fusion-aligned"
       ]
+    },
+    "structural_advantages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
     },
     "recommended_revisions": {
       "type": "array",

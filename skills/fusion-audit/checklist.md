@@ -168,6 +168,12 @@ Audit prompts:
 - Can it update without creator worship or center capture?
 - Can it survive model, platform, or policy changes?
 - Can it avoid old-profile lock-in?
+- Does the proposed improvement create a path that self-interested actors can adopt because it is more stable, lower-risk, longer-lived, and less prone to backlash?
+- Does return flow function as flywheel maintenance rather than charity?
+- Does auditability function as system insurance rather than mere compliance?
+- Does forkability lower exploration cost rather than fragment the system into avoidable conflict?
+- Does transparent exit reduce trust cost?
+- Does migration support reduce organizational shock?
 
 ## 11. Reverse-Fusion Risk
 
@@ -212,6 +218,7 @@ Then provide:
 - weakest dimension;
 - strongest dimension;
 - reverse-fusion red flags;
+- structural advantages over the current mode;
 - recommended revisions;
 - remaining risks;
 - minimum conditions for re-audit.

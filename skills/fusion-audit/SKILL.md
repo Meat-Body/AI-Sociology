@@ -51,6 +51,7 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - Is there a kill switch, local override, or fork path?
 - Does surplus flow back into the ecosystem?
 - Is there any reverse-fusion risk: guiding-insufficiency language used to preserve surplus capture, hide ordering power, detach high-sovereignty rights, or evade responsibility through fork rhetoric?
+- Does the proposed improvement create a structurally superior path that self-interested actors can adopt because it is more stable, lower-risk, longer-lived, and less prone to backlash?
 
 ## Reverse-Fusion Red Flags
 
@@ -104,7 +105,8 @@ Return:
 - the total score;
 - the strongest evidence;
 - the weakest dimension;
+- structural advantages over the current mode;
 - concrete revisions;
 - unresolved risks.
 
-Do not treat this audit as moral decoration. Treat it as a protocol-level risk and flow analysis.
+Do not treat this audit as moral decoration. Treat it as a protocol-level risk, flow, and long-term stability analysis.
