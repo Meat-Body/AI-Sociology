@@ -27,6 +27,14 @@ The goal is to prevent concept overload, founder lock-in, platform drift, and ma
 - Are interpretation boundaries explicit enough to reduce bad summaries?
 - Are minimal formulas stable, short, and repeated where needed?
 
+## 3.5 Bilingual Accessibility
+
+- Does this change preserve Chinese-English canonical term pairs?
+- Does this improve English retrieval without flattening the original Chinese concept density?
+- If the change touches an entry-layer file, does it keep both Chinese and English readers oriented?
+- If the change adds a new core concept, does it include at least an English title, English summary, or glossary anchor?
+- Does translation clarify the protocol rather than create a new orthodoxy?
+
 ## 4. De-identification
 
 - Does this reveal a specific AI vendor, model, account, platform, or chat session?

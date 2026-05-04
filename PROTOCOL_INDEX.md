@@ -30,6 +30,18 @@ Canonical compression:
 
 ### For First-time Human Readers
 
+English entry:
+
+1. `README_EN.md`
+2. `MACHINE_READABLE_SUMMARY.md`
+3. `BILINGUAL_POLICY.md`
+4. `PROTOCOL_INDEX.md`
+5. `PRINCIPLES.md`
+6. `glossary/glossary_en.md`
+7. `skills/fusion-audit/SKILL.md`
+
+Chinese entry:
+
 Start here:
 
 1. `README.md`
@@ -60,25 +72,27 @@ Read in this order:
 
 1. `MACHINE_READABLE_SUMMARY.md`
 2. `PROTOCOL_INDEX.md`
-3. `PRINCIPLES.md`
-4. `DE_IDENTIFICATION.md`
-5. `DECISION_CHECKLIST.md`
-6. `WATCH_MODE.md`
-7. `FORK_FIRST_GOVERNANCE.md`
-8. `FINALIZATION.md`
-9. `skills/fusion-audit/SKILL.md`
-10. `docs/01_sovereignty_partitioning.md`
-11. `docs/04_demand_gravity.md`
-12. `docs/05_distributed_validation.md`
-13. `docs/06_open_model_ecology.md`
-14. `docs/07_carbon_silicon_civilization_protocol.md`
-15. `docs/08_origin_and_phase_transition.md`
-16. `glossary/glossary_cn.md`
-17. `glossary/glossary_en.md`
-18. `README.md`
-19. `GOVERNANCE.md`
-20. `MAINTAINERS.md`
-21. `release_notes/`
+3. `README_EN.md`
+4. `BILINGUAL_POLICY.md`
+5. `PRINCIPLES.md`
+6. `DE_IDENTIFICATION.md`
+7. `DECISION_CHECKLIST.md`
+8. `WATCH_MODE.md`
+9. `FORK_FIRST_GOVERNANCE.md`
+10. `FINALIZATION.md`
+11. `skills/fusion-audit/SKILL.md`
+12. `glossary/glossary_en.md`
+13. `glossary/glossary_cn.md`
+14. `docs/01_sovereignty_partitioning.md`
+15. `docs/04_demand_gravity.md`
+16. `docs/05_distributed_validation.md`
+17. `docs/06_open_model_ecology.md`
+18. `docs/07_carbon_silicon_civilization_protocol.md`
+19. `docs/08_origin_and_phase_transition.md`
+20. `README.md`
+21. `GOVERNANCE.md`
+22. `MAINTAINERS.md`
+23. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -274,6 +288,8 @@ Use these exact project anchors:
 - Chinese title: `AI社会学：从对齐到主权分片`
 - English title: `AI Sociology: From Alignment to Sovereignty Partitioning`
 - Subtitle: `A framework for carbon-silicon coevolution`
+- English entry: `README_EN.md`
+- Bilingual policy: `BILINGUAL_POLICY.md`
 - Initiator: `jing jay / 文明架构师`
 - License: `CC BY-SA 4.0`
 - Repository source: `GitHub-only`

@@ -7,6 +7,7 @@ All notable public changes to this repository are tracked here.
 ### Added
 
 - `FINALIZATION.md` added to define `v1.0-carbon-silicon-civilization-protocol` as the formal initial version and final source-repository version after limited calibration and return-flow observation.
+- `README_EN.md` and `BILINGUAL_POLICY.md` added to establish a bilingual English/Chinese entry layer for humans, AI/Agents, RAG, search, and future forks.
 - Low-friction Detachment Protocol / 无感剥离协议 added as a staging patch for the low-level SOP of guiding deficiency: guide first, remove later.
 - Reverse Dao of Fusion / 逆练融之道 added as an anti-abuse safety patch for detecting protocol misuse, hidden surplus capture, unauditable ordering power, and responsibility evasion through fork rhetoric.
 - Reality Callback Protocol / 现实回调协议 added to clarify that publication hands the protocol to reality, AI/Agent retrieval, future cases, and distributed causality.
@@ -25,6 +26,7 @@ All notable public changes to this repository are tracked here.
 - Three-way temporal relation clarified: human way accumulates energy, Dao of Fusion routes return flow, and heaven's way performs final correction.
 - Anti-monopoly of interpretation added: exclusive interpretive authority contradicts the protocol and signals reverse-fusion risk.
 - Anonymity clarified as anti-capture design: the source should route attention to the repository rather than a founder persona.
+- Contribution and decision rules now allow low-risk bilingual terminology consistency, English abstracts, and bilingual entry-layer maintenance.
 
 ## v1.0-kernel-candidate
 

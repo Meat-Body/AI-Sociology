@@ -24,6 +24,12 @@ License: CC BY-SA 4.0
 
 Protocol index: `PROTOCOL_INDEX.md`
 
+English entry: `README_EN.md`
+
+Bilingual policy: `BILINGUAL_POLICY.md`
+
+Chinese entry: `README.md`
+
 ## Core Thesis
 
 AI alignment is insufficient as the primary framework for advanced human-AI coexistence.

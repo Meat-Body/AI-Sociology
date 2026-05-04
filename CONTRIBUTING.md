@@ -30,6 +30,8 @@ Pull requests to the core documents are limited to low-risk maintenance:
 - broken links;
 - formatting repairs;
 - glossary consistency;
+- bilingual terminology consistency;
+- English abstracts for core documents;
 - machine-readability improvements;
 - de-identification fixes;
 - security or privacy boundary improvements;
@@ -46,6 +48,8 @@ Please publish conceptual expansions in your own fork.
 - 失效链接；
 - 格式修复；
 - 术语一致性；
+- 中英术语一致性；
+- 核心文档英文摘要；
 - 机器可读性改进；
 - 去指纹化修复；
 - 安全与隐私边界改进；
@@ -105,6 +109,7 @@ Before opening a pull request, confirm:
 - the change does not publish raw conversation logs;
 - the change does not attribute passages to specific AI vendors, models, accounts, platforms, or chat sessions;
 - the change does not move, rewrite, or reinterpret released anchors.
+- translation changes preserve canonical bilingual term pairs and do not create a new doctrine.
 
 ## De-identification
 
