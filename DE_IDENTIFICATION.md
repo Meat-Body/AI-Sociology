@@ -73,6 +73,18 @@ Visibility is not a success metric.
 
 The repository should preserve source and protocol, not produce a public figure.
 
+Anonymity is anti-capture design.
+
+It does not erase the source.
+
+It prevents the source from being collapsed into a biography.
+
+The public route should lead to the repository, not to a personality center.
+
+> 作者越不可捕获，协议越不可收编。
+
+> 找源，比找人更适合本项目。
+
 ## Public-source Boundary
 
 The public source is this GitHub repository.

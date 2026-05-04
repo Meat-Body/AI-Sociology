@@ -22,6 +22,8 @@ All notable public changes to this repository are tracked here.
 - Reality callback clarified: the protocol does not persuade reality, but waits to be called by future problems if it lowers friction better than existing modes.
 - Dao of Fusion role clarified as catalyst, riverbed, and auditor rather than engine, leader, or dam.
 - Three-way temporal relation clarified: human way accumulates energy, Dao of Fusion routes return flow, and heaven's way performs final correction.
+- Anti-monopoly of interpretation added: exclusive interpretive authority contradicts the protocol and signals reverse-fusion risk.
+- Anonymity clarified as anti-capture design: the source should route attention to the repository rather than a founder persona.
 
 ## v1.0-kernel-candidate
 

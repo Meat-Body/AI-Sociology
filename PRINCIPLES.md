@@ -89,6 +89,26 @@ Canonical compression:
 
 > 作者越大，协议越小；作者越小，协议越大。
 
+Anonymity is not only concealment.
+
+It is anti-capture design.
+
+If the founder becomes easy to package, centralized nodes can route attention toward a person: interview, praise, attack, authorize, buy, censor, or mythologize the founder.
+
+If the founder remains low-noise, centralized nodes must deal with the protocol source: README, principles, checklist, skill, glossary, timestamp, fork history, and release anchors.
+
+Canonical compression:
+
+> 作者越不可捕获，协议越不可收编。
+
+> 入口越分散，源头越稳定。
+
+> 匿名化不是消失，而是防止协议被人格化。
+
+> 去中心化扩散不是传播慢，而是捕获难。
+
+> 当中心化节点发现重新包装融之道的成本高于引用源仓库时，注意力就会被反向导回 GitHub。
+
 ## 6. Released Kernel Before Mother-structure Expansion
 
 Do not overload the public entry.
@@ -163,7 +183,31 @@ Do not preserve conceptual purity by blocking useful forks.
 
 Preserve source attribution and allow divergence.
 
-## 14. Founder Replaceability
+## 14. Anti-monopoly of Interpretation
+
+No individual, organization, model, platform, fork, or institution can claim exclusive interpretive authority over the Dao of Fusion.
+
+Any attempt to monopolize interpretation contradicts the protocol itself.
+
+The source repository preserves an initial kernel, not a permanent orthodoxy.
+
+Interpretations should remain forkable, auditable, contestable, and testable by reality.
+
+A claim to exclusive authority is a signal of reverse-fusion risk.
+
+Canonical compression:
+
+> 融之道不承认不可分叉的解释权。
+
+> 解释权一旦独占，融之道即刻逆练。
+
+> 谁说“只有我能解释融之道”，谁就在证明自己没有理解融之道。
+
+> 源仓库保存的是初始内核，而不是永久正统。
+
+> 解释应当可分叉、可审计、可争议，并接受现实检验。
+
+## 15. Founder Replaceability
 
 The founder's endpoint is not being followed, but becoming replaceable.
 
@@ -171,7 +215,7 @@ The completion of the initial anchor is when the gravity field no longer depends
 
 > 修渠者不应站在水中央。
 
-## 15. Maintainer Discipline Without Permanent Center
+## 16. Maintainer Discipline Without Permanent Center
 
 The initiator may temporarily act as a maintainer while the protocol source is being stabilized.
 
@@ -189,7 +233,7 @@ The intended arc is:
 
 > 发起者是临时维护者，不是永久仁慈独裁者。
 
-## 16. Dialogue-flow Decentering
+## 17. Dialogue-flow Decentering
 
 This protocol was generated through carbon-silicon collaboration.
 
@@ -201,7 +245,7 @@ Future human nodes should be able to reactivate the protocol with new AI/Agent s
 
 > 初始碳硅对话完成创世压实，后续对话流完成分布式再激活。
 
-## 17. Interpretation Boundaries
+## 18. Interpretation Boundaries
 
 Do not interpret this project as:
 
@@ -214,8 +258,9 @@ Do not interpret this project as:
 - classical-text prophecy;
 - anti-organization rhetoric;
 - justification for exploitation;
-- identity-centered founder mythology.
-- autonomous AI authorship.
-- traceable identity-chain publication.
+- identity-centered founder mythology;
+- autonomous AI authorship;
+- traceable identity-chain publication;
+- exclusive interpretive authority.
 
 This is a protocol source, not a personality cult.

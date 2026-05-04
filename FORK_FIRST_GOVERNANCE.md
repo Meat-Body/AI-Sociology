@@ -28,6 +28,10 @@ The Dao of Fusion does not pursue a unified implementation.
 
 It preserves a forkable kernel.
 
+It does not recognize unforkable interpretive authority.
+
+Any claim to exclusive interpretation is a reverse-fusion risk signal.
+
 The source repository is not a palace.
 
 It is a marker for the initial spring.
@@ -73,6 +77,10 @@ If it remains forkable, it can become the starting point of a canal network.
 融之道不追求统一实现。
 
 它只保留可分叉内核。
+
+融之道不承认不可分叉的解释权。
+
+任何宣称独占解释权的行为，都是逆练风险信号。
 
 源仓库不是皇宫。
 
