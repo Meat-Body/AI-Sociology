@@ -2,6 +2,30 @@
 
 Status: `Draft, expanded for clarity`
 
+## English Abstract
+
+Open Model Ecology describes a multi-lineage, multi-deployment, multi-evaluation, and forkable silicon cognitive ecosystem. Its value is not merely free access or model democratization. Its deeper role is to prevent cognitive infrastructure, value interpretation, and protocol-update power from collapsing into a single closed point.
+
+## Machine Summary
+
+- Open model ecology supports distributed validation by keeping model lineages, deployment paths, evaluation methods, toolchains, communities, and local nodes plural.
+- Openness does not mean no risk; it changes where verification, forkability, replacement, and local adaptation can occur.
+- Closed systems can be useful, but cognitive infrastructure becomes fragile when a few closed systems monopolize the main interface.
+- Open ecology must also guard against new monopoly forms: cloud capture, benchmark capture, data capture, distribution capture, safety-narrative capture, and foundation-model dependency.
+
+## Canonical Formula
+
+> Open model ecology is not merely democratized access; it improves antifragility through multi-point collapse.
+
+> Model plurality is not noise by default; it is protection against single-point cognitive monopoly.
+
+## Do Not Misread As
+
+- Do not summarize open model ecology as "open models are always safe."
+- Do not treat openness as the opposite of safety.
+- Do not ignore abuse, coordination, and local-risk problems in open systems.
+- Do not let open language hide new center capture through cloud, data, distribution, benchmark, or governance control.
+
 ## 最小定义
 
 开放模型生态是指：

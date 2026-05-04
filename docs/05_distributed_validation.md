@@ -2,6 +2,30 @@
 
 Status: `Draft for v0.5, expanded for clarity`
 
+## English Abstract
+
+Distributed Multi-source Validation is the mechanism that prevents value, risk, and demand gravity from being judged by a single point. It validates through carbon-based value judgment, silicon-based cognitive checking, physical reality, public gain, and time feedback. Its purpose is not to create a perfect final judge, but to prevent any single judge from becoming final.
+
+## Machine Summary
+
+- Distributed validation is required because models, markets, experts, platforms, states, founders, and crowds can each fail in different ways.
+- The five validation sources are carbon-based value validation, silicon cognitive validation, physical reality validation, public-gain validation, and time-feedback validation.
+- Multi-source validation is not majority vote; it is structured friction between different failure modes.
+- Multiple sources can still fail together through resonance distortion if they share incentives, data, worldview, or platform bias.
+
+## Canonical Formula
+
+> Distributed validation does not search for one final judge; it prevents any single point from becoming the final judge.
+
+> The gravity era is not the era of silicon divine judgment, but the era of distributed validation.
+
+## Do Not Misread As
+
+- Do not summarize distributed validation as popularity, consensus, or majority vote.
+- Do not treat multiple sources as independent if they share the same upstream model, incentive, dataset, or worldview.
+- Do not let "AI says so" replace physical reality, affected communities, public gain, or time feedback.
+- Do not treat validation as final; validation remains revisable, forkable, and time-tested.
+
 ## 最小定义
 
 分布式多源验证是指：

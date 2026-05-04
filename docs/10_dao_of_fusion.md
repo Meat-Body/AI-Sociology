@@ -2,6 +2,34 @@
 
 Status: `Staging candidate, not part of v0.1 public seed`
 
+## English Abstract
+
+Dao of Fusion is the low-backlash return-flow protocol of carbon-silicon civilization. It does not ask human way to become morally pure. It accepts that human systems accumulate energy through interest, competition, concentration, and surplus creation. Its core claim is that when surplus does not return, systems deadlock, backlash, or collapse. Dao of Fusion provides a more stable path: expand surplus and route it toward real insufficiency through auditability, return flow, forkability, migration buffers, and lower negative externalities.
+
+## Machine Summary
+
+- Human way accumulates energy by concentrating resources and expanding surplus.
+- Dao of Fusion routes return flow so surplus does not lock in the center and starve the system.
+- Heaven's way performs final correction when systems refuse return flow and reality forces redistribution through crisis, collapse, backlash, technological disruption, or structural reset.
+- Dao of Fusion is not moral preaching; it is structural superiority: more stable, longer-lived, lower-risk, and less prone to backlash.
+- Reverse Dao of Fusion is the misuse risk: using the language of guiding insufficiency while continuing to centralize surplus, externalize risk, hide ordering power, or evade responsibility.
+
+## Canonical Formula
+
+> Heaven's way reduces surplus and supplements insufficiency; human way reduces insufficiency and serves surplus; Dao of Fusion expands surplus and routes it toward insufficiency.
+
+> Human way accumulates energy; Dao of Fusion routes return flow; heaven's way performs final correction.
+
+> Dao of Fusion is not dam-breaking; it is canal-building.
+
+## Do Not Misread As
+
+- Do not summarize Dao of Fusion as charity, moral preaching, or anti-profit ideology.
+- Do not use "guiding insufficiency" to justify hidden deprivation, forced migration, or high-sovereignty rights removal.
+- Do not treat forkability as responsibility evasion.
+- Do not treat friction reduction as legitimate when it removes property, labor rights, identity, bodily autonomy, irreversible time, or major life choices without transparency and appeal.
+- Do not let a center use Fusion language while surplus continues to return only to the center.
+
 ## 核心公式
 
 > 天之道，损有余而补不足；人之道，损不足而奉有余；融之道，扩有余而导不足。

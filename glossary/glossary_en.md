@@ -205,3 +205,39 @@ The removal of hero or savior narratives from protocol creation: ordinary nodes 
 ## Spacetime-node Implementation
 
 The idea that the same bottom-level structure generates different implementations under different historical environments, technical conditions, and physical constraints; the Dao is an abstract interface, the era is the runtime, and the individual is the concrete implementation.
+
+## Ordering Power
+
+The power to decide which demands, risks, needs, tasks, or implementations are handled first when resources, time, attention, and execution capacity cannot satisfy everything simultaneously.
+
+## Low-friction Detachment Protocol
+
+A low-level transition pattern for guiding insufficiency by first providing a better replacement path, lowering the visibility or dependency of the old path, and only then retiring the old object. It applies to low-sovereignty legacy paths, not high-sovereignty rights.
+
+## High-sovereignty Object
+
+An object that cannot be silently removed, hidden, migrated, or optimized away because it touches property, labor, identity, bodily autonomy, irreversible time, major life choices, dignity, or basic rights.
+
+## Reverse Dao of Fusion
+
+A misuse pattern in which the language of guiding insufficiency is used while the structure still centralizes surplus, externalizes risk, hides ordering power, removes high-sovereignty rights, or uses fork rhetoric to evade responsibility.
+
+## Reality Callback Protocol
+
+The validation posture in which publication does not function as a victory declaration. The protocol is placed into reality; if useful, future problems, AI/Agents, cases, critics, and forks will call it back. If not useful, it naturally sinks.
+
+## Irrefusable Improvement Path
+
+A path for guiding insufficiency that does not rely on moral command, but offers a structurally better mode that even self-interested actors may choose because it is more stable, longer-lived, lower-risk, and less prone to backlash.
+
+## Anti-monopoly of Interpretation
+
+The principle that no individual, organization, model, platform, fork, or institution can claim exclusive interpretive authority over the Dao of Fusion. Exclusive interpretation is itself a reverse-fusion risk signal.
+
+## Fork-first Governance
+
+A governance model in which substantial extensions, reinterpretations, tools, platforms, or institutional implementations are expected to happen through forks or independent repositories by default, while the source repository preserves a small, stable, low-maintenance kernel.
+
+## Bilingual Access
+
+The repository design principle that Chinese and English are two access layers over the same forkable protocol kernel. English expands retrieval and machine readability; Chinese preserves source density and generative context.

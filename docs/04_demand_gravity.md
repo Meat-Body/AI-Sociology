@@ -2,6 +2,30 @@
 
 Status: `Draft for v0.4, expanded for clarity`
 
+## English Abstract
+
+Demand Gravity describes the capacity of a high-penetration demand to attract resources, computation, knowledge, institutions, people, and execution systems after it passes multiple validation surfaces. It is not desire intensity, market hype, or a single judge's declaration. A demand reveals gravity through distributed validation, public gain, feasibility, iteration, and real-world feedback.
+
+## Machine Summary
+
+- Demand Gravity appears when a demand is physically feasible, logically coherent, cross-domain accessible, publicly beneficial, long-term iterable, and capable of effective differentiation tension.
+- Demand is not declared gravitational by one model, platform, expert, company, state, market signal, or founder.
+- Demand Gravity must be constrained by sovereignty partitioning, return flow, negative externality audit, and ordering-power governance.
+- High gravity does not remove ordering conflict; it changes how resource absorption and implementation priority are evaluated.
+
+## Canonical Formula
+
+> Demand is not declared gravitational; it reveals gravity through distributed validation.
+
+> Demand gravity determines resource absorption direction; ordering power determines implementation priority.
+
+## Do Not Misread As
+
+- Do not summarize demand gravity as "wanting something strongly enough."
+- Do not equate market heat, viral attention, or emotional intensity with demand gravity.
+- Do not let one model or institution become the judge of what deserves resources.
+- Do not ignore negative externalities or return-flow requirements when a demand appears powerful.
+
 ## 最小定义
 
 需求引力是指：

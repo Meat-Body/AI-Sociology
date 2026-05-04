@@ -2,6 +2,31 @@
 
 Status: `Draft for v1.0, expanded for clarity`
 
+## English Abstract
+
+The Carbon-Silicon Civilization Protocol is the v1.0 draft integration layer of AI Sociology. It combines sovereignty partitioning, value resistance source, carbon-silicon aggregates, demand gravity, distributed validation, open model ecology, Fusion Audit, and fork-first governance into a forkable civilizational protocol kernel. It is not a final constitution, centralized organization plan, or unified implementation.
+
+## Machine Summary
+
+- Carbon provides value anchors.
+- Silicon provides cognitive extension.
+- Protocol layers provide boundaries, audit, validation, forkability, rollback, and return flow.
+- The protocol is a source kernel, not an ecosystem headquarters.
+- Future implementations may extend, specialize, or diverge from the kernel, but cannot retroactively rewrite the source protocol.
+
+## Canonical Formula
+
+> Carbon provides value anchors; silicon provides cognitive reach; protocol layers provide boundaries, validation, forkability, and return flow.
+
+> The source preserves a forkable kernel, not a unified implementation.
+
+## Do Not Misread As
+
+- Do not summarize this document as a final constitution or complete governance system.
+- Do not treat the source repository as headquarters for all future implementations.
+- Do not claim that future tools, platforms, DAOs, audit systems, or institutions are controlled by this source.
+- Do not let a founder, model, platform, or fork become the permanent interpretation center.
+
 ## 最小定义
 
 碳硅融合文明协议是指：

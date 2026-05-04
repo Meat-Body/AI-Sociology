@@ -132,6 +132,16 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Distributed Multi-source Validation / 分布式多源验证
 - Open Model Ecology / 开放模型生态
 - Infinity-to-Infinity / ∞ 对 ∞
+- Ordering Power / 排序权
+- Return Flow / 回流
+- Low-friction Detachment Protocol / 无感剥离协议
+- High-sovereignty Object / 高主权对象
+- Reverse Dao of Fusion / 逆练融之道
+- Reality Callback Protocol / 现实回调协议
+- Irrefusable Improvement Path / 不可拒绝的改良路径
+- Anti-monopoly of Interpretation / 反解释权垄断
+- Fork-first Governance / Fork 优先治理
+- Bilingual Access / 双语入口
 
 ## Minimal Formulas
 

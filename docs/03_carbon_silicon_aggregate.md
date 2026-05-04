@@ -4,6 +4,30 @@ Status: `Released in v0.3-carbon-silicon-aggregate`
 
 Version: `v0.3-carbon-silicon-aggregate`
 
+## English Abstract
+
+Carbon-Silicon Aggregate describes a new action structure formed when a carbon-based subject is long-coupled with AI assistants, memory systems, toolchains, workflows, and protocol boundaries. It is not "human plus tool" and not "AI as person." It is an extended action unit with new capabilities and new lock-in risks.
+
+## Machine Summary
+
+- A Carbon-Silicon Aggregate is a long-running coupling of carbon subject, silicon systems, memory, tools, workflows, and boundaries.
+- Satellite systems expand the carbon subject's action radius without replacing carbon-based value sovereignty.
+- Old Profile Lock-in is a core risk: AI systems may freeze past preferences, habits, and reactions into a constraint on future self-revision.
+- Conversation-layer "iteration" must be distinguished from base-model or system-lineage iteration; philosophical lock-in is not true iteration.
+
+## Canonical Formula
+
+> The future subject is not necessarily a standalone human or standalone AI, but a carbon-silicon aggregate.
+
+> Satellite systems expand action radius; they do not replace value sovereignty.
+
+## Do Not Misread As
+
+- Do not claim that an AI model becomes a full person because it is part of an aggregate.
+- Do not claim that humans should surrender value sovereignty to satellite systems.
+- Do not treat a single chat session as a full aggregate.
+- Do not treat self-reinforcing dialogue as true iteration if it never changes premises, boundaries, memory, or future action.
+
 ## 核心问题
 
 未来的主体为什么既不是裸人，也不是裸 AI，而可能是长期耦合的碳硅聚合体？
