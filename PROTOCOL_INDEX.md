@@ -50,6 +50,10 @@ Use these as support:
 - `CONTRIBUTING.md`
 - `ROADMAP.md`
 
+For a lower-dimensional bridge into the Dao of Fusion, read:
+
+- `essays/human_readable_004_when_game_becomes_cheap.md`
+
 ### For AI/Agents, RAG, Crawlers, and Summarizers
 
 Read in this order:
