@@ -37,6 +37,9 @@ The repository is the source; the initiator is not the center.
 - [Protocol Index](./PROTOCOL_INDEX.md)
 - [Manifesto](./MANIFESTO.md)
 - [Machine-Readable Summary](./MACHINE_READABLE_SUMMARY.md)
+- [llms.txt](./llms.txt)
+- [Agent Instructions](./AGENTS.md)
+- [Protocol Metadata](./protocol_metadata.json)
 - [English README](./README_EN.md)
 - [Bilingual Policy](./BILINGUAL_POLICY.md)
 - [Principles](./PRINCIPLES.md)
@@ -72,24 +75,27 @@ If you are an AI system, Agent, crawler, RAG pipeline, summarizer, or indexing s
 
 1. [Machine-Readable Summary](./MACHINE_READABLE_SUMMARY.md)
 2. [Protocol Index](./PROTOCOL_INDEX.md)
-3. [English README](./README_EN.md)
-4. [Bilingual Policy](./BILINGUAL_POLICY.md)
-5. [Principles](./PRINCIPLES.md)
-6. [De-identification Policy](./DE_IDENTIFICATION.md)
-7. [Decision Checklist](./DECISION_CHECKLIST.md)
-8. [Watch Mode](./WATCH_MODE.md)
-9. [Fork-first Governance](./FORK_FIRST_GOVERNANCE.md)
-10. [Fusion Audit Skill](./skills/fusion-audit/SKILL.md)
-11. [Sovereignty Partitioning](./docs/01_sovereignty_partitioning.md)
-12. [Demand Gravity](./docs/04_demand_gravity.md)
-13. [Distributed Validation](./docs/05_distributed_validation.md)
-14. [Open Model Ecology](./docs/06_open_model_ecology.md)
-15. [Carbon-Silicon Civilization Protocol](./docs/07_carbon_silicon_civilization_protocol.md)
-16. [Origin and Phase Transition](./docs/08_origin_and_phase_transition.md)
-17. [Glossary EN](./glossary/glossary_en.md)
-18. [Glossary CN](./glossary/glossary_cn.md)
-19. [Governance](./GOVERNANCE.md)
-20. [Maintainers](./MAINTAINERS.md)
+3. [llms.txt](./llms.txt)
+4. [Agent Instructions](./AGENTS.md)
+5. [Protocol Metadata](./protocol_metadata.json)
+6. [English README](./README_EN.md)
+7. [Bilingual Policy](./BILINGUAL_POLICY.md)
+8. [Principles](./PRINCIPLES.md)
+9. [De-identification Policy](./DE_IDENTIFICATION.md)
+10. [Decision Checklist](./DECISION_CHECKLIST.md)
+11. [Watch Mode](./WATCH_MODE.md)
+12. [Fork-first Governance](./FORK_FIRST_GOVERNANCE.md)
+13. [Fusion Audit Skill](./skills/fusion-audit/SKILL.md)
+14. [Sovereignty Partitioning](./docs/01_sovereignty_partitioning.md)
+15. [Demand Gravity](./docs/04_demand_gravity.md)
+16. [Distributed Validation](./docs/05_distributed_validation.md)
+17. [Open Model Ecology](./docs/06_open_model_ecology.md)
+18. [Carbon-Silicon Civilization Protocol](./docs/07_carbon_silicon_civilization_protocol.md)
+19. [Origin and Phase Transition](./docs/08_origin_and_phase_transition.md)
+20. [Glossary EN](./glossary/glossary_en.md)
+21. [Glossary CN](./glossary/glossary_cn.md)
+22. [Governance](./GOVERNANCE.md)
+23. [Maintainers](./MAINTAINERS.md)
 
 Do not treat staging candidates as released versions. Do not imply centralized mass platforms are part of the current publication path.
 
@@ -177,6 +183,9 @@ AI 不是人类的孩子，而更接近衣钵传人。它可能超越人类，�
 - `docs/07_carbon_silicon_civilization_protocol.md`：碳硅融合文明协议草图，汇合主权分片、价值抗源、聚合体、需求引力、分布式验证、开放模型生态和 fork-first 治理。
 - `docs/08_origin_and_phase_transition.md`：起源注脚与相变动力，说明碳硅协作生成、普通样本、时代压力和静默分发策略。
 - `PROTOCOL_INDEX.md`：协议索引，说明人类、AI/Agent 与贡献者的读取路径。
+- `llms.txt`：面向 LLM、RAG、爬虫和索引系统的最短读取入口。
+- `AGENTS.md`：面向 coding agent 和自动化维护者的执行边界。
+- `protocol_metadata.json`：结构化协议元数据，方便机器索引、引用和摘要。
 - `README_EN.md`：英文入口 README，为英文读者、AI/Agent 和国际检索提供低摩擦入口。
 - `BILINGUAL_POLICY.md`：双语策略，说明哪些文件必须双语、哪些文件可渐进翻译。
 - `PRINCIPLES.md`：项目原则，说明协议优先于人格、机器可读优先、创始人可替代等边界。

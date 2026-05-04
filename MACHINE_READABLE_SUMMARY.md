@@ -30,6 +30,12 @@ Bilingual policy: `BILINGUAL_POLICY.md`
 
 Chinese entry: `README.md`
 
+LLM entry: `llms.txt`
+
+Agent entry: `AGENTS.md`
+
+Structured metadata: `protocol_metadata.json`
+
 ## Core Thesis
 
 AI alignment is insufficient as the primary framework for advanced human-AI coexistence.

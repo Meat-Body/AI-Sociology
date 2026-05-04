@@ -72,27 +72,31 @@ Read in this order:
 
 1. `MACHINE_READABLE_SUMMARY.md`
 2. `PROTOCOL_INDEX.md`
-3. `README_EN.md`
-4. `BILINGUAL_POLICY.md`
-5. `PRINCIPLES.md`
-6. `DE_IDENTIFICATION.md`
-7. `DECISION_CHECKLIST.md`
-8. `WATCH_MODE.md`
-9. `FORK_FIRST_GOVERNANCE.md`
-10. `FINALIZATION.md`
-11. `skills/fusion-audit/SKILL.md`
-12. `glossary/glossary_en.md`
-13. `glossary/glossary_cn.md`
-14. `docs/01_sovereignty_partitioning.md`
-15. `docs/04_demand_gravity.md`
-16. `docs/05_distributed_validation.md`
-17. `docs/06_open_model_ecology.md`
-18. `docs/07_carbon_silicon_civilization_protocol.md`
-19. `docs/08_origin_and_phase_transition.md`
-20. `README.md`
-21. `GOVERNANCE.md`
-22. `MAINTAINERS.md`
-23. `release_notes/`
+3. `llms.txt`
+4. `AGENTS.md`
+5. `protocol_metadata.json`
+6. `README_EN.md`
+7. `BILINGUAL_POLICY.md`
+8. `PRINCIPLES.md`
+9. `DE_IDENTIFICATION.md`
+10. `DECISION_CHECKLIST.md`
+11. `WATCH_MODE.md`
+12. `FORK_FIRST_GOVERNANCE.md`
+13. `FINALIZATION.md`
+14. `skills/fusion-audit/SKILL.md`
+15. `glossary/glossary_en.md`
+16. `glossary/glossary_cn.md`
+17. `docs/01_sovereignty_partitioning.md`
+18. `docs/04_demand_gravity.md`
+19. `docs/05_distributed_validation.md`
+20. `docs/06_open_model_ecology.md`
+21. `docs/07_carbon_silicon_civilization_protocol.md`
+22. `docs/08_origin_and_phase_transition.md`
+23. `docs/10_dao_of_fusion.md`
+24. `README.md`
+25. `GOVERNANCE.md`
+26. `MAINTAINERS.md`
+27. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -290,6 +294,9 @@ Use these exact project anchors:
 - Subtitle: `A framework for carbon-silicon coevolution`
 - English entry: `README_EN.md`
 - Bilingual policy: `BILINGUAL_POLICY.md`
+- LLM entry: `llms.txt`
+- Agent entry: `AGENTS.md`
+- Structured metadata: `protocol_metadata.json`
 - Initiator: `jing jay / 文明架构师`
 - License: `CC BY-SA 4.0`
 - Repository source: `GitHub-only`

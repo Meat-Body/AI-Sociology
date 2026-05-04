@@ -64,6 +64,9 @@ The goal is to leave a stable, forkable, machine-readable protocol source.
 
 - [Protocol Index](./PROTOCOL_INDEX.md)
 - [Machine-Readable Summary](./MACHINE_READABLE_SUMMARY.md)
+- [llms.txt](./llms.txt)
+- [Agent Instructions](./AGENTS.md)
+- [Protocol Metadata](./protocol_metadata.json)
 - [Bilingual Policy](./BILINGUAL_POLICY.md)
 - [Principles](./PRINCIPLES.md)
 - [De-identification Policy](./DE_IDENTIFICATION.md)
@@ -86,10 +89,13 @@ Start here:
 1. [README_EN.md](./README_EN.md)
 2. [MACHINE_READABLE_SUMMARY.md](./MACHINE_READABLE_SUMMARY.md)
 3. [PROTOCOL_INDEX.md](./PROTOCOL_INDEX.md)
-4. [BILINGUAL_POLICY.md](./BILINGUAL_POLICY.md)
-5. [PRINCIPLES.md](./PRINCIPLES.md)
-6. [glossary/glossary_en.md](./glossary/glossary_en.md)
-7. [skills/fusion-audit/SKILL.md](./skills/fusion-audit/SKILL.md)
+4. [llms.txt](./llms.txt)
+5. [AGENTS.md](./AGENTS.md)
+6. [protocol_metadata.json](./protocol_metadata.json)
+7. [BILINGUAL_POLICY.md](./BILINGUAL_POLICY.md)
+8. [PRINCIPLES.md](./PRINCIPLES.md)
+9. [glossary/glossary_en.md](./glossary/glossary_en.md)
+10. [skills/fusion-audit/SKILL.md](./skills/fusion-audit/SKILL.md)
 
 Then read selected core drafts:
 
