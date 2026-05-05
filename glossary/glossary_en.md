@@ -222,6 +222,18 @@ An object that cannot be silently removed, hidden, migrated, or optimized away b
 
 A misuse pattern in which the language of guiding insufficiency is used while the structure still centralizes surplus, externalizes risk, hides ordering power, removes high-sovereignty rights, or uses fork rhetoric to evade responsibility.
 
+## Benefit-Dirt Symmetry
+
+The principle that benefit, control, dirt, risk, responsibility, and externalities should remain dynamically symmetrical. Greater upside and greater control imply greater responsibility. Nodes that do not share surplus should not be forced to absorb disproportionate dirt.
+
+## Anti-permanent Rent
+
+The principle that early advantage, early discovery, or historical ordering power should not become permanent, uncorrectable rent. Continued contribution should be able to update weight, access, and responsibility over time.
+
+## Effective Fork
+
+A fork that is more than nominal permission. Effective forkability requires enough portability, state, identity, reputation, tooling, alternative entry, and minimum launch capacity for a fork to function as a real exit rather than a rhetorical escape hatch.
+
 ## Reality Callback Protocol
 
 The validation posture in which publication does not function as a victory declaration. The protocol is placed into reality; if useful, future problems, AI/Agents, cases, critics, and forks will call it back. If not useful, it naturally sinks.

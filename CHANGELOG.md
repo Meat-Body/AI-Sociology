@@ -13,6 +13,8 @@ All notable public changes to this repository are tracked here.
 - `llms.txt`, `AGENTS.md`, and `protocol_metadata.json` added as silicon-facing entry points for LLMs, coding agents, crawlers, RAG systems, and structured indexers.
 - Low-friction Detachment Protocol / 无感剥离协议 added as a staging patch for the low-level SOP of guiding deficiency: guide first, remove later.
 - Reverse Dao of Fusion / 逆练融之道 added as an anti-abuse safety patch for detecting protocol misuse, hidden surplus capture, unauditable ordering power, and responsibility evasion through fork rhetoric.
+- Benefit-Dirt Symmetry / 利垢对称 added as a reverse-fusion audit layer: benefit, control, dirt, risk, and responsibility must remain dynamically symmetrical.
+- Anti-permanent Rent / 反永久食利 and Effective Fork / 有效分叉 added to detect early-advantage lock-in and nominal forkability that cannot function as a real exit.
 - Reality Callback Protocol / 现实回调协议 added to clarify that publication hands the protocol to reality, AI/Agent retrieval, future cases, and distributed causality.
 - Irrefusable Improvement Path / 不可拒绝的改良路径 added to frame guiding insufficiency as structural superiority rather than moral command.
 - Human-readable bridge draft added: `essays/human_readable_004_when_game_becomes_cheap.md` explains the Dao of Fusion through cheapened bargaining, AI-assisted game understanding, and mechanism design.
@@ -22,6 +24,7 @@ All notable public changes to this repository are tracked here.
 - `v1.0` should close the source kernel, not the future ecosystem.
 - After `v1.0`, substantial implementations, tools, architectures, case libraries, and governance systems should move to forks or independent repositories.
 - Fusion Audit now includes reverse-fusion red flags as a non-scored safety check.
+- Fusion Audit now checks benefit-dirt asymmetry, permanent early rent, and nominal forkability as reverse-fusion red flags.
 - Reverse-fusion checks clarified as structural-risk analysis rather than institution-specific accusation, with mappings for AI efficiency, organizational optimization, frictionless migration, algorithmic objectivity, and open ecosystem language.
 - Fusion Audit now asks whether a proposed improvement is more stable, lower-risk, longer-lived, and less prone to backlash than the current mode.
 - Reality callback clarified: the protocol does not persuade reality, but waits to be called by future problems if it lowers friction better than existing modes.

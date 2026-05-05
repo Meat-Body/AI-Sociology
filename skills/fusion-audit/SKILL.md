@@ -45,10 +45,12 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - What insufficiency should that surplus address?
 - Who captures the surplus?
 - Who bears negative externalities?
+- Are benefit, control, dirt/risk, and responsibility dynamically symmetrical?
+- Does early advantage become permanent rent, or can continued contribution update weight?
 - Does the system provide translation, migration, compensation, appeal, and local adaptation paths?
 - Who controls ordering power?
 - Does it preserve carbon-based value sovereignty, silicon-based cognitive extension, and protocol-level auditability?
-- Is there a kill switch, local override, or fork path?
+- Is there a kill switch, local override, or effective fork path?
 - Does surplus flow back into the ecosystem?
 - Is there any reverse-fusion risk: guiding-insufficiency language used to preserve surplus capture, hide ordering power, detach high-sovereignty rights, or evade responsibility through fork rhetoric?
 - Does the proposed improvement create a structurally superior path that self-interested actors can adopt because it is more stable, lower-risk, longer-lived, and less prone to backlash?
@@ -59,9 +61,12 @@ Treat the following as protocol-level red flags even when the numerical score lo
 
 - The system claims to guide insufficiency but provides only narrative comfort, training talk, or nominal opportunity instead of real capability, interface, time, or return flow.
 - The system expands surplus through AI, automation, restructuring, or platform power, but surplus remains locked in the center.
+- Benefits, control, dirt/risk, and responsibility are asymmetrical: upside concentrates while maintenance, volatility, risk, or externalities diffuse outward.
+- Early advantage becomes permanent rent without dynamic correction for continued contribution, later participation, or changing responsibility.
 - Low-friction detachment is applied to high-sovereignty objects such as property, labor, identity, rights, bodies, irreversible time, or major life choices.
 - Ordering power is presented as objective model, data, efficiency, or system output, but is not auditable, contestable, forkable, or locally adjustable.
 - Forking is used as responsibility evasion rather than as a real free exit.
+- Forking is nominal rather than effective because state, identity, reputation, liquidity, tools, default entry, users, or minimum launch resources remain locked by the original center.
 
 If these red flags are present, state that the system may be practicing reverse Dao of Fusion: using the language of routing surplus toward insufficiency while preserving the structure of feeding surplus upward.
 

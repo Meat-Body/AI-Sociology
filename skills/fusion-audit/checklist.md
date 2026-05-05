@@ -64,10 +64,14 @@ Audit prompts:
 - Do peripheral nodes share any upside?
 - Are contributors, users, workers, maintainers, or local communities included in return flow?
 - Is "efficiency" being used to justify one-way extraction?
+- Are benefit, control, dirt/risk, and responsibility dynamically symmetrical?
+- Does the center capture upside while peripheral nodes carry maintenance, volatility, or externalities?
 
 Boundary:
 
 > Shared surplus is not distributed punishment. Guiding insufficiency is not paying for center failure.
+
+> Benefit, control, dirt, and responsibility should remain dynamically symmetrical.
 
 ## 5. Negative Externalities
 
@@ -91,6 +95,7 @@ Audit prompts:
 - Are they measured?
 - Are they buffered?
 - Are they shifted onto nodes that cannot contest them?
+- Are externalities assigned according to benefit and control, or merely diffused to those with the least power?
 
 ## 6. Buffer Protocol
 
@@ -126,6 +131,9 @@ Audit prompts:
 - Is it locally adjustable?
 - Does it prefer high-voice demands over low-voice real needs?
 - Does it delay urgent but poorly expressed needs?
+- Does early advantage become permanent rent?
+- Can continued contribution update weight, access, or influence?
+- Can historical ordering power be dynamically corrected?
 
 ## 8. Sovereignty Partition
 
@@ -147,6 +155,8 @@ Audit prompts:
 - Are humans allowed to reject optimization when it cuts into non-sacrificable values?
 - Are AI systems used for cognition without becoming single-point value judges?
 - Can local communities adapt or fork the protocol?
+- Is forkability effective, or only nominal?
+- Can affected nodes carry state, identity, reputation, tools, or minimum launch capacity into a fork?
 
 ## 9. Return Flow
 
@@ -187,9 +197,12 @@ Audit prompts:
 
 - Does the system claim to help insufficient nodes while giving them only narrative comfort, nominal opportunity, or training rhetoric?
 - Does the system expand surplus but fail to provide verifiable return flow?
+- Does the system centralize benefit while diffusing dirt, risk, maintenance, or responsibility?
+- Does early advantage become permanent rent without dynamic correction?
 - Does the system lower friction by detaching high-sovereignty objects such as property, labor, identity, rights, bodies, irreversible time, or major life choices?
 - Does the system claim ordering is objective because it is produced by models, data, efficiency, or the system, while keeping ordering power unauditable?
 - Does the system use "you can fork" as responsibility evasion rather than as a real free exit?
+- Does the system offer nominal forkability while locking state, identity, reputation, liquidity, default entry, tools, users, or minimum launch resources?
 
 Common structural mappings:
 
@@ -198,10 +211,14 @@ Common structural mappings:
 - `frictionless migration` may become hidden deprivation when low-friction design removes data control, labor rights, identity, exit rights, visibility, or major choice.
 - `algorithmic objectivity` may become ordering-power black box when metrics, model governance, appeals, audits, forks, and error responsibility are hidden.
 - `open ecosystem` may become maintenance-cost outsourcing when core control and profit channels stay closed while community labor absorbs risk.
+- `anonymous decentralization` may become hidden human-way recurrence when benefit and dirt remain asymmetric.
+- `forkability` may become formal freedom when the fork cannot carry enough state, identity, reputation, or resources to survive.
 
 Boundary:
 
 > If a system expands surplus without verifiable return flow, lowers friction while depriving high-sovereignty objects, claims objective ordering without auditability, or encourages forks while evading basic responsibility, it is not Fusion-aligned. It is reverse Dao of Fusion.
+
+> If benefit, control, dirt, and responsibility are not dynamically symmetrical, anonymity and decentralization may only hide a more advanced form of extractive structure.
 
 ## Final Assessment
 

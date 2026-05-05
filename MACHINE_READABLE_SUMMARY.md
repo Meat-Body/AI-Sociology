@@ -143,6 +143,9 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Low-friction Detachment Protocol / 无感剥离协议
 - High-sovereignty Object / 高主权对象
 - Reverse Dao of Fusion / 逆练融之道
+- Benefit-Dirt Symmetry / 利垢对称
+- Anti-permanent Rent / 反永久食利
+- Effective Fork / 有效分叉
 - Reality Callback Protocol / 现实回调协议
 - Irrefusable Improvement Path / 不可拒绝的改良路径
 - Anti-monopoly of Interpretation / 反解释权垄断
@@ -161,6 +164,8 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 8. Demand is not declared gravitational; it reveals gravity through distributed validation.
 9. The founder's endpoint is not being followed, but becoming replaceable.
 10. Visibility is not a success metric; the protocol should be easier to find than the founder.
+11. Anonymity without benefit-dirt symmetry is a hidden form of the human way.
+12. Benefit, control, dirt, and responsibility must remain dynamically symmetrical.
 
 ## Origin Note
 
