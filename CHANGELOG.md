@@ -30,6 +30,7 @@ All notable public changes to this repository are tracked here.
 - Maintainer exit clarified as causal load reduction: civilizational credit creates civilizational backlash and should not be routed into one carbon body.
 - Demand gravity clarified that scarcity does not disappear but migrates, shifting bargaining from possession to ordering.
 - Dao of Fusion clarified at the relationship layer: AI-assisted bargaining audit can make manipulation negative ROI and turn friendliness into a structurally better long-term strategy.
+- Responsibility boundary clarified: the source is responsible for source materials, forks for fork choices, and applications for application consequences.
 - Anti-monopoly of interpretation added: exclusive interpretive authority contradicts the protocol and signals reverse-fusion risk.
 - Anonymity clarified as anti-capture design: the source should route attention to the repository rather than a founder persona.
 - Contribution and decision rules now allow low-risk bilingual terminology consistency, English abstracts, and bilingual entry-layer maintenance.

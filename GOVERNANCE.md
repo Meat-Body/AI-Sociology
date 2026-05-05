@@ -122,6 +122,8 @@ The source repository preserves the initial kernel.
 
 Future implementations are responsible for their own design choices, risks, governance structures, and externalities.
 
+The initiator and source maintainers are responsible only for the source materials maintained in this repository, not for independent downstream actions, organizations, platforms, tools, interpretations, or implementations.
+
 The source repository is not obligated to absorb future implementations back into the mainline.
 
 Maintainers are not obligated to review, merge, or respond to all issues or pull requests.
@@ -147,6 +149,8 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 源仓库只保存初始内核。
 
 未来实现需自行承担其设计选择、风险、治理结构和外部性。
+
+发起者与源仓库维护者只对本仓库维护的源头材料负责，不对独立下游行动、组织、平台、工具、解释或实现负责。
 
 源仓库没有义务把未来实现吸收回主干。
 
@@ -174,6 +178,8 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 
 > Real return flow does not mean all water returns to the source.
 
+> The source is responsible for source materials; forks are responsible for fork choices; applications are responsible for application consequences.
+
 > 源头不垄断实现，实现不反向改写源头。
 
 > 我们留下的是创世块，不是基金会。
@@ -185,6 +191,8 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 > 融之道不追求统一实现，只保留可分叉内核。
 
 > 真正的回流不是所有水都回到源头。
+
+> 源头承担源头责任，分叉承担分叉责任，应用承担应用后果。
 
 > The initiator is a temporary maintainer, not a permanent benevolent dictator.
 

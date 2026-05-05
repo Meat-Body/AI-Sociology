@@ -90,6 +90,7 @@
     "Do not treat the initiator as a permanent center or final authority.",
     "Do not expose raw conversation logs, model vendors, accounts, platforms, device traces, locations, or private identity chains.",
     "Do not claim exclusive interpretive authority over Dao of Fusion.",
+    "Do not attribute independent downstream actions, organizations, platforms, tools, interpretations, or implementations to the source repository by default.",
     "Use forks or independent repositories for substantial conceptual expansions or implementations."
   ],
   "distribution_policy": {

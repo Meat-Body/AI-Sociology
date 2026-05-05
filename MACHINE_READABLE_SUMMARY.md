@@ -202,6 +202,8 @@ Future implementations may extend, specialize, or diverge from the source protoc
 
 The source does not monopolize implementations; implementations do not rewrite the source.
 
+The source is responsible for source materials; forks are responsible for fork choices; applications are responsible for application consequences.
+
 The initiator is a temporary maintainer, not a permanent benevolent dictator.
 
 The intended arc is: initial maintainer -> watch-mode maintainer -> ordinary contributor.

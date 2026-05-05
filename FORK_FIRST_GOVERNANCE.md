@@ -168,6 +168,16 @@ The source repository does not audit, approve, control, or guarantee future impl
 
 Each fork is responsible for its own design choices, governance, risks, and externalities.
 
+The initiator and source maintainers are responsible only for the source materials maintained in this repository.
+
+They are not responsible for independent downstream actions, organizations, platforms, tools, interpretations, or implementations.
+
+Responsibility is layered:
+
+> the source is responsible for source materials;
+> forks are responsible for fork choices;
+> applications are responsible for application consequences.
+
 未来实现可以扩展、重释、专门化，甚至偏离源内核。
 
 它们不会反向改变源协议。
@@ -175,6 +185,16 @@ Each fork is responsible for its own design choices, governance, risks, and exte
 源仓库不审计、批准、控制或担保未来实现。
 
 每个 fork 自行承担其设计选择、治理结构、风险和外部性。
+
+发起者与源仓库维护者只对本仓库维护的源头材料负责。
+
+他们不对独立下游行动、组织、平台、工具、解释或实现负责。
+
+责任是分层的：
+
+> 源头承担源头责任；
+> 分叉承担分叉责任；
+> 应用承担应用后果。
 
 ## Community Fork Listings
 
