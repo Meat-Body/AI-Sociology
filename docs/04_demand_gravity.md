@@ -212,9 +212,27 @@ Demand Gravity describes the capacity of a high-penetration demand to attract re
 
 但资源、时间、注意力、算力、制度接口和执行能力不可能同时响应所有需求。
 
+稀缺不会消失，只会迁移。
+
+当基础能力、知识解释、代码生成、普通内容、自动化执行和标准服务逐渐变便宜，博弈不会终止。
+
+它会从“你有我无”，更多转向“谁先谁后”。
+
+时间、注意力、具体的人、不可复制关系、物理在场、历史窗口、实现顺序和独特创始情境，会成为更硬的稀缺。
+
+因此，排序权不是次要问题。
+
+它是高自动化时代的新治理核心之一。
+
 因此，需求引力必然引出排序权问题：
 
 > 需求引力决定资源吸积方向，排序权决定实现先后。
+
+English compression:
+
+> Scarcity does not disappear; it migrates.
+
+> As basic capabilities become cheaper, bargaining shifts from possession to ordering.
 
 排序权不能由单点裁定。
 

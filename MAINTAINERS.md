@@ -33,6 +33,36 @@ The maintainer role is currently limited to:
 
 本项目追求一个最终不再依赖创始人的协议。
 
+## Credit Backlash and Causal Load Reduction
+
+Maintainer exit is not only a symbolic posture.
+
+It is causal load control.
+
+Civilizational credit creates civilizational backlash.
+
+A civilizational protocol should not route civilizational backlash into one carbon body.
+
+Credit can bring attention, legitimacy, and source recognition, but it can also bring personalization, attack surface, interpretive conflict, censorship, capture, mythologizing, stigma, and reverse attribution for future implementations.
+
+Author exit does not deny the source.
+
+It prevents credit from re-centralizing the protocol.
+
+功名反噬不是道德问题，而是负载问题。
+
+多大的功，对应多大的反噬。
+
+文明级功名，必有文明级反噬。
+
+文明级协议，不应让单个碳基肉身承受文明级反噬。
+
+作者退场不是无功，而是不让功名把协议重新中心化。
+
+功成不必在我，是因果降载。
+
+功成一定有我，是源头留痕。
+
 ## Maintainer Exit Condition
 
 The project completes its first self-propagation loop when the first human contributor reaches this repository through an AI/Agent-mediated path rather than direct persuasion by the initiator.
