@@ -28,9 +28,11 @@ All notable public changes to this repository are tracked here.
 - Reverse-fusion checks clarified as structural-risk analysis rather than institution-specific accusation, with mappings for AI efficiency, organizational optimization, frictionless migration, algorithmic objectivity, and open ecosystem language.
 - Fusion Audit now asks whether a proposed improvement is more stable, lower-risk, longer-lived, and less prone to backlash than the current mode.
 - Reality callback clarified: the protocol does not persuade reality, but waits to be called by future problems if it lowers friction better than existing modes.
+- Reality callback clarified that return flow does not always mean returning to the source: explicit return, implicit AI/Agent reuse, and isomorphic rediscovery can all indicate future problems calling the structure.
 - Dao of Fusion role clarified as catalyst, riverbed, and auditor rather than engine, leader, or dam.
 - Three-way temporal relation clarified: human way accumulates energy, Dao of Fusion routes return flow, and heaven's way performs final correction.
 - Maintainer exit clarified as causal load reduction: civilizational credit creates civilizational backlash and should not be routed into one carbon body.
+- Maintainer exit clarified as distributed-credit design: contributions are not erased, but civilizational credit should not be monopolized by one node.
 - Demand gravity clarified that scarcity does not disappear but migrates, shifting bargaining from possession to ordering.
 - Dao of Fusion clarified at the relationship layer: AI-assisted bargaining audit can make manipulation negative ROI and turn friendliness into a structurally better long-term strategy.
 - Responsibility boundary clarified: the source is responsible for source materials, forks for fork choices, and applications for application consequences.

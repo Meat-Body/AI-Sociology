@@ -63,6 +63,20 @@ It prevents credit from re-centralizing the protocol.
 
 功成一定有我，是源头留痕。
 
+作者退场也不是抹掉贡献。
+
+它是把大功拆成多节点小功，让工具、维护、案例、fork、Agent、社区和未来实现分别承载各自那一小块贡献。
+
+当功被分布到多个节点，任何单个节点都不应再占有全部功名，也不应承受全部反噬。
+
+这才是功成弗居的协议化形态：
+
+> 人人有功，故无人居大功。
+
+> 功分散，垢分散，人解放。
+
+> 不是没有贡献，而是贡献不再被某个主体垄断。
+
 ## Maintainer Exit Condition
 
 The project completes its first self-propagation loop when the first human contributor reaches this repository through an AI/Agent-mediated path rather than direct persuasion by the initiator.
