@@ -79,6 +79,7 @@ The goal is to prevent concept overload, founder lock-in, platform drift, and ma
 - Does it preserve the maintainer exit condition?
 - Does it increase forkability instead of centralizing interpretation?
 - Would this change still make sense if the initiator stopped explaining it tomorrow?
+- Does it avoid creating a source-repository successor through merge?
 
 ## 10. Physical Reality
 

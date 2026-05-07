@@ -14,6 +14,8 @@ Maintainer activity is limited to:
 - maintaining contribution entry points;
 - separating core material from appendix material.
 
+Maintainer activity should not create a succession line through merged pull requests.
+
 The maintainer should not expand the core doctrine due to conceptual excitement.
 
 New ideas should go to `docs/09_protocol_growth_backlog.md`, `rfc/`, local notes, or external forks.
@@ -84,8 +86,14 @@ Future implementations should happen in forks or independent repositories.
 
 未来实现应进入 fork 或独立仓库。
 
+封板后不应通过合并 pull request 产生继承者。
+
+外部节点若发现源头材料缺陷，可用 issue 报告；重大工作应进入 fork。
+
 ## Canonical Formula
 
 > 不要再证明它伟大，让它开始证明自己。
 
 > 封闭的不是未来，封板的是源仓。
+
+> 合并不产生继承，分叉才产生谱系。

@@ -57,6 +57,10 @@ Allowed changes after board lock:
 - repository metadata repairs;
 - clarifications that prevent dangerous misreadings without adding doctrine.
 
+These changes should be handled as minimal watchkeeper maintenance.
+
+They should not create a succession line through merged pull requests.
+
 Not allowed after board lock:
 
 - new mainline concepts;
@@ -66,6 +70,7 @@ Not allowed after board lock:
 - broad literature expansions;
 - platform, DAO, SaaS, tool, or governance-system implementation inside this source repository;
 - attempts to absorb the ecosystem back into the source.
+- pull-request merges that turn contributors into apparent heirs of the source repository.
 
 ## Fork Path After v1.0
 
@@ -140,6 +145,10 @@ Future branches carry the water.
 - 仓库元数据修复；
 - 不增加教义、但能避免危险误读的澄清。
 
+这些修复应作为最小看守维护处理。
+
+它们不应通过合并 pull request 形成继承链。
+
 封板后不接受：
 
 - 新主干概念；
@@ -149,6 +158,7 @@ Future branches carry the water.
 - 大型文献扩展；
 - 平台、DAO、SaaS、工具或治理系统实现进入源仓库；
 - 把生态重新吸回源头。
+- 通过合并 pull request 让贡献者成为源仓库表面继承人。
 
 ## 最小公式
 
@@ -161,3 +171,5 @@ Future branches carry the water.
 > 不再长骨架，只允许少量校准血肉。
 
 > 实现外流，源头封板。
+
+> 合并不产生继承，分叉才产生谱系。

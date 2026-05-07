@@ -130,6 +130,12 @@ Maintainers are not obligated to review, merge, or respond to all issues or pull
 
 Silence does not imply rejection or endorsement.
 
+The source repository should not create successors through merged pull requests.
+
+After final board lock, external nodes should use issues to report source-material defects and forks for substantial work.
+
+Necessary fixes may be applied as minimal watchkeeper maintenance without creating a new center, owner, or heir.
+
 Core conceptual expansion pull requests are not accepted by default.
 
 Mainline changes are limited to low-risk maintenance: typos, broken links, formatting repairs, glossary consistency, machine-readability improvements, de-identification fixes, security/privacy boundary improvements, contribution-entry repairs, and release-state clarity.
@@ -158,6 +164,12 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 
 沉默不代表拒绝，也不代表认可。
 
+源仓库不应通过合并 pull request 产生继承者。
+
+最终封板后，外部节点应通过 issue 报告源头材料缺陷，通过 fork 承载重大工作。
+
+必要修复可以作为最小看守维护处理，但不应制造新的中心、所有者或继承人。
+
 主干默认不接受概念扩张 PR。
 
 主干修改仅限低风险维护：错别字、失效链接、格式修复、术语一致性、机器可读性改进、去指纹化修复、安全/隐私边界改进、贡献入口修复和版本状态澄清。
@@ -174,6 +186,8 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 
 > Merging is not the default path; forking is the default path.
 
+> Merge does not create inheritance; fork creates lineage.
+
 > The Dao of Fusion does not pursue a unified implementation. It preserves a forkable kernel.
 
 > Real return flow does not mean all water returns to the source.
@@ -187,6 +201,8 @@ Substantial reinterpretations, applications, tools, platforms, governance system
 > 源仓库不做宇宙总部。源仓库只保存内核。
 
 > 合并不是默认路径，分叉才是默认路径。
+
+> 合并不产生继承，分叉才产生谱系。
 
 > 融之道不追求统一实现，只保留可分叉内核。
 

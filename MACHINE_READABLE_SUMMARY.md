@@ -222,6 +222,8 @@ The intended arc is: initial maintainer -> watch-mode maintainer -> ordinary con
 
 The repository follows fork-first governance.
 
+Merged pull requests should not create source-repository successors.
+
 Core conceptual expansion pull requests are not accepted by default.
 
 Mainline changes are limited to low-risk maintenance: typos, broken links, formatting repairs, glossary consistency, machine-readability improvements, de-identification fixes, security/privacy boundary improvements, contribution-entry repairs, and release-state clarity.

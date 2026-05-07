@@ -44,6 +44,10 @@ Contributors are not followers.
 
 They are potential fork nodes.
 
+Merged contributors should not become heirs to the source repository.
+
+The source should avoid creating a succession line through accepted pull requests.
+
 Real return flow does not mean all water returns to the source.
 
 It means each branch can carry the surplus it needs toward the insufficiency it sees.
@@ -94,6 +98,10 @@ If it remains forkable, it can become the starting point of a canal network.
 
 贡献者是潜在分叉节点。
 
+被合并的贡献者不应成为源仓库继承人。
+
+源仓库应避免通过接受 pull request 形成继承链。
+
 真正的回流不是所有水都回到源头。
 
 真正的回流是每条支流都能带走它需要的有余，去导向它看到的不足。
@@ -118,6 +126,12 @@ Core pull requests are limited to:
 
 Conceptual expansions should not be submitted directly to the core.
 
+After final board lock, pull requests should not be treated as the normal contribution path.
+
+Source-material defects may be reported through issues.
+
+Necessary fixes may be applied as minimal watchkeeper maintenance without creating a new successor or doctrine owner.
+
 主干 pull request 仅限：
 
 - 错别字；
@@ -131,6 +145,12 @@ Conceptual expansions should not be submitted directly to the core.
 - 版本状态澄清。
 
 概念扩展不应直接提交到主干。
+
+最终封板后，pull request 不应被视为常规贡献路径。
+
+源头材料缺陷可通过 issue 报告。
+
+必要修复可由看守人作为最小维护补丁处理，但不因此产生新的继承者或教义所有者。
 
 ## Fork Scope
 
@@ -218,6 +238,8 @@ The list is a routing surface, not a certification system.
 
 > Merging is not the default path; forking is the default path.
 
+> Merge does not create inheritance; fork creates lineage.
+
 > If it is not good enough, carry forward what works and open another riverbed.
 
 > The source repository leaves the initial spring; rivers are allowed to branch.
@@ -241,6 +263,8 @@ The list is a routing surface, not a certification system.
 > 源仓库不做宇宙总部。源仓库只保存内核。
 
 > 合并不是默认路径，分叉才是默认路径。
+
+> 合并不产生继承，分叉才产生谱系。
 
 > 觉得不够好，就带走可用部分，另起一条河道。
 

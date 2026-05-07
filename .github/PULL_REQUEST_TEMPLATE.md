@@ -1,4 +1,6 @@
 > This repository is in watch mode. Core conceptual expansion PRs are not accepted by default.
+> After final board lock, pull requests are not the normal contribution path. Use issues for source-material defects and forks for substantial work.
+> Merge does not create inheritance; fork creates lineage.
 
 ## Scope Check
 

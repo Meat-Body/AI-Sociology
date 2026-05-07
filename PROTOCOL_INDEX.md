@@ -120,6 +120,7 @@ Preserve these interpretation boundaries:
 - Do not mistake maintainer discipline for founder sovereignty.
 - Do not treat the source repository as the headquarters for all future implementations.
 - Do not treat silence from maintainers as rejection, approval, or endorsement.
+- Do not treat merged contributors as source-repository successors.
 - Do not submit conceptual expansions directly to the core; use forks or independent repositories.
 - Do not treat final `v1.0` as closure of the ecosystem; it is source-repository board lock.
 

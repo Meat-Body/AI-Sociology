@@ -22,6 +22,36 @@ Most extensions should happen through forks, external notes, or independent impl
 
 大多数扩展应通过 fork、外部笔记或独立实现完成。
 
+## No-merge Inheritance Boundary
+
+This repository should not create successors through merges.
+
+Accepting pull requests can make contributors appear to inherit the source repository after the initiator exits.
+
+That would turn the source kernel into a succession structure and pull the project back toward a center.
+
+After final board lock, pull requests are not the normal contribution path.
+
+Use issues to report source-material defects such as broken links, typos, machine-readability problems, de-identification risks, or security/privacy boundary issues.
+
+If a fix is necessary, a watchkeeper may apply a minimal maintenance patch without creating a new doctrine owner or successor.
+
+Substantial changes, improvements, reinterpretations, translations, cases, tools, governance systems, and implementations should happen in forks or independent repositories.
+
+本仓库不应通过合并产生继承者。
+
+接受 pull request 可能让贡献者在发起者退出后被视为源仓库的继承人。
+
+这会把源内核变成继承结构，并把项目重新拉回中心。
+
+最终封板后，pull request 不再是常规贡献路径。
+
+如发现源头材料缺陷，可用 issue 报告，例如失效链接、错别字、机器可读性问题、去指纹化风险或安全/隐私边界问题。
+
+若修复确有必要，看守人可以执行最小维护补丁，但不因此产生新的教义所有者或继承人。
+
+重大修改、改良、重释、翻译、案例、工具、治理系统和实现，均应进入 fork 或独立仓库。
+
 ## Mainline Contribution Scope
 
 Pull requests to the core documents are limited to low-risk maintenance:

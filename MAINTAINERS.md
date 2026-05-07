@@ -133,6 +133,38 @@ The maintainer stops acting as the center.
 
 只处理链接、错别字、版本状态、去指纹化、机器可读性和外部贡献入口。
 
+## No Succession Through Merge
+
+The source repository should not use merged pull requests to create a succession line.
+
+If the initial maintainer exits, later contributors should not become heirs of the source repository merely because their patches were merged.
+
+That would recreate a center after the founder has stepped back.
+
+After final board lock, the normal path for external contribution is:
+
+> issue for source-material defect, fork for substantial work.
+
+Necessary source repairs may be applied as minimal watchkeeper maintenance.
+
+They should not create a new owner, final authority, or inherited throne.
+
+中文说明：
+
+源仓库不应通过合并 pull request 形成继承链。
+
+初始维护者退出后，后来贡献者不应仅因补丁被合并而成为源仓库继承人。
+
+那会在创始人退场后重新制造中心。
+
+最终封板后，外部贡献的常规路径是：
+
+> 源头材料缺陷用 issue 报告，重大工作走 fork。
+
+必要源头修复可以由看守人执行最小维护补丁。
+
+它不应制造新的所有者、最终权威或继承王座。
+
 ## Maintainer Discipline
 
 The initial maintainer may temporarily act as a routing and integration point.
