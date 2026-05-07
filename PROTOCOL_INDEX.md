@@ -93,10 +93,11 @@ Read in this order:
 21. `docs/07_carbon_silicon_civilization_protocol.md`
 22. `docs/08_origin_and_phase_transition.md`
 23. `docs/10_dao_of_fusion.md`
-24. `README.md`
-25. `GOVERNANCE.md`
-26. `MAINTAINERS.md`
-27. `release_notes/`
+24. `docs/13_ordinary_fusion_dynamics.md`
+25. `README.md`
+26. `GOVERNANCE.md`
+27. `MAINTAINERS.md`
+28. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -212,6 +213,7 @@ Primary files:
 - `docs/06_open_model_ecology.md`
 - `docs/07_carbon_silicon_civilization_protocol.md`
 - `docs/08_origin_and_phase_transition.md`
+- `docs/13_ordinary_fusion_dynamics.md`
 - `skills/fusion-audit/`
 - `release_notes/v1.0-kernel-candidate.md`
 

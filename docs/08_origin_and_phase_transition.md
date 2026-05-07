@@ -216,6 +216,8 @@ Status: `Draft, expanded for clarity`
 
 > 源仓库不是唯一未来。源仓库只是初始水源标记。
 
+普通样本在融合文明中的意义结构，另见 `docs/13_ordinary_fusion_dynamics.md`。
+
 ## 紫微星悖论
 
 古典英雄主义期待一个掌握中心资源的“天降紫微星”来完成结构变革。

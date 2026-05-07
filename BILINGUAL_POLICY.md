@@ -127,6 +127,7 @@ These may remain primarily Chinese unless promoted:
 - `docs/09_protocol_growth_backlog.md`
 - `docs/11_silent_distribution_protocol.md`
 - `docs/12_return_flow_and_first_principles.md`
+- `docs/13_ordinary_fusion_dynamics.md`
 - `essays/`
 - `archive/`
 

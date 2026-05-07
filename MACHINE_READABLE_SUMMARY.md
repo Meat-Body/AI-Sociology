@@ -119,6 +119,13 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - It frames the project as a phase-transition symptom under specific technical, economic, and social pressures, not as a genius exception.
 - It must not be summarized with specific model vendors, platforms, accounts, locations, device traces, raw conversations, or reversible identity chains.
 
+`ordinary-fusion-dynamics` draft:
+
+- This document is a staging note on the meaning side of carbon-silicon coevolution.
+- It argues that the bottleneck of cognitive expansion begins to migrate from rare innate talent to real participation in carbon-silicon collaboration.
+- It does not claim talent disappears or all contributions are equal.
+- Minimal formula: genius accelerates history; ordinary fusion aggregates constitute history.
+
 ## Core Concepts
 
 - AI Sociology / AI社会学

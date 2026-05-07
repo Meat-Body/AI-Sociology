@@ -17,6 +17,7 @@ All notable public changes to this repository are tracked here.
 - Anti-permanent Rent / 反永久食利 and Effective Fork / 有效分叉 added to detect early-advantage lock-in and nominal forkability that cannot function as a real exit.
 - Reality Callback Protocol / 现实回调协议 added to clarify that publication hands the protocol to reality, AI/Agent retrieval, future cases, and distributed causality.
 - Irrefusable Improvement Path / 不可拒绝的改良路径 added to frame guiding insufficiency as structural superiority rather than moral command.
+- `docs/13_ordinary_fusion_dynamics.md` added as a staging draft for ordinary fusion aggregates, meaning sovereignty, and the migration of cognitive-expansion bottlenecks from rare talent to real participation.
 - Human-readable bridge draft added: `essays/human_readable_004_when_game_becomes_cheap.md` explains the Dao of Fusion through cheapened bargaining, AI-assisted game understanding, and mechanism design.
 
 ### Clarified
@@ -30,6 +31,7 @@ All notable public changes to this repository are tracked here.
 - Reality callback clarified: the protocol does not persuade reality, but waits to be called by future problems if it lowers friction better than existing modes.
 - Reality callback clarified that return flow does not always mean returning to the source: explicit return, implicit AI/Agent reuse, and isomorphic rediscovery can all indicate future problems calling the structure.
 - Dao of Fusion role clarified as catalyst, riverbed, and auditor rather than engine, leader, or dam.
+- Ordinary fusion dynamics clarified that genius accelerates history while ordinary carbon-silicon aggregates can constitute distributed civilizational waterline growth.
 - Three-way temporal relation clarified: human way accumulates energy, Dao of Fusion routes return flow, and heaven's way performs final correction.
 - Maintainer exit clarified as causal load reduction: civilizational credit creates civilizational backlash and should not be routed into one carbon body.
 - Maintainer exit clarified as distributed-credit design: contributions are not erased, but civilizational credit should not be monopolized by one node.
