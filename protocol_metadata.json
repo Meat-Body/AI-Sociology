@@ -117,6 +117,22 @@
       "prior-layer embedding",
       "tool-layer solidification"
     ],
+    "initialization_layer": {
+      "role": "optional pre-dialogue handshake for AI/Agent conversations, task execution, and system analysis",
+      "purpose": "reduce repeated setup cost for value boundaries and structural judgment before concrete problem solving",
+      "minimal_formula": "Share the judgment interface first, then enter the concrete problem.",
+      "judgment_interface": [
+        "surplus and insufficiency",
+        "benefit, dirt, risk, and responsibility",
+        "ordering power and auditability",
+        "return flow and capture",
+        "forkability and exit",
+        "high-sovereignty object boundaries",
+        "low-friction detachment boundaries",
+        "reverse-fusion risk"
+      ],
+      "boundary": "Optional initialization context only; not mandatory, universal, exclusive, or a command layer for all AI/Agent reasoning."
+    },
     "transport_layer_analogy": {
       "summary": "The current text form is an initial packet format, not the final carrier. The protocol should act as a portable structural judgment interface rather than an application layer or command layer.",
       "not_claiming": [

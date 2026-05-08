@@ -45,6 +45,7 @@ All notable public changes to this repository are tracked here.
 - Contribution and decision rules now allow low-risk bilingual terminology consistency, English abstracts, and bilingual entry-layer maintenance.
 - Future protocol encoding directions clarified as retrieval-layer invocation, weight-layer integration, prior-layer embedding, and tool-layer solidification; these are directional possibilities rather than fixed implementation paths.
 - Protocol encoding clarified through a transport-layer analogy: the current text form is an initial packet format, while the protocol's role is a portable judgment interface rather than an application, command layer, or unified implementation.
+- Protocol initialization layer clarified as an optional pre-dialogue handshake for AI/Agent conversations: share the judgment interface before entering the concrete problem, without making the protocol mandatory, universal, or exclusive.
 
 ## v1.0-kernel-candidate
 

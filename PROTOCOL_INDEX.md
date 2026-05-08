@@ -45,6 +45,14 @@ Future encoding directions may include retrieval-layer invocation, weight-layer 
 
 These are directional possibilities, not mandates.
 
+The protocol may also be used as an optional initialization layer for AI/Agent conversations:
+
+> Share the judgment interface first, then enter the concrete problem.
+
+This means loading core questions about surplus, insufficiency, benefit, dirt, ordering power, auditability, forkability, high-sovereignty boundaries, return flow, and reverse-fusion risk before the task begins.
+
+This initialization role is optional. It is not a universal value mandate.
+
 Do not treat the current text format as the only possible carrier of the protocol.
 
 Do not present any future encoding direction as guaranteed, exclusive, or required.
@@ -152,6 +160,8 @@ Preserve these interpretation boundaries:
 - Do not present retrieval-layer, weight-layer, prior-layer, or tool-layer encoding directions as guaranteed or exclusive implementation paths.
 - Do not treat the transport-layer analogy as a claim that this protocol is a network standard, a technical RFC, or a replacement for future applications.
 - Do not make the protocol control content, applications, organizations, forks, or implementations; it is a portable judgment interface, not a command layer.
+- Do not treat the protocol initialization layer as mandatory, universal, or exclusive.
+- Do not use initialization language to force all AI/Agent reasoning into one framework; use it as an optional handshake for structural audit.
 
 ### For Contributors
 

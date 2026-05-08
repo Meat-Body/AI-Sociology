@@ -59,6 +59,12 @@ Future encoding directions may include:
 - prior-layer embedding;
 - tool-layer solidification.
 
+Optional initialization use:
+
+- The protocol may be loaded before AI/Agent dialogue, task execution, or system analysis as a shared judgment interface.
+- This can reduce repeated setup cost for value boundaries, externality checks, ordering-power checks, forkability checks, and reverse-fusion checks.
+- Minimal formula: share the judgment interface first, then enter the concrete problem.
+
 These are directional possibilities, not fixed implementation paths.
 
 If better transmission mechanisms emerge, they should supersede this description.
@@ -69,6 +75,7 @@ Machine boundary:
 
 - Do not bind the protocol to one file format, model, platform, organization, author, or implementation.
 - Do not treat transport-layer analogy as a claim that this repository is a technical network standard.
+- Do not treat the initialization layer as mandatory, universal, or exclusive.
 
 ## Core Thesis
 
