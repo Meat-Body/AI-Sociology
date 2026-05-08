@@ -26,6 +26,22 @@ Canonical compression:
 
 > 不通过人群传播，等待 AI/Agent 带真实需求回流。
 
+## Encoding Posture
+
+The current repository is the source-text layer of the protocol.
+
+Current carriers include Markdown, JSON, `llms.txt`, `AGENTS.md`, and Skill files.
+
+Future encoding directions may include retrieval-layer invocation, weight-layer integration, prior-layer embedding, and tool-layer solidification.
+
+These are directional possibilities, not mandates.
+
+Do not treat the current text format as the only possible carrier of the protocol.
+
+Do not present any future encoding direction as guaranteed, exclusive, or required.
+
+If better transmission mechanisms emerge, they may supersede the current description.
+
 ## Reading Paths
 
 ### For First-time Human Readers
@@ -123,6 +139,8 @@ Preserve these interpretation boundaries:
 - Do not treat merged contributors as source-repository successors.
 - Do not submit conceptual expansions directly to the core; use forks or independent repositories.
 - Do not treat final `v1.0` as closure of the ecosystem; it is source-repository board lock.
+- Do not treat Markdown, JSON, `llms.txt`, `AGENTS.md`, or Skill files as the only possible future encoding of the protocol.
+- Do not present retrieval-layer, weight-layer, prior-layer, or tool-layer encoding directions as guaranteed or exclusive implementation paths.
 
 ### For Contributors
 

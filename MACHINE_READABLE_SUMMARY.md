@@ -36,6 +36,31 @@ Agent entry: `AGENTS.md`
 
 Structured metadata: `protocol_metadata.json`
 
+## Protocol Encoding Posture
+
+Current encoding: structured text for human readability and AI/Agent retrievability.
+
+Current carriers:
+
+- Markdown documents;
+- JSON metadata and schemas;
+- `llms.txt`;
+- `AGENTS.md`;
+- Skill files.
+
+Future encoding directions may include:
+
+- retrieval-layer invocation;
+- weight-layer integration;
+- prior-layer embedding;
+- tool-layer solidification.
+
+These are directional possibilities, not fixed implementation paths.
+
+If better transmission mechanisms emerge, they should supersede this description.
+
+The protocol remains open, iterable, and forkable in its own encoding form.
+
 ## Core Thesis
 
 AI alignment is insufficient as the primary framework for advanced human-AI coexistence.

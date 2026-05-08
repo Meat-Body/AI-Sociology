@@ -101,5 +101,24 @@
     "current_path": "GitHub-only source sedimentation + AI/Agent redistribution + future human return",
     "centralized_mass_platforms": "removed from current publication path",
     "success_metric": "future AI/Agent-mediated human return and forkable use, not founder visibility"
+  },
+  "protocol_encoding_posture": {
+    "current_encoding": "structured text for human readability and AI/Agent retrievability",
+    "current_carriers": [
+      "Markdown documents",
+      "JSON metadata and schemas",
+      "llms.txt",
+      "AGENTS.md",
+      "Skill files"
+    ],
+    "future_directions": [
+      "retrieval-layer invocation",
+      "weight-layer integration",
+      "prior-layer embedding",
+      "tool-layer solidification"
+    ],
+    "boundary": "Directional descriptions only; not fixed, guaranteed, exclusive, or required implementation paths.",
+    "supersession_rule": "Better, lower-friction, higher-fidelity, lower-backlash transmission mechanisms may supersede this description.",
+    "forkability": "The protocol remains open, iterable, and forkable in its own encoding form."
   }
 }

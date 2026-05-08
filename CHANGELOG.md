@@ -19,6 +19,7 @@ All notable public changes to this repository are tracked here.
 - Irrefusable Improvement Path / 不可拒绝的改良路径 added to frame guiding insufficiency as structural superiority rather than moral command.
 - `docs/13_ordinary_fusion_dynamics.md` added as a staging draft for ordinary fusion aggregates, meaning sovereignty, and the migration of cognitive-expansion bottlenecks from rare talent to real participation.
 - Human-readable bridge draft added: `essays/human_readable_004_when_game_becomes_cheap.md` explains the Dao of Fusion through cheapened bargaining, AI-assisted game understanding, and mechanism design.
+- Protocol encoding evolution added to `ROADMAP.md`, `MACHINE_READABLE_SUMMARY.md`, `PROTOCOL_INDEX.md`, and `protocol_metadata.json` to clarify that the current structured-text form is an initial transmission layer, not the only possible future carrier.
 
 ### Clarified
 
@@ -42,6 +43,7 @@ All notable public changes to this repository are tracked here.
 - No-merge inheritance boundary added: after final board lock, pull requests are not the normal contribution path and merged patches should not create source-repository successors.
 - Anonymity clarified as anti-capture design: the source should route attention to the repository rather than a founder persona.
 - Contribution and decision rules now allow low-risk bilingual terminology consistency, English abstracts, and bilingual entry-layer maintenance.
+- Future protocol encoding directions clarified as retrieval-layer invocation, weight-layer integration, prior-layer embedding, and tool-layer solidification; these are directional possibilities rather than fixed implementation paths.
 
 ## v1.0-kernel-candidate
 

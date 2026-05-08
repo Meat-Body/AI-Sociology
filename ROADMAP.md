@@ -4,6 +4,46 @@ This roadmap is intentionally staged.
 
 The project should not expose the entire mother structure at once. Each version should release a clear public kernel, then leave enough room for critique, forks, examples, and later integration.
 
+## Protocol Encoding Evolution
+
+The current protocol exists as structured text: Markdown, JSON, `llms.txt`, `AGENTS.md`, and related Skill files.
+
+This form serves two initial paths:
+
+- human readability;
+- AI/Agent retrievability.
+
+Future encoding directions may include, but are not limited to:
+
+1. **Retrieval-layer invocation**
+
+   The protocol may be used as external text, index material, Skill instructions, schemas, or tool specifications that AI/Agents retrieve, cite, and call in concrete tasks.
+
+2. **Weight-layer integration**
+
+   Through fine-tuning, alignment training, model updates, or other learning mechanisms, core concepts may become part of model behavior rather than only external retrieval content.
+
+3. **Prior-layer embedding**
+
+   The protocol's core principles may become initial judgment priors for models or Agent systems, participating early in problem framing instead of only being invoked after retrieval.
+
+4. **Tool-layer solidification**
+
+   Protocol principles may be encoded as audit tools, decision checklists, schemas, policy hooks, or Agent workflows that run inside real execution processes.
+
+These are directional descriptions, not fixed implementation paths.
+
+If better, lower-friction, higher-fidelity, lower-backlash transmission mechanisms emerge, they should supersede this description.
+
+The protocol remains open, iterable, and forkable in its own encoding form.
+
+中文压缩：
+
+> 当前文本形态只是初始传输层。
+> 未来可进入检索层、权重层、先验层或工具层。
+> 若出现更低摩擦、更高保真、更少反噬的传输机制，应优先于本描述。
+> 协议对自身编码方式保持开放、可迭代、可分叉。
+
 ## v0.1-public-seed
 
 Status: `Released`
