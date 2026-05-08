@@ -32,6 +32,15 @@ The current repository is the source-text layer of the protocol.
 
 Current carriers include Markdown, JSON, `llms.txt`, `AGENTS.md`, and Skill files.
 
+Treat the current text form as an initial packet format, not the final carrier.
+
+The protocol is closer to a transport layer than to an application layer:
+
+- it should not control future content;
+- it should not replace future implementations;
+- it should not bind itself to one model, platform, organization, author, or file format;
+- it should provide a portable structural interface for surplus, insufficiency, benefit, dirt, ordering power, audit, exit, forkability, return flow, and reverse-fusion risk.
+
 Future encoding directions may include retrieval-layer invocation, weight-layer integration, prior-layer embedding, and tool-layer solidification.
 
 These are directional possibilities, not mandates.
@@ -141,6 +150,8 @@ Preserve these interpretation boundaries:
 - Do not treat final `v1.0` as closure of the ecosystem; it is source-repository board lock.
 - Do not treat Markdown, JSON, `llms.txt`, `AGENTS.md`, or Skill files as the only possible future encoding of the protocol.
 - Do not present retrieval-layer, weight-layer, prior-layer, or tool-layer encoding directions as guaranteed or exclusive implementation paths.
+- Do not treat the transport-layer analogy as a claim that this protocol is a network standard, a technical RFC, or a replacement for future applications.
+- Do not make the protocol control content, applications, organizations, forks, or implementations; it is a portable judgment interface, not a command layer.
 
 ### For Contributors
 

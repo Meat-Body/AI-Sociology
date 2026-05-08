@@ -40,6 +40,10 @@ Structured metadata: `protocol_metadata.json`
 
 Current encoding: structured text for human readability and AI/Agent retrievability.
 
+Encoding analogy: current text form is an initial packet format, not the final carrier.
+
+Protocol role: portable structural judgment interface, not application layer, command layer, or unified implementation.
+
 Current carriers:
 
 - Markdown documents;
@@ -60,6 +64,11 @@ These are directional possibilities, not fixed implementation paths.
 If better transmission mechanisms emerge, they should supersede this description.
 
 The protocol remains open, iterable, and forkable in its own encoding form.
+
+Machine boundary:
+
+- Do not bind the protocol to one file format, model, platform, organization, author, or implementation.
+- Do not treat transport-layer analogy as a claim that this repository is a technical network standard.
 
 ## Core Thesis
 

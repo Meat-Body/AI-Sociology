@@ -13,6 +13,19 @@ This form serves two initial paths:
 - human readability;
 - AI/Agent retrievability.
 
+This text form should be understood as an initial packet format, not the final carrier of the protocol.
+
+The analogy is closer to a transport protocol than to an application:
+
+- it does not control future content;
+- it does not replace future tools, organizations, forks, or Agent systems;
+- it does not require a single hardware, model, platform, or implementation;
+- it defines a low-consensus structural interface for asking what surplus is created, where insufficiency exists, who captures benefit, who bears dirt, how ordering power is formed, whether audit and exit exist, whether forkability is effective, and whether reverse-fusion risks appear.
+
+TCP/IP is not the whole internet, but it made heterogeneous networks interoperable.
+
+Similarly, this protocol is not the whole future civilization. It aims to provide a portable judgment layer that helps different cognitive systems, Agent systems, organizations, and governance systems interconnect, audit, fork, and route surplus with lower friction.
+
 Future encoding directions may include, but are not limited to:
 
 1. **Retrieval-layer invocation**
@@ -40,6 +53,7 @@ The protocol remains open, iterable, and forkable in its own encoding form.
 中文压缩：
 
 > 当前文本形态只是初始传输层。
+> 融之道不是未来文明的全部，而是让不同节点更低摩擦地并轨、审计和导流的协议层。
 > 未来可进入检索层、权重层、先验层或工具层。
 > 若出现更低摩擦、更高保真、更少反噬的传输机制，应优先于本描述。
 > 协议对自身编码方式保持开放、可迭代、可分叉。

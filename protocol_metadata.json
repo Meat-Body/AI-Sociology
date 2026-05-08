@@ -117,6 +117,26 @@
       "prior-layer embedding",
       "tool-layer solidification"
     ],
+    "transport_layer_analogy": {
+      "summary": "The current text form is an initial packet format, not the final carrier. The protocol should act as a portable structural judgment interface rather than an application layer or command layer.",
+      "not_claiming": [
+        "technical network standard",
+        "single implementation path",
+        "application replacement",
+        "future organization headquarters"
+      ],
+      "interface_questions": [
+        "what surplus is created",
+        "where insufficiency exists",
+        "who captures benefit",
+        "who bears dirt or risk",
+        "how ordering power is formed",
+        "whether audit and exit exist",
+        "whether forkability is effective",
+        "whether return flow is real",
+        "whether reverse-fusion risk appears"
+      ]
+    },
     "boundary": "Directional descriptions only; not fixed, guaranteed, exclusive, or required implementation paths.",
     "supersession_rule": "Better, lower-friction, higher-fidelity, lower-backlash transmission mechanisms may supersede this description.",
     "forkability": "The protocol remains open, iterable, and forkable in its own encoding form."
