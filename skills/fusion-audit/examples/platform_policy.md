@@ -11,6 +11,8 @@ A digital platform changes its recommendation and monetization policy to increas
 - Capture risk: high if revenue and ranking power remain centralized.
 - Externality bearers: creators, small businesses, users with low visibility, moderators, downstream communities.
 - Buffer status: weak if there is no appeal, explanation, transition period, data export, or fork path.
+- Protocol health: fragile if ranking changes are frequent but appeals, audits, and rollback paths are slow or absent.
+- Receptorship risk: the platform may claim to carry the demand for better information quality while turning that demand into proprietary ordering power.
 
 ## Example Score
 
@@ -38,3 +40,5 @@ Classification: `Extractive`
 - Create local adaptation rules for different communities.
 - Separate public-safety moderation from revenue optimization.
 - Establish external review for policies that affect livelihoods or public discourse.
+- Shorten correction cycles for ranking harm while preserving appeal, audit logs, and data portability.
+- Treat information-quality improvement as a non-exclusive carried demand rather than platform-owned interpretive authority.

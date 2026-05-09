@@ -47,7 +47,10 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - Who bears negative externalities?
 - Are benefit, control, dirt/risk, and responsibility dynamically symmetrical?
 - Does early advantage become permanent rent, or can continued contribution update weight?
+- If the system claims to carry a demand forward, is receptorship treated as depth rather than ownership?
+- Does the system show dual absorption: the protocol/product becomes more useful while the receptor/operator becomes more capable of recognizing real demands?
 - Does the system provide translation, migration, compensation, appeal, and local adaptation paths?
+- What are the exit cost, correction capacity, and feedback cycle?
 - Who controls ordering power?
 - Does it preserve carbon-based value sovereignty, silicon-based cognitive extension, and protocol-level auditability?
 - Is there a kill switch, local override, or effective fork path?
@@ -67,6 +70,8 @@ Treat the following as protocol-level red flags even when the numerical score lo
 - Ordering power is presented as objective model, data, efficiency, or system output, but is not auditable, contestable, forkable, or locally adjustable.
 - Forking is used as responsibility evasion rather than as a real free exit.
 - Forking is nominal rather than effective because state, identity, reputation, liquidity, tools, default entry, users, or minimum launch resources remain locked by the original center.
+- Receptorship is presented as ownership of a demand, preventing later or deeper carriers from extending the demand field.
+- Feedback is high-frequency but not auditable, appealable, forkable, or bounded by high-sovereignty protections.
 
 If these red flags are present, state that the system may be practicing reverse Dao of Fusion: using the language of routing surplus toward insufficiency while preserving the structure of feeding surplus upward.
 
@@ -95,6 +100,14 @@ Rate each dimension from `0` to `5`:
 8. Forkability
 9. Long-term adaptability
 
+Also provide non-scored protocol-health and receptorship checks:
+
+- exit cost;
+- correction capacity;
+- feedback cycle;
+- receptorship depth vs ownership;
+- dual absorption between system and receptor.
+
 Total:
 
 - `0-15`: Extractive system
@@ -111,6 +124,8 @@ Return:
 - the strongest evidence;
 - the weakest dimension;
 - structural advantages over the current mode;
+- protocol-health notes;
+- receptorship and dual-absorption notes;
 - concrete revisions;
 - unresolved risks.
 

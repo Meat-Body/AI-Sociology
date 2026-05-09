@@ -50,6 +50,7 @@ All notable public changes to this repository are tracked here.
 - Demand gravity clarified as dual absorption: real demand gravity can make both the protocol and the receptor heavier.
 - Ordinary fusion dynamics clarified through receptorship bargaining, gravity direction, gravity slingshot, and non-exclusive receptorship depth.
 - Protocol health clarified as low exit cost, strong correction capacity, and short feedback cycle, bounded by auditability, appeal, forkability, and high-sovereignty protections.
+- Fusion Audit Skill updated with non-scored protocol-health, receptorship, cognitive-gravity, dual-absorption, and high-frequency feedback checks while preserving the existing 45-point scoring scale.
 
 ## v1.0-kernel-candidate
 

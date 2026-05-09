@@ -176,6 +176,124 @@
         "fork_as_responsibility_evasion": {
           "type": "boolean"
         },
+        "receptorship_as_ownership": {
+          "type": "boolean"
+        },
+        "high_frequency_punishment_without_appeal": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "dual_absorption": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "protocol_or_system_gets_heavier",
+        "receptor_cognition_gets_heavier",
+        "notes"
+      ],
+      "properties": {
+        "protocol_or_system_gets_heavier": {
+          "type": "boolean"
+        },
+        "receptor_cognition_gets_heavier": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "receptorship": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "depth_not_ownership",
+        "real_problem_domain",
+        "ai_gravity_direction",
+        "notes"
+      ],
+      "properties": {
+        "depth_not_ownership": {
+          "type": "boolean"
+        },
+        "real_problem_domain": {
+          "type": "boolean"
+        },
+        "ai_gravity_direction": {
+          "type": "string",
+          "enum": [
+            "human_problem_field_captures_ai",
+            "ai_default_frame_captures_human",
+            "mixed",
+            "not_applicable",
+            "unknown"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
+    "protocol_health": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "exit_cost",
+        "correction_capacity",
+        "feedback_cycle",
+        "auditable",
+        "appealable",
+        "forkable",
+        "high_sovereignty_protected",
+        "notes"
+      ],
+      "properties": {
+        "exit_cost": {
+          "type": "string",
+          "enum": [
+            "low",
+            "medium",
+            "high",
+            "unknown"
+          ]
+        },
+        "correction_capacity": {
+          "type": "string",
+          "enum": [
+            "weak",
+            "partial",
+            "strong",
+            "unknown"
+          ]
+        },
+        "feedback_cycle": {
+          "type": "string",
+          "enum": [
+            "real_time",
+            "daily",
+            "weekly",
+            "monthly",
+            "yearly_or_slower",
+            "crisis_only",
+            "unknown"
+          ]
+        },
+        "auditable": {
+          "type": "boolean"
+        },
+        "appealable": {
+          "type": "boolean"
+        },
+        "forkable": {
+          "type": "boolean"
+        },
+        "high_sovereignty_protected": {
+          "type": "boolean"
+        },
         "notes": {
           "type": "string"
         }

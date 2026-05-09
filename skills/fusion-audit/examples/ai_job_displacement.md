@@ -11,6 +11,8 @@ An organization wants to deploy AI agents to replace a large share of customer s
 - Capture risk: surplus is likely captured by the organization if no return-flow mechanism exists.
 - Externality bearers: displaced support workers, remaining workers handling escalations, customers with complex cases.
 - Buffer status: weak unless the plan includes transition time, retraining, compensation, appeal, and human escalation paths.
+- Protocol health: weak if displacement is immediate, appeals are slow, and harm is discovered only after layoffs or service failure.
+- Receptorship risk: the organization may claim to carry the demand for better support while treating efficiency gains as ownership of the entire surplus.
 
 ## Example Score
 
@@ -36,3 +38,5 @@ Classification: `Fragile`
 - Preserve human appeal and escalation for complex cases.
 - Audit whether the AI system worsens service for low-voice or hard-to-express users.
 - Add rollback triggers if quality, safety, or worker harm thresholds are exceeded.
+- Shorten correction cycles with auditable quality, worker-harm, and customer-harm feedback before full displacement.
+- Treat support improvement as a carried demand, not as ownership of all productivity surplus.

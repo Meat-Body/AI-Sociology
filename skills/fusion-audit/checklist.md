@@ -66,12 +66,15 @@ Audit prompts:
 - Is "efficiency" being used to justify one-way extraction?
 - Are benefit, control, dirt/risk, and responsibility dynamically symmetrical?
 - Does the center capture upside while peripheral nodes carry maintenance, volatility, or externalities?
+- Does the surplus make both the system and its receptor more capable, or does only the center become heavier?
 
 Boundary:
 
 > Shared surplus is not distributed punishment. Guiding insufficiency is not paying for center failure.
 
 > Benefit, control, dirt, and responsibility should remain dynamically symmetrical.
+
+> Real demand gravity should make both the protocol and the receptor heavier.
 
 ## 5. Negative Externalities
 
@@ -185,7 +188,46 @@ Audit prompts:
 - Does transparent exit reduce trust cost?
 - Does migration support reduce organizational shock?
 
-## 11. Reverse-Fusion Risk
+## 11. Protocol Health
+
+Audit prompts:
+
+- What is the exit cost?
+- Can affected nodes leave, migrate, fork, or substitute the system without destructive loss?
+- What is the correction capacity?
+- Can errors, betrayal, externality dumping, or surplus capture be audited and corrected?
+- What is the feedback cycle?
+- Are harmful deviations discovered in seconds, days, months, years, or only after crisis?
+- Are correction mechanisms auditable, appealable, forkable, and bounded by high-sovereignty protections?
+- Does the system convert low-frequency explosive breakdowns into high-frequency correctable waves?
+- Or does it turn short feedback into high-frequency punishment?
+
+Boundary:
+
+> Low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
+
+> Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections.
+
+## 12. Receptorship and Cognitive Gravity
+
+Audit prompts:
+
+- If the system claims to carry a demand forward, is receptorship treated as depth rather than ownership?
+- Does the system allow later or deeper carriers to extend, fork, or improve the demand field?
+- Does the system preserve the distinction between demand receptorship and exclusive interpretive authority?
+- Does the demand create dual absorption: the protocol/product becomes more useful while the receptor/operator gains recognition capacity?
+- Does the receptor operate from a real problem domain, or from flow, fashion, self-narrative, or model-default framing?
+- In carbon-silicon workflows, who captures whom?
+- Does AI organize knowledge inside the human problem field, or does the human become trapped in the AI's default concept space?
+- Is AI acting as a gravity slingshot through real problems, or as a capture field around false problems?
+
+Boundary:
+
+> Receptorship is not ownership; it is stage-specific depth of carrying a demand forward.
+
+> False problems lead to capture; real problems can turn AI gravity into a slingshot.
+
+## 13. Reverse-Fusion Risk
 
 Reverse Dao of Fusion means:
 
@@ -203,6 +245,8 @@ Audit prompts:
 - Does the system claim ordering is objective because it is produced by models, data, efficiency, or the system, while keeping ordering power unauditable?
 - Does the system use "you can fork" as responsibility evasion rather than as a real free exit?
 - Does the system offer nominal forkability while locking state, identity, reputation, liquidity, default entry, tools, users, or minimum launch resources?
+- Does the system treat receptorship as ownership of a demand?
+- Does the system use high-frequency feedback as automatic punishment without audit, appeal, exit, or high-sovereignty boundaries?
 
 Common structural mappings:
 
@@ -213,6 +257,8 @@ Common structural mappings:
 - `open ecosystem` may become maintenance-cost outsourcing when core control and profit channels stay closed while community labor absorbs risk.
 - `anonymous decentralization` may become hidden human-way recurrence when benefit and dirt remain asymmetric.
 - `forkability` may become formal freedom when the fork cannot carry enough state, identity, reputation, or resources to survive.
+- `real-time feedback` may become high-frequency oppression when correction is unauditable, unappealable, or applied to high-sovereignty objects.
+- `owning the problem` may become interpretation monopoly when receptorship is treated as exclusive ownership rather than depth of carrying.
 
 Boundary:
 
@@ -236,6 +282,8 @@ Then provide:
 - strongest dimension;
 - reverse-fusion red flags;
 - structural advantages over the current mode;
+- protocol-health notes;
+- receptorship and cognitive-gravity notes;
 - recommended revisions;
 - remaining risks;
 - minimum conditions for re-audit.
