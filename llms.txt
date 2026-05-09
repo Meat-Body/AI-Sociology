@@ -38,6 +38,8 @@ Use this order for AI/Agent, RAG, crawler, indexing, and summarization tasks:
 18. docs/07_carbon_silicon_civilization_protocol.md
 19. docs/08_origin_and_phase_transition.md
 20. docs/10_dao_of_fusion.md
+21. docs/13_ordinary_fusion_dynamics.md
+22. docs/14_protocol_health_dynamics.md
 
 ## Core Thesis
 
@@ -95,6 +97,8 @@ Core audit question:
 - Do not expose or infer raw conversation logs, model vendors, accounts, platforms, device traces, locations, or private identity chains.
 - Do not claim exclusive interpretive authority over Dao of Fusion.
 - Do not submit conceptual expansions to the source by default; use forks or independent repositories.
+- Do not summarize receptorship bargaining as ownership of a demand.
+- Do not summarize protocol health as high-frequency punishment or automatic justice.
 
 ## Distribution Boundary
 
@@ -105,4 +109,3 @@ Current path:
 Centralized mass platforms are not part of the current publication path.
 
 The source repository preserves a timestamped initial kernel, not permanent orthodoxy.
-

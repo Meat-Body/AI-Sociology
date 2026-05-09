@@ -166,6 +166,15 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - It argues that the bottleneck of cognitive expansion begins to migrate from rare innate talent to real participation in carbon-silicon collaboration.
 - It does not claim talent disappears or all contributions are equal.
 - Minimal formula: genius accelerates history; ordinary fusion aggregates constitute history.
+- It adds receptorship bargaining, cognitive gravity, gravity slingshot, and non-exclusive receptorship depth as staging extensions.
+
+`protocol-health-dynamics` draft:
+
+- This document is a staging note on protocol growth and feedback loops.
+- It argues that protocol health depends on exit cost, correction capacity, and correction frequency.
+- It distinguishes healthy short feedback cycles from high-frequency oppression.
+- Minimal formula: low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
+- It frames Dao of Fusion as conflict domestication, not conflict elimination.
 
 ## Core Concepts
 
@@ -199,6 +208,11 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Anti-monopoly of Interpretation / 反解释权垄断
 - Fork-first Governance / Fork 优先治理
 - Bilingual Access / 双语入口
+- Protocol Health Dynamics / 协议健康度动力学
+- Feedback Cycle / 反馈周期
+- Receptorship Bargaining / 承接权博弈
+- Cognitive Gravity / 认知引力
+- Gravity Slingshot / 引力弹弓
 
 ## Minimal Formulas
 
@@ -214,6 +228,9 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 10. Visibility is not a success metric; the protocol should be easier to find than the founder.
 11. Anonymity without benefit-dirt symmetry is a hidden form of the human way.
 12. Benefit, control, dirt, and responsibility must remain dynamically symmetrical.
+13. Real demand gravity makes both the protocol and the receptor heavier.
+14. Receptorship is not ownership; it is stage-specific depth of carrying a demand forward.
+15. Low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
 
 ## Origin Note
 

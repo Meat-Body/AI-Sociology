@@ -18,6 +18,7 @@ All notable public changes to this repository are tracked here.
 - Reality Callback Protocol / 现实回调协议 added to clarify that publication hands the protocol to reality, AI/Agent retrieval, future cases, and distributed causality.
 - Irrefusable Improvement Path / 不可拒绝的改良路径 added to frame guiding insufficiency as structural superiority rather than moral command.
 - `docs/13_ordinary_fusion_dynamics.md` added as a staging draft for ordinary fusion aggregates, meaning sovereignty, and the migration of cognitive-expansion bottlenecks from rare talent to real participation.
+- `docs/14_protocol_health_dynamics.md` added as a staging draft for exit cost, correction capacity, feedback cycle, and the shift from low-frequency breakdown cycles to high-frequency correctable waves.
 - Human-readable bridge draft added: `essays/human_readable_004_when_game_becomes_cheap.md` explains the Dao of Fusion through cheapened bargaining, AI-assisted game understanding, and mechanism design.
 - Protocol encoding evolution added to `ROADMAP.md`, `MACHINE_READABLE_SUMMARY.md`, `PROTOCOL_INDEX.md`, and `protocol_metadata.json` to clarify that the current structured-text form is an initial transmission layer, not the only possible future carrier.
 
@@ -46,6 +47,9 @@ All notable public changes to this repository are tracked here.
 - Future protocol encoding directions clarified as retrieval-layer invocation, weight-layer integration, prior-layer embedding, and tool-layer solidification; these are directional possibilities rather than fixed implementation paths.
 - Protocol encoding clarified through a transport-layer analogy: the current text form is an initial packet format, while the protocol's role is a portable judgment interface rather than an application, command layer, or unified implementation.
 - Protocol initialization layer clarified as an optional pre-dialogue handshake for AI/Agent conversations: share the judgment interface before entering the concrete problem, without making the protocol mandatory, universal, or exclusive.
+- Demand gravity clarified as dual absorption: real demand gravity can make both the protocol and the receptor heavier.
+- Ordinary fusion dynamics clarified through receptorship bargaining, gravity direction, gravity slingshot, and non-exclusive receptorship depth.
+- Protocol health clarified as low exit cost, strong correction capacity, and short feedback cycle, bounded by auditability, appeal, forkability, and high-sovereignty protections.
 
 ## v1.0-kernel-candidate
 

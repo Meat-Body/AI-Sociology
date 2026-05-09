@@ -127,10 +127,11 @@ Read in this order:
 22. `docs/08_origin_and_phase_transition.md`
 23. `docs/10_dao_of_fusion.md`
 24. `docs/13_ordinary_fusion_dynamics.md`
-25. `README.md`
-26. `GOVERNANCE.md`
-27. `MAINTAINERS.md`
-28. `release_notes/`
+25. `docs/14_protocol_health_dynamics.md`
+26. `README.md`
+27. `GOVERNANCE.md`
+28. `MAINTAINERS.md`
+29. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -162,6 +163,9 @@ Preserve these interpretation boundaries:
 - Do not make the protocol control content, applications, organizations, forks, or implementations; it is a portable judgment interface, not a command layer.
 - Do not treat the protocol initialization layer as mandatory, universal, or exclusive.
 - Do not use initialization language to force all AI/Agent reasoning into one framework; use it as an optional handshake for structural audit.
+- Do not summarize protocol health as high-frequency punishment; short feedback must remain auditable, appealable, forkable, and bounded by high-sovereignty protections.
+- Do not summarize receptorship bargaining as ownership of a demand; it means stage-specific depth of carrying a demand forward.
+- Do not summarize gravity slingshot as AI capture being harmless; correct trajectory depends on real problem domains and external feedback.
 
 ### For Contributors
 
@@ -254,6 +258,7 @@ Primary files:
 - `docs/07_carbon_silicon_civilization_protocol.md`
 - `docs/08_origin_and_phase_transition.md`
 - `docs/13_ordinary_fusion_dynamics.md`
+- `docs/14_protocol_health_dynamics.md`
 - `skills/fusion-audit/`
 - `release_notes/v1.0-kernel-candidate.md`
 
