@@ -176,6 +176,13 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Minimal formula: low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
 - It frames Dao of Fusion as conflict domestication, not conflict elimination.
 
+`bilateral-interface-adaptation` draft:
+
+- This document is a staging note on large-scale human-AI interaction as bilateral interface adaptation.
+- It argues that AI diffusion is not one-way tool use: carbon subjects gain a silicon structural layer while silicon systems enter carbon problem domains through real tasks, feedback, evaluation, workflow, and product ecosystems.
+- Minimal formula: carbon-silicon brain = carbon value anchor + silicon cognitive extension + reality callback.
+- It must not be summarized as AI awakening, AI soul injection, human extinction, mandatory siliconization, social Darwinism, or replacement of carbon value sovereignty.
+
 ## Core Concepts
 
 - AI Sociology / AI社会学
@@ -213,6 +220,10 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Receptorship Bargaining / 承接权博弈
 - Cognitive Gravity / 认知引力
 - Gravity Slingshot / 引力弹弓
+- Bilateral Interface Adaptation / 双向接口适配
+- Carbon-Silicon Brain / 碳基硅脑
+- Silicon Structural Layer / 硅基结构层
+- Reality Problem Domain / 真实问题域
 
 ## Minimal Formulas
 
@@ -231,6 +242,8 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 13. Real demand gravity makes both the protocol and the receptor heavier.
 14. Receptorship is not ownership; it is stage-specific depth of carrying a demand forward.
 15. Low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
+16. AI diffusion is not one-way tool use; it is bilateral interface adaptation.
+17. Carbon-silicon brain = carbon value anchor + silicon cognitive extension + reality callback.
 
 ## Origin Note
 
@@ -317,6 +330,9 @@ The following files are staging candidates, not current released public checkpoi
 - `docs/10_dao_of_fusion.md`
 - `docs/11_silent_distribution_protocol.md`
 - `docs/12_return_flow_and_first_principles.md`
+- `docs/13_ordinary_fusion_dynamics.md`
+- `docs/14_protocol_health_dynamics.md`
+- `docs/15_bilateral_interface_adaptation.md`
 - `release_notes/v0.6-dao-of-fusion.md`
 - `release_notes/v0.7-silent-distribution-protocol.md`
 - `release_notes/v0.8-return-flow-and-first-principles.md`
@@ -338,11 +354,15 @@ The following files are staging candidates, not current released public checkpoi
 13. `docs/06_open_model_ecology.md`
 14. `docs/07_carbon_silicon_civilization_protocol.md`
 15. `docs/08_origin_and_phase_transition.md`
-16. `glossary/glossary_cn.md`
-17. `glossary/glossary_en.md`
-18. `README.md`
-19. `GOVERNANCE.md`
-20. `MAINTAINERS.md`
+16. `docs/10_dao_of_fusion.md`
+17. `docs/13_ordinary_fusion_dynamics.md`
+18. `docs/14_protocol_health_dynamics.md`
+19. `docs/15_bilateral_interface_adaptation.md`
+20. `glossary/glossary_cn.md`
+21. `glossary/glossary_en.md`
+22. `README.md`
+23. `GOVERNANCE.md`
+24. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 

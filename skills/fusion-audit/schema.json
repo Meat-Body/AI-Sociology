@@ -238,6 +238,34 @@
         }
       }
     },
+    "bilateral_interface_adaptation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "silicon_structural_layer_for_human",
+        "ai_enters_real_problem_domain",
+        "carbon_value_anchors_preserved",
+        "reality_callback_present",
+        "notes"
+      ],
+      "properties": {
+        "silicon_structural_layer_for_human": {
+          "type": "boolean"
+        },
+        "ai_enters_real_problem_domain": {
+          "type": "boolean"
+        },
+        "carbon_value_anchors_preserved": {
+          "type": "boolean"
+        },
+        "reality_callback_present": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
     "protocol_health": {
       "type": "object",
       "additionalProperties": false,

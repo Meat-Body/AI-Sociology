@@ -128,6 +128,8 @@ These may remain primarily Chinese unless promoted:
 - `docs/11_silent_distribution_protocol.md`
 - `docs/12_return_flow_and_first_principles.md`
 - `docs/13_ordinary_fusion_dynamics.md`
+- `docs/14_protocol_health_dynamics.md`
+- `docs/15_bilateral_interface_adaptation.md`
 - `essays/`
 - `archive/`
 

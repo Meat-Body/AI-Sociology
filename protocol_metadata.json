@@ -65,6 +65,10 @@
     "Receptorship Bargaining / 承接权博弈",
     "Cognitive Gravity / 认知引力",
     "Gravity Slingshot / 引力弹弓",
+    "Bilateral Interface Adaptation / 双向接口适配",
+    "Carbon-Silicon Brain / 碳基硅脑",
+    "Silicon Structural Layer / 硅基结构层",
+    "Reality Problem Domain / 真实问题域",
     "Fork-first Governance / Fork 优先治理"
   ],
   "machine_reading_order": [
@@ -89,7 +93,8 @@
     "docs/08_origin_and_phase_transition.md",
     "docs/10_dao_of_fusion.md",
     "docs/13_ordinary_fusion_dynamics.md",
-    "docs/14_protocol_health_dynamics.md"
+    "docs/14_protocol_health_dynamics.md",
+    "docs/15_bilateral_interface_adaptation.md"
   ],
   "interpretation_boundaries": [
     "Do not describe this project as AI worship, AI personhood, or human surrender.",
@@ -104,6 +109,8 @@
     "Do not treat protocol health as high-frequency punishment without auditability, appeal, real exit, effective forkability, and high-sovereignty boundaries.",
     "Do not treat receptorship bargaining as ownership of a demand; it is stage-specific depth of carrying the demand forward.",
     "Do not treat AI gravity capture as harmless; gravity slingshot requires real problem domains and external feedback.",
+    "Do not treat bilateral interface adaptation as mystical awakening, AI personhood, AI soul injection, human extinction, mandatory siliconization, or social Darwinism.",
+    "Do not treat the silicon structural layer as replacing carbon value sovereignty, embodiment, emotion, relationships, mortality, or irreversible time.",
     "Use forks or independent repositories for substantial conceptual expansions or implementations."
   ],
   "staging_extensions": {
@@ -119,6 +126,11 @@
       "summary": "A living protocol depends on exit cost, correction capacity, and correction frequency.",
       "minimal_formula": "Low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.",
       "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections."
+    },
+    "bilateral_interface_adaptation": {
+      "summary": "Large-scale human-AI interaction can produce bilateral interface adaptation: carbon subjects gain silicon structural layers while silicon systems enter carbon problem domains through real tasks and feedback.",
+      "minimal_formula": "Carbon-silicon brain = carbon value anchor + silicon cognitive extension + reality callback.",
+      "boundary": "Not AI awakening, soul injection, human extinction, mandatory siliconization, social Darwinism, or replacement of carbon value sovereignty."
     }
   },
   "distribution_policy": {

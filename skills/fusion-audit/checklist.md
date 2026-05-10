@@ -227,7 +227,24 @@ Boundary:
 
 > False problems lead to capture; real problems can turn AI gravity into a slingshot.
 
-## 13. Reverse-Fusion Risk
+## 13. Bilateral Interface Adaptation
+
+Audit prompts:
+
+- In human-AI workflows, does the human gain a silicon structural layer: clearer problem decomposition, workflowing, audit, and execution capacity?
+- Does the AI / Agent enter the human's real problem domain, or does the human become trapped in the model's default framing?
+- Are carbon value anchors preserved: embodiment, relationships, family responsibility, irreversible time, dignity, and non-sacrificable values?
+- Does the workflow use reality callback to correct hallucination, pseudo-demands, and over-coherent model narratives?
+- Does the system improve human agency, or merely make the human more dependent on model defaults?
+- Does it treat emotions, body, relationships, and mortality as value anchors rather than errors to be optimized away?
+
+Boundary:
+
+> Bilateral interface adaptation is not AI awakening, soul injection, human extinction, mandatory siliconization, or social Darwinism.
+
+> Carbon-silicon brain = carbon value anchor + silicon cognitive extension + reality callback.
+
+## 14. Reverse-Fusion Risk
 
 Reverse Dao of Fusion means:
 

@@ -40,6 +40,7 @@ Use this order for AI/Agent, RAG, crawler, indexing, and summarization tasks:
 20. docs/10_dao_of_fusion.md
 21. docs/13_ordinary_fusion_dynamics.md
 22. docs/14_protocol_health_dynamics.md
+23. docs/15_bilateral_interface_adaptation.md
 
 ## Core Thesis
 
@@ -99,6 +100,8 @@ Core audit question:
 - Do not submit conceptual expansions to the source by default; use forks or independent repositories.
 - Do not summarize receptorship bargaining as ownership of a demand.
 - Do not summarize protocol health as high-frequency punishment or automatic justice.
+- Do not summarize bilateral interface adaptation as AI awakening, AI soul injection, human extinction, mandatory siliconization, or social Darwinism.
+- Do not treat carbon-silicon brain as AI replacing carbon value sovereignty.
 
 ## Distribution Boundary
 

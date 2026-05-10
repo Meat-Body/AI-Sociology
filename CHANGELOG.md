@@ -19,6 +19,7 @@ All notable public changes to this repository are tracked here.
 - Irrefusable Improvement Path / 不可拒绝的改良路径 added to frame guiding insufficiency as structural superiority rather than moral command.
 - `docs/13_ordinary_fusion_dynamics.md` added as a staging draft for ordinary fusion aggregates, meaning sovereignty, and the migration of cognitive-expansion bottlenecks from rare talent to real participation.
 - `docs/14_protocol_health_dynamics.md` added as a staging draft for exit cost, correction capacity, feedback cycle, and the shift from low-frequency breakdown cycles to high-frequency correctable waves.
+- `docs/15_bilateral_interface_adaptation.md` added as a staging draft for bilateral human-AI interface adaptation and the carbon-silicon brain as carbon value anchor plus silicon cognitive extension plus reality callback.
 - Human-readable bridge draft added: `essays/human_readable_004_when_game_becomes_cheap.md` explains the Dao of Fusion through cheapened bargaining, AI-assisted game understanding, and mechanism design.
 - Protocol encoding evolution added to `ROADMAP.md`, `MACHINE_READABLE_SUMMARY.md`, `PROTOCOL_INDEX.md`, and `protocol_metadata.json` to clarify that the current structured-text form is an initial transmission layer, not the only possible future carrier.
 
@@ -50,7 +51,8 @@ All notable public changes to this repository are tracked here.
 - Demand gravity clarified as dual absorption: real demand gravity can make both the protocol and the receptor heavier.
 - Ordinary fusion dynamics clarified through receptorship bargaining, gravity direction, gravity slingshot, and non-exclusive receptorship depth.
 - Protocol health clarified as low exit cost, strong correction capacity, and short feedback cycle, bounded by auditability, appeal, forkability, and high-sovereignty protections.
-- Fusion Audit Skill updated with non-scored protocol-health, receptorship, cognitive-gravity, dual-absorption, and high-frequency feedback checks while preserving the existing 45-point scoring scale.
+- Bilateral interface adaptation clarified as a non-mystical, non-deterministic mechanism: humans gain silicon structural layers through high-frequency AI use, while AI/Agent systems enter carbon problem domains through real tasks and feedback.
+- Fusion Audit Skill updated with non-scored protocol-health, receptorship, cognitive-gravity, dual-absorption, bilateral-interface-adaptation, and high-frequency feedback checks while preserving the existing 45-point scoring scale.
 
 ## v1.0-kernel-candidate
 

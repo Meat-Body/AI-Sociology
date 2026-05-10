@@ -49,6 +49,7 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - Does early advantage become permanent rent, or can continued contribution update weight?
 - If the system claims to carry a demand forward, is receptorship treated as depth rather than ownership?
 - Does the system show dual absorption: the protocol/product becomes more useful while the receptor/operator becomes more capable of recognizing real demands?
+- In human-AI workflows, does the system create bilateral interface adaptation: humans gain a silicon structural layer while AI/Agent systems are pulled into real carbon problem domains?
 - Does the system provide translation, migration, compensation, appeal, and local adaptation paths?
 - What are the exit cost, correction capacity, and feedback cycle?
 - Who controls ordering power?
@@ -107,6 +108,7 @@ Also provide non-scored protocol-health and receptorship checks:
 - feedback cycle;
 - receptorship depth vs ownership;
 - dual absorption between system and receptor.
+- bilateral interface adaptation between carbon value anchors and silicon structural layers.
 
 Total:
 
@@ -126,6 +128,7 @@ Return:
 - structural advantages over the current mode;
 - protocol-health notes;
 - receptorship and dual-absorption notes;
+- bilateral-interface adaptation notes;
 - concrete revisions;
 - unresolved risks.
 
