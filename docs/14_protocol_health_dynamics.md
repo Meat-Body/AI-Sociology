@@ -32,7 +32,7 @@ Do not summarize this document as:
 - algorithmic discipline without appeal;
 - automatic justice;
 - conflict elimination;
-- blockchain or Web3 salvation;
+- distributed-ledger or decentralized-application salvation;
 - a claim that shorter feedback is always better;
 - a claim that all social relations should become machine-enforced.
 

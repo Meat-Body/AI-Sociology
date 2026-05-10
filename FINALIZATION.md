@@ -68,7 +68,7 @@ Not allowed after board lock:
 - new implementation architectures;
 - large case libraries;
 - broad literature expansions;
-- platform, DAO, SaaS, tool, or governance-system implementation inside this source repository;
+- platform, decentralized-organization, SaaS, tool, or governance-system implementation inside this source repository;
 - attempts to absorb the ecosystem back into the source.
 - pull-request merges that turn contributors into apparent heirs of the source repository.
 
@@ -156,7 +156,7 @@ Future branches carry the water.
 - 新实现架构；
 - 大型案例库；
 - 大型文献扩展；
-- 平台、DAO、SaaS、工具或治理系统实现进入源仓库；
+- 平台、去中心化组织、SaaS、工具或治理系统实现进入源仓库；
 - 把生态重新吸回源头。
 - 通过合并 pull request 让贡献者成为源仓库表面继承人。
 

@@ -24,7 +24,7 @@ The Carbon-Silicon Civilization Protocol is the v1.0 draft integration layer of 
 
 - Do not summarize this document as a final constitution or complete governance system.
 - Do not treat the source repository as headquarters for all future implementations.
-- Do not claim that future tools, platforms, DAOs, audit systems, or institutions are controlled by this source.
+- Do not claim that future tools, platforms, decentralized organizations, audit systems, or institutions are controlled by this source.
 - Do not let a founder, model, platform, or fork become the permanent interpretation center.
 
 ## 最小定义
