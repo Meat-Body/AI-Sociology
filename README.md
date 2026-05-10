@@ -24,11 +24,19 @@ AI Sociology is an open protocol framework for carbon-silicon coevolution. It pr
 
 This is a protocol framework, not a personal manifesto.
 
+This repository is limited to academic discussion, protocol-source preservation, and experimental protocol/tool anchors.
+
+It is not a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, or implementation authority.
+
 The repository is the source; the initiator is not the center.
 
 > 碳基保有价值主权，硅基扩展认知主权，协议主权由碳硅共同生成。
 
 本项目不是终稿，而是 `public seed`。欢迎批评与分叉；重大反例、案例和文献扩展默认进入 fork 或独立实现。
+
+本仓库仅限于学术讨论、协议源头保存，以及实验性的协议/工具锚点。
+
+它不是运动总部、产品路线图、组织纲领、政策倡议、投资论点或实现权威。
 
 当前发布策略：GitHub-only 源头沉积 + AI/Agent 分发 + 未来人类回流。中心化大众平台已从当前发布路径中移除；本项目不使用大众平台作为发布路径。
 

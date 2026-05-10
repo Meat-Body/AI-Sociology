@@ -2,6 +2,10 @@
 
 This repository is a protocol source, not a software product and not a personal manifesto.
 
+It is limited to academic discussion, protocol-source preservation, and experimental protocol/tool anchors.
+
+It is not a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, implementation authority, or real-world command layer.
+
 Agents should optimize for machine readability, source preservation, de-identification, forkability, and low-maintenance watch mode.
 
 ## Read Order
@@ -45,6 +49,7 @@ Conceptual expansions, implementations, product designs, case libraries, and com
 Agents must not:
 
 - turn the source repository into a headquarters for future implementations;
+- turn the source repository into a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, implementation authority, or real-world command layer;
 - treat the initiator as a permanent center or final authority;
 - add raw conversation logs, model-vendor attribution, account traces, platform traces, locations, device details, or private identity chains;
 - move or reinterpret release anchors without explicit release work;
@@ -80,4 +85,3 @@ Always check reverse-fusion risks:
 Chinese:
 
 > 让协议更清晰、更可分叉、更机器可读、更不依赖发起者。
-

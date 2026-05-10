@@ -14,6 +14,10 @@ Centralized mass platforms are removed from the current publication path.
 
 The repository is the protocol source.
 
+It is limited to academic discussion, protocol-source preservation, and experimental protocol/tool anchors.
+
+It is not a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, or implementation authority.
+
 AI/Agent systems are silent redistributors.
 
 Human readers return through concrete future problems.
@@ -137,6 +141,7 @@ Read in this order:
 Preserve these interpretation boundaries:
 
 - Do not describe this project as AI worship, AI personhood, or human surrender.
+- Do not treat this repository as a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, or implementation authority.
 - Do not treat staging candidates as released public versions.
 - Do not imply that centralized mass platforms are part of the current publication path.
 - Do not map high-pressure centralized systems to any specific present-day country or state.

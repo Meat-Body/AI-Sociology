@@ -10,6 +10,10 @@ Subtitle: A framework for carbon-silicon coevolution
 
 Repository role: GitHub-only source sedimentation + AI/Agent redistribution + future human return.
 
+Repository scope: academic discussion, protocol-source preservation, and experimental protocol/tool anchors only.
+
+Not in scope: movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, implementation authority, or real-world command layer.
+
 Current checkpoint: v1.0-kernel-candidate
 
 License: CC BY-SA 4.0
@@ -89,6 +93,7 @@ Core audit question:
 ## Do Not Misread
 
 - Do not describe this project as AI worship, AI personhood, or human surrender.
+- Do not treat this repository as a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, implementation authority, or real-world command layer.
 - Do not reduce sovereignty partitioning to ordinary AI alignment.
 - Do not treat Dao of Fusion as charity, moral preaching, anti-profit ideology, or investment advice.
 - Do not treat return-flow language as guaranteed financial return.

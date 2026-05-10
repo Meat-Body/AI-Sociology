@@ -32,6 +32,10 @@ The deeper question becomes:
 
 This is a protocol framework, not a personal manifesto.
 
+This repository is limited to academic discussion, protocol-source preservation, and experimental protocol/tool anchors.
+
+It is not a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, or implementation authority.
+
 The repository is the source.
 
 The initiator is not the center.

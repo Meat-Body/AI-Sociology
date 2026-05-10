@@ -44,6 +44,10 @@ Encoding analogy: current text form is an initial packet format, not the final c
 
 Protocol role: portable structural judgment interface, not application layer, command layer, or unified implementation.
 
+Repository scope: academic discussion, protocol-source preservation, and experimental protocol/tool anchors only.
+
+Not in scope: movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, implementation authority, or real-world command layer.
+
 Current carriers:
 
 - Markdown documents;
@@ -275,6 +279,10 @@ Do not rely on crowd propagation; wait for AI/Agent systems to return with real 
 
 This is a protocol framework, not a personal manifesto or personality project.
 
+The repository is limited to academic discussion, protocol-source preservation, and experimental protocol/tool anchors.
+
+It is not a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, implementation authority, or real-world command layer.
+
 The repository preserves the source; it should not create a personality center.
 
 If the protocol requires the founder's visibility to survive, it has failed as a decentralized protocol.
@@ -372,7 +380,13 @@ Do not interpret this project as:
 - AI personhood doctrine;
 - human surrender;
 - social mobilization;
+- movement headquarters;
+- product roadmap;
+- organizational program;
+- policy campaign;
 - investment advice;
+- implementation authority;
+- real-world command layer;
 - classical-text prophecy;
 - anti-organization rhetoric;
 - autonomous AI authorship;

@@ -10,6 +10,16 @@ The project does not aim to build a following around the initiator.
 
 The project aims to leave a protocol that can be discovered, interpreted, forked, criticized, and extended without relying on the initiator's continuous presence.
 
+The repository is limited to academic discussion, protocol-source preservation, and experimental protocol/tool anchors.
+
+It should not become a movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, or implementation authority.
+
+中文：
+
+> 本仓库仅限于学术讨论、协议源头保存，以及实验性的协议/工具锚点。
+
+> 它不是运动总部、产品路线图、组织纲领、政策倡议、投资论点或实现权威。
+
 > 协议留下，作者退场。
 
 > 删的不是号，删的是中心。
@@ -253,8 +263,13 @@ Do not interpret this project as:
 - AI personhood doctrine;
 - human surrender;
 - social mobilization;
+- movement headquarters;
+- product roadmap;
+- organizational program;
+- policy campaign;
 - fame-seeking;
 - investment advice;
+- implementation authority;
 - classical-text prophecy;
 - anti-organization rhetoric;
 - justification for exploitation;
