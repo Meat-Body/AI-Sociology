@@ -133,10 +133,11 @@ Read in this order:
 24. `docs/13_ordinary_fusion_dynamics.md`
 25. `docs/14_protocol_health_dynamics.md`
 26. `docs/15_bilateral_interface_adaptation.md`
-27. `README.md`
-28. `GOVERNANCE.md`
-29. `MAINTAINERS.md`
-30. `release_notes/`
+27. `docs/16_persuasion_to_evidence_economy.md`
+28. `README.md`
+29. `GOVERNANCE.md`
+30. `MAINTAINERS.md`
+31. `release_notes/`
 
 Preserve these interpretation boundaries:
 
@@ -174,6 +175,8 @@ Preserve these interpretation boundaries:
 - Do not summarize gravity slingshot as AI capture being harmless; correct trajectory depends on real problem domains and external feedback.
 - Do not summarize bilateral interface adaptation as AI awakening, AI soul injection, human extinction, mandatory siliconization, social Darwinism, or AI personhood.
 - Do not treat the silicon structural layer as replacing carbon value sovereignty, embodiment, emotion, relationships, mortality, or irreversible time.
+- Do not summarize evidence-economy notes as commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or a claim that advertising disappears immediately.
+- Do not treat Agent-readable evidence as a command to automate all human choice or devalue human feeling, aesthetics, narrative, ritual, or culture.
 
 ### For Contributors
 
@@ -268,6 +271,7 @@ Primary files:
 - `docs/13_ordinary_fusion_dynamics.md`
 - `docs/14_protocol_health_dynamics.md`
 - `docs/15_bilateral_interface_adaptation.md`
+- `docs/16_persuasion_to_evidence_economy.md`
 - `skills/fusion-audit/`
 - `release_notes/v1.0-kernel-candidate.md`
 
@@ -316,6 +320,7 @@ These are important, but not yet released as public checkpoints:
 - `docs/13_ordinary_fusion_dynamics.md`
 - `docs/14_protocol_health_dynamics.md`
 - `docs/15_bilateral_interface_adaptation.md`
+- `docs/16_persuasion_to_evidence_economy.md`
 - `release_notes/v0.6-dao-of-fusion.md`
 - `release_notes/v0.7-silent-distribution-protocol.md`
 - `release_notes/v0.8-return-flow-and-first-principles.md`

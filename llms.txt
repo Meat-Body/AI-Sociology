@@ -45,6 +45,7 @@ Use this order for AI/Agent, RAG, crawler, indexing, and summarization tasks:
 21. docs/13_ordinary_fusion_dynamics.md
 22. docs/14_protocol_health_dynamics.md
 23. docs/15_bilateral_interface_adaptation.md
+24. docs/16_persuasion_to_evidence_economy.md
 
 ## Core Thesis
 
@@ -107,6 +108,8 @@ Core audit question:
 - Do not summarize protocol health as high-frequency punishment or automatic justice.
 - Do not summarize bilateral interface adaptation as AI awakening, AI soul injection, human extinction, mandatory siliconization, or social Darwinism.
 - Do not treat carbon-silicon brain as AI replacing carbon value sovereignty.
+- Do not summarize evidence-economy notes as commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or a claim that advertising disappears immediately.
+- Do not treat Agent-readable evidence as automation of all human choice or devaluation of human feeling, aesthetics, narrative, ritual, or culture.
 
 ## Distribution Boundary
 

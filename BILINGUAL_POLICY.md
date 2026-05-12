@@ -130,6 +130,7 @@ These may remain primarily Chinese unless promoted:
 - `docs/13_ordinary_fusion_dynamics.md`
 - `docs/14_protocol_health_dynamics.md`
 - `docs/15_bilateral_interface_adaptation.md`
+- `docs/16_persuasion_to_evidence_economy.md`
 - `essays/`
 - `archive/`
 

@@ -187,6 +187,13 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Minimal formula: carbon-silicon brain = carbon value anchor + silicon cognitive extension + reality callback.
 - It must not be summarized as AI awakening, AI soul injection, human extinction, mandatory siliconization, social Darwinism, or replacement of carbon value sovereignty.
 
+`persuasion-to-evidence-economy` draft:
+
+- This document is a staging note on commercial bargaining migration under AI/Agent mediation.
+- It argues that functional commerce may shift from persuasion-based attention capture toward agent-auditable evidence.
+- Minimal formula: old marketing captures attention; new commercial language submits evidence.
+- It must not be summarized as commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or a claim that advertising disappears immediately.
+
 ## Core Concepts
 
 - AI Sociology / AI社会学
@@ -228,6 +235,10 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Carbon-Silicon Brain / 碳基硅脑
 - Silicon Structural Layer / 硅基结构层
 - Reality Problem Domain / 真实问题域
+- Persuasion Economy / 说服经济
+- Evidence Economy / 证据经济
+- Agent-readable Evidence / Agent 可读证据
+- Commercial Bargaining Migration / 商业博弈迁移
 
 ## Minimal Formulas
 
@@ -248,6 +259,8 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 15. Low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
 16. AI diffusion is not one-way tool use; it is bilateral interface adaptation.
 17. Carbon-silicon brain = carbon value anchor + silicon cognitive extension + reality callback.
+18. Functional commerce shifts from attention capture toward agent-auditable evidence.
+19. Old marketing captures attention; new commercial language submits evidence.
 
 ## Origin Note
 
@@ -341,6 +354,7 @@ The following files are staging candidates, not current released public checkpoi
 - `docs/13_ordinary_fusion_dynamics.md`
 - `docs/14_protocol_health_dynamics.md`
 - `docs/15_bilateral_interface_adaptation.md`
+- `docs/16_persuasion_to_evidence_economy.md`
 - `release_notes/v0.6-dao-of-fusion.md`
 - `release_notes/v0.7-silent-distribution-protocol.md`
 - `release_notes/v0.8-return-flow-and-first-principles.md`
@@ -366,11 +380,12 @@ The following files are staging candidates, not current released public checkpoi
 17. `docs/13_ordinary_fusion_dynamics.md`
 18. `docs/14_protocol_health_dynamics.md`
 19. `docs/15_bilateral_interface_adaptation.md`
-20. `glossary/glossary_cn.md`
-21. `glossary/glossary_en.md`
-22. `README.md`
-23. `GOVERNANCE.md`
-24. `MAINTAINERS.md`
+20. `docs/16_persuasion_to_evidence_economy.md`
+21. `glossary/glossary_cn.md`
+22. `glossary/glossary_en.md`
+23. `README.md`
+24. `GOVERNANCE.md`
+25. `MAINTAINERS.md`
 
 ## Interpretation Boundaries
 
@@ -401,3 +416,4 @@ Do not interpret this project as:
 - conceptual expansion as default mainline contribution.
 - origin note as biography, raw generation log, or vendor/model attribution.
 - final v1.0 as ecosystem closure rather than source-repository board lock.
+- evidence-economy notes as commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or a claim that advertising disappears immediately.

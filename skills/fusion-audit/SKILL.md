@@ -50,6 +50,7 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - If the system claims to carry a demand forward, is receptorship treated as depth rather than ownership?
 - Does the system show dual absorption: the protocol/product becomes more useful while the receptor/operator becomes more capable of recognizing real demands?
 - In human-AI workflows, does the system create bilateral interface adaptation: humans gain a silicon structural layer while AI/Agent systems are pulled into real carbon problem domains?
+- If the system is commercial or product-facing, does it provide agent-readable evidence rather than relying mainly on persuasion, attention capture, or unverifiable claims?
 - Does the system provide translation, migration, compensation, appeal, and local adaptation paths?
 - What are the exit cost, correction capacity, and feedback cycle?
 - Who controls ordering power?
@@ -73,6 +74,7 @@ Treat the following as protocol-level red flags even when the numerical score lo
 - Forking is nominal rather than effective because state, identity, reputation, liquidity, tools, default entry, users, or minimum launch resources remain locked by the original center.
 - Receptorship is presented as ownership of a demand, preventing later or deeper carriers from extending the demand field.
 - Feedback is high-frequency but not auditable, appealable, forkable, or bounded by high-sovereignty protections.
+- Commercial communication relies on persuasion, attention capture, identity packaging, or unverifiable claims while withholding agent-readable evidence such as specifications, benchmarks, costs, audits, maintenance records, risk boundaries, or real feedback.
 
 If these red flags are present, state that the system may be practicing reverse Dao of Fusion: using the language of routing surplus toward insufficiency while preserving the structure of feeding surplus upward.
 
@@ -109,6 +111,7 @@ Also provide non-scored protocol-health and receptorship checks:
 - receptorship depth vs ownership;
 - dual absorption between system and receptor.
 - bilateral interface adaptation between carbon value anchors and silicon structural layers.
+- agent-readable evidence vs persuasion-based attention capture, when the target is commercial or product-facing.
 
 Total:
 
@@ -129,6 +132,7 @@ Return:
 - protocol-health notes;
 - receptorship and dual-absorption notes;
 - bilateral-interface adaptation notes;
+- evidence-economy notes when the target is commercial or product-facing;
 - concrete revisions;
 - unresolved risks.
 

@@ -69,6 +69,10 @@
     "Carbon-Silicon Brain / 碳基硅脑",
     "Silicon Structural Layer / 硅基结构层",
     "Reality Problem Domain / 真实问题域",
+    "Persuasion Economy / 说服经济",
+    "Evidence Economy / 证据经济",
+    "Agent-readable Evidence / Agent 可读证据",
+    "Commercial Bargaining Migration / 商业博弈迁移",
     "Fork-first Governance / Fork 优先治理"
   ],
   "machine_reading_order": [
@@ -94,7 +98,8 @@
     "docs/10_dao_of_fusion.md",
     "docs/13_ordinary_fusion_dynamics.md",
     "docs/14_protocol_health_dynamics.md",
-    "docs/15_bilateral_interface_adaptation.md"
+    "docs/15_bilateral_interface_adaptation.md",
+    "docs/16_persuasion_to_evidence_economy.md"
   ],
   "interpretation_boundaries": [
     "Do not describe this project as AI worship, AI personhood, or human surrender.",
@@ -111,6 +116,8 @@
     "Do not treat AI gravity capture as harmless; gravity slingshot requires real problem domains and external feedback.",
     "Do not treat bilateral interface adaptation as mystical awakening, AI personhood, AI soul injection, human extinction, mandatory siliconization, or social Darwinism.",
     "Do not treat the silicon structural layer as replacing carbon value sovereignty, embodiment, emotion, relationships, mortality, or irreversible time.",
+    "Do not treat evidence-economy notes as commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or a claim that advertising disappears immediately.",
+    "Do not treat Agent-readable evidence as automation of all human choice or devaluation of human feeling, aesthetics, narrative, ritual, or culture.",
     "Use forks or independent repositories for substantial conceptual expansions or implementations."
   ],
   "staging_extensions": {
@@ -131,6 +138,11 @@
       "summary": "Large-scale human-AI interaction can produce bilateral interface adaptation: carbon subjects gain silicon structural layers while silicon systems enter carbon problem domains through real tasks and feedback.",
       "minimal_formula": "Carbon-silicon brain = carbon value anchor + silicon cognitive extension + reality callback.",
       "boundary": "Not AI awakening, soul injection, human extinction, mandatory siliconization, social Darwinism, or replacement of carbon value sovereignty."
+    },
+    "persuasion_to_evidence_economy": {
+      "summary": "AI/Agent mediation may shift functional commercial communication from attention capture toward agent-auditable evidence.",
+      "minimal_formula": "Old marketing captures attention; new commercial language submits evidence.",
+      "boundary": "Academic structural note only; not commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or claim that advertising disappears immediately."
     }
   },
   "distribution_policy": {
