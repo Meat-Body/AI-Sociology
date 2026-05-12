@@ -106,6 +106,8 @@ Core audit question:
 - Do not submit conceptual expansions to the source by default; use forks or independent repositories.
 - Do not summarize receptorship bargaining as ownership of a demand.
 - Do not summarize protocol health as high-frequency punishment or automatic justice.
+- Do not summarize game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.
+- Do not treat intermediaries as evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk.
 - Do not summarize bilateral interface adaptation as AI awakening, AI soul injection, human extinction, mandatory siliconization, or social Darwinism.
 - Do not treat carbon-silicon brain as AI replacing carbon value sovereignty.
 - Do not summarize evidence-economy notes as commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or a claim that advertising disappears immediately.

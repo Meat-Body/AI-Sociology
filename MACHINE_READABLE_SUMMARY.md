@@ -176,6 +176,8 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 
 - This document is a staging note on protocol growth and feedback loops.
 - It argues that protocol health depends on exit cost, correction capacity, and correction frequency.
+- It defines game refactoring through five variables: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
+- It reframes collaboration from trust in intermediaries toward verification of protocols, while keeping the boundary that intermediation is not evil by default.
 - It distinguishes healthy short feedback cycles from high-frequency oppression.
 - Minimal formula: low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
 - It frames Dao of Fusion as conflict domestication, not conflict elimination.
@@ -228,6 +230,11 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Bilingual Access / 双语入口
 - Protocol Health Dynamics / 协议健康度动力学
 - Feedback Cycle / 反馈周期
+- Game Refactoring / 重构博弈
+- Transparency / 信息透明度
+- Arbitration Heterogeneity / 仲裁异构性
+- Trust Intermediary / 信任中介
+- Verifiable Protocol / 验证协议
 - Receptorship Bargaining / 承接权博弈
 - Cognitive Gravity / 认知引力
 - Gravity Slingshot / 引力弹弓
@@ -261,6 +268,9 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 17. Carbon-silicon brain = carbon value anchor + silicon cognitive extension + reality callback.
 18. Functional commerce shifts from attention capture toward agent-auditable evidence.
 19. Old marketing captures attention; new commercial language submits evidence.
+20. Dao of Fusion sets direction; game refactoring sets executable conditions.
+21. Old games profit from opacity; living protocols turn games into growth engines through transparency, exit rights, heterogeneous arbitration, and auditable feedback.
+22. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
 
 ## Origin Note
 

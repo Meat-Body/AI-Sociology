@@ -52,6 +52,8 @@ All notable public changes to this repository are tracked here.
 - Demand gravity clarified as dual absorption: real demand gravity can make both the protocol and the receptor heavier.
 - Ordinary fusion dynamics clarified through receptorship bargaining, gravity direction, gravity slingshot, and non-exclusive receptorship depth.
 - Protocol health clarified as low exit cost, strong correction capacity, and short feedback cycle, bounded by auditability, appeal, forkability, and high-sovereignty protections.
+- Protocol health expanded with game refactoring variables: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
+- Protocol health clarified that collaboration should migrate from trust in intermediaries toward verification of protocols, while preserving the boundary that intermediation is not evil by default.
 - Bilateral interface adaptation clarified as a non-mystical, non-deterministic mechanism: humans gain silicon structural layers through high-frequency AI use, while AI/Agent systems enter carbon problem domains through real tasks and feedback.
 - Evidence economy clarified as an academic structural note, not commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or a claim that advertising disappears immediately.
 - Fusion Audit Skill updated with non-scored protocol-health, receptorship, cognitive-gravity, dual-absorption, bilateral-interface-adaptation, and high-frequency feedback checks while preserving the existing 45-point scoring scale.

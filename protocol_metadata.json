@@ -62,6 +62,11 @@
     "Return Flow / 回流",
     "Protocol Health Dynamics / 协议健康度动力学",
     "Feedback Cycle / 反馈周期",
+    "Game Refactoring / 重构博弈",
+    "Transparency / 信息透明度",
+    "Arbitration Heterogeneity / 仲裁异构性",
+    "Trust Intermediary / 信任中介",
+    "Verifiable Protocol / 验证协议",
     "Receptorship Bargaining / 承接权博弈",
     "Cognitive Gravity / 认知引力",
     "Gravity Slingshot / 引力弹弓",
@@ -112,6 +117,8 @@
     "Do not claim exclusive interpretive authority over Dao of Fusion.",
     "Do not attribute independent downstream actions, organizations, platforms, tools, interpretations, or implementations to the source repository by default.",
     "Do not treat protocol health as high-frequency punishment without auditability, appeal, real exit, effective forkability, and high-sovereignty boundaries.",
+    "Do not treat game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.",
+    "Do not treat intermediaries as evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk.",
     "Do not treat receptorship bargaining as ownership of a demand; it is stage-specific depth of carrying the demand forward.",
     "Do not treat AI gravity capture as harmless; gravity slingshot requires real problem domains and external feedback.",
     "Do not treat bilateral interface adaptation as mystical awakening, AI personhood, AI soul injection, human extinction, mandatory siliconization, or social Darwinism.",
@@ -130,9 +137,16 @@
       "minimal_formula": "Receptorship is not ownership; it is stage-specific depth."
     },
     "protocol_health_dynamics": {
-      "summary": "A living protocol depends on exit cost, correction capacity, and correction frequency.",
-      "minimal_formula": "Low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.",
-      "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections."
+      "summary": "A living protocol depends on exit cost, correction capacity, correction frequency, transparency, and arbitration heterogeneity. It refactors games from opacity-based capture toward verifiable cooperation.",
+      "minimal_formula": "Dao of Fusion sets direction; game refactoring sets executable conditions.",
+      "variables": {
+        "T": "Transparency / 信息透明度",
+        "E": "Exit Cost / 退出成本",
+        "C": "Correction Capacity / 修正能力",
+        "F": "Feedback Frequency / 反馈频率",
+        "A": "Arbitration Heterogeneity / 仲裁异构性"
+      },
+      "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections. Intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk."
     },
     "bilateral_interface_adaptation": {
       "summary": "Large-scale human-AI interaction can produce bilateral interface adaptation: carbon subjects gain silicon structural layers while silicon systems enter carbon problem domains through real tasks and feedback.",

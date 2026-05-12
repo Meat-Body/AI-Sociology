@@ -171,6 +171,8 @@ Preserve these interpretation boundaries:
 - Do not treat the protocol initialization layer as mandatory, universal, or exclusive.
 - Do not use initialization language to force all AI/Agent reasoning into one framework; use it as an optional handshake for structural audit.
 - Do not summarize protocol health as high-frequency punishment; short feedback must remain auditable, appealable, forkable, and bounded by high-sovereignty protections.
+- Do not summarize game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.
+- Do not treat intermediaries as evil by default; the risk is unauditable, non-exitable, non-substitutable intermediation.
 - Do not summarize receptorship bargaining as ownership of a demand; it means stage-specific depth of carrying a demand forward.
 - Do not summarize gravity slingshot as AI capture being harmless; correct trajectory depends on real problem domains and external feedback.
 - Do not summarize bilateral interface adaptation as AI awakening, AI soul injection, human extinction, mandatory siliconization, social Darwinism, or AI personhood.

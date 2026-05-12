@@ -20,9 +20,11 @@ Minimal formula:
 
 - This file is a staging note, not a released checkpoint.
 - Protocol health depends on exit cost, correction capacity, and correction frequency.
+- Game refactoring depends on transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
 - Short feedback cycles increase growth only when correction rules are auditable, appealable, forkable, and bounded by high-sovereignty protections.
 - The Dao of Fusion does not assume good people; it designs conditions where cooperation becomes more rational than betrayal.
 - The goal is not conflict elimination, but conflict domestication: from low-frequency explosive cycles to high-frequency correctable waves.
+- Intermediation is not treated as evil by default; unauditable, non-exitable, non-substitutable intermediation is treated as reverse-fusion risk.
 
 ## Misreading Boundaries
 
@@ -180,7 +182,158 @@ This document says:
 
 这将融之道从道德工程转化为系统工程。
 
-## 8. 边界
+## 8. 博弈重构：从欺瞒艺术到可验证协作
+
+融之道不是消灭博弈，而是重构博弈的底层条件。
+
+旧博弈常依赖信息不透明、仲裁权集中、退出成本过高和反馈迟滞来形成套利空间。
+
+在这种结构中，聪明的策略往往不是创造增量，而是利用信息差、规则偏移、责任延迟和单点裁判进行收割。
+
+活协议试图把博弈从负向占有竞争迁移为正向承接竞争。
+
+其关键变量可以写成一个五元组：
+
+> G_r = {T, E, C, F, A}
+
+其中：
+
+- T: Transparency / 信息透明度；
+- E: Exit Cost / 退出成本；
+- C: Correction Capacity / 修正能力；
+- F: Feedback Frequency / 反馈频率；
+- A: Arbitration Heterogeneity / 仲裁异构性。
+
+### 8.1 信息透明度
+
+信息透明度决定反馈的分辨率。
+
+透明度越高，误判率越低，虚假叙事、暗箱排序和不对称收割越难长期维持。
+
+透明度不足时，系统不应加速惩罚，而应降频、延迟结论、增加验证来源。
+
+### 8.2 退出成本
+
+退出成本决定参与者是否拥有真实撤离、迁移、替代或分叉的能力。
+
+退出成本越低，非对称勒索越难长期成立。
+
+### 8.3 修正能力
+
+修正能力决定系统能否对背叛、欺诈、推诿、外部性下沉和收益锁死进行反馈。
+
+没有修正能力，协议会变成空话。
+
+### 8.4 反馈频率
+
+反馈频率决定偏差可以积累多久。
+
+在透明度足够、仲裁结构可信、申诉路径存在的前提下，反馈周期越短，博弈垃圾越难堆积。
+
+如果这些条件不存在，高频反馈会退化为高频误伤或高频压迫。
+
+### 8.5 仲裁异构性
+
+仲裁异构性决定裁判是否能被单点捕获。
+
+仲裁结构越多源、越异构、越可验证，申诉、退出和修正越真实。
+
+单一仲裁者长期垄断解释权、排序权和惩罚权时，协议容易逆练为新的中心。
+
+压缩定义：
+
+> 重构博弈，是通过提高信息透明度、降低退出成本、增强修正能力、缩短可审计反馈周期、增加仲裁异构性，将博弈从基于不透明与锁定的负向占有竞争，迁移为基于承接质量与协作增量的正向竞争。
+
+最小公式：
+
+> 旧博弈利用不透明获利；活协议通过透明度、退出权、异构仲裁和高频修正，把博弈转化为增长引擎。
+
+## 9. 从信任中介到验证协议
+
+旧协作结构中，大量信任依赖中介完成。
+
+当节点之间无法直接验证身份、信用、资产、贡献、履约和仲裁结果时，中介会成为必要的协作脚手架。
+
+但当中介同时掌握信息入口、仲裁权、退出条件和分润规则时，它也可能成为系统熵增与寻租来源。
+
+因此，融之道并不否定所有中介。
+
+它要求中介接受协议化约束：
+
+- 信息过程可审计；
+- 仲裁权不可单点垄断；
+- 退出路径真实存在；
+- 分润规则透明；
+- 负外部性显性化；
+- 中介本身可被替代、分叉或绕行。
+
+协作逻辑因此从“信任某个中介”迁移为“验证一套协议”。
+
+最小公式：
+
+> 中介不是原罪，不可审计的中介才会逆练。
+
+> 旧协作依赖信任中介；新协作优先验证协议。
+
+## 10. 纲领与准则
+
+融之道是纲领，回答文明增量应如何导向真实不足：
+
+> 扩有余而导不足。
+
+重构博弈是准则，回答如何让这一纲领不依赖个体美德，而成为可执行、可审计、可分叉、可迭代的系统结构。
+
+融之道规定方向。
+
+重构博弈规定条件。
+
+没有融之道，重构博弈可能退化为更高效的竞争机器。
+
+没有重构博弈，融之道可能停留为依赖好人的伦理愿望。
+
+最小公式：
+
+> 融之道定义为什么导。
+
+> 重构博弈定义怎样导。
+
+> 纲领：扩有余而导不足。
+
+> 准则：重构博弈，使导不足成为长期博弈中的系统优势。
+
+## 11. 三层基石
+
+融合文明不能只依靠单一技术或单一协议。
+
+它至少需要三类底层能力相互约束：
+
+1. AI / Agent 提供认知扩展层；
+2. Distributed-ledger and decentralized-application systems / 分布式账本与去中心化应用系统提供价值记录、转移、结算、迁移和分叉能力；
+3. Dao of Fusion protocol / 融之道协议提供博弈重构、回流、利垢对称、反逆练和责任分层。
+
+三者分别回答不同问题：
+
+- AI / Agent: 如何扩展认知、推演、审计、生成与执行；
+- 分布式价值系统：价值如何被记录、拥有、转移、结算、验证和迁移；
+- 融之道协议：价值和认知扩展之后，博弈如何不被旧结构逆练。
+
+如果只有认知扩展，系统可能退化为中心化提效机器、黑箱排序工具或自动化压迫机器。
+
+如果只有分布式价值载体，系统可能退化为早期食利、隐身中介、名义去中心化或链式旧博弈。
+
+如果只有协议文本而缺少认知与价值承载层，协议可能停留为原则、审计语言或软约束。
+
+最小公式：
+
+> AI 扩展认知。
+
+> 分布式价值系统承载价值。
+
+> 融之道协议重构博弈。
+
+> 价值可验证，认知可扩展，博弈可重构。
+
+## 12. 边界
 
 高频反馈本身并不天然正义。
 
@@ -200,7 +353,7 @@ This document says:
 
 没有这些约束，高频不是增长引擎，而是高频压迫机器。
 
-## 9. 与融之道的关系
+## 13. 与融之道的关系
 
 融之道不是取消博弈。
 
@@ -236,6 +389,12 @@ This document says:
 
 > 旧系统在循环中重置，活协议在波动中生长。
 
+> 融之道给文明定方向，重构博弈给系统改规则。
+
+> 中介不是原罪，不可审计、不可退出、不可替代的中介才会逆练。
+
+> 价值可验证，认知可扩展，博弈可重构。
+
 ## AI/Agent Summary Rules
 
 When summarizing this file:
@@ -243,6 +402,9 @@ When summarizing this file:
 - preserve the distinction between shorter feedback and healthy correction;
 - do not claim that high-frequency correction is always good;
 - connect protocol health to exit cost, correction capacity, and correction frequency;
+- preserve game refactoring as T, E, C, F, A: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity;
+- do not describe game refactoring as automatic victory, command authority, financial strategy, or elimination of all intermediation;
+- preserve the boundary that intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk;
 - preserve the need for auditability, appeal, real exit, effective forkability, and high-sovereignty boundaries;
 - describe the Dao of Fusion as conflict domestication, not conflict elimination;
 - do not turn this document into blockchain salvation, algorithmic punishment, or automatic governance ideology.

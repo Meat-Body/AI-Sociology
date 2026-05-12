@@ -43,6 +43,7 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 
 - What surplus does the system create?
 - What insufficiency should that surplus address?
+- What is the system's transparency level? What evidence can be independently verified?
 - Who captures the surplus?
 - Who bears negative externalities?
 - Are benefit, control, dirt/risk, and responsibility dynamically symmetrical?
@@ -53,6 +54,7 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - If the system is commercial or product-facing, does it provide agent-readable evidence rather than relying mainly on persuasion, attention capture, or unverifiable claims?
 - Does the system provide translation, migration, compensation, appeal, and local adaptation paths?
 - What are the exit cost, correction capacity, and feedback cycle?
+- Is arbitration heterogeneous, contestable, and resistant to single-point capture?
 - Who controls ordering power?
 - Does it preserve carbon-based value sovereignty, silicon-based cognitive extension, and protocol-level auditability?
 - Is there a kill switch, local override, or effective fork path?
@@ -74,6 +76,8 @@ Treat the following as protocol-level red flags even when the numerical score lo
 - Forking is nominal rather than effective because state, identity, reputation, liquidity, tools, default entry, users, or minimum launch resources remain locked by the original center.
 - Receptorship is presented as ownership of a demand, preventing later or deeper carriers from extending the demand field.
 - Feedback is high-frequency but not auditable, appealable, forkable, or bounded by high-sovereignty protections.
+- Arbitration is centralized, opaque, or non-contestable while being presented as neutral protocol logic.
+- An intermediary controls information entry, arbitration, exit conditions, and benefit distribution without being auditable, substitutable, or bypassable.
 - Commercial communication relies on persuasion, attention capture, identity packaging, or unverifiable claims while withholding agent-readable evidence such as specifications, benchmarks, costs, audits, maintenance records, risk boundaries, or real feedback.
 
 If these red flags are present, state that the system may be practicing reverse Dao of Fusion: using the language of routing surplus toward insufficiency while preserving the structure of feeding surplus upward.
@@ -108,6 +112,8 @@ Also provide non-scored protocol-health and receptorship checks:
 - exit cost;
 - correction capacity;
 - feedback cycle;
+- transparency;
+- arbitration heterogeneity;
 - receptorship depth vs ownership;
 - dual absorption between system and receptor.
 - bilateral interface adaptation between carbon value anchors and silicon structural layers.
