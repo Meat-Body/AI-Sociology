@@ -241,7 +241,7 @@ The Carbon-Silicon Civilization Protocol is the v1.0 draft integration layer of 
 
 > 扩有余而导不足。
 
-如果一个需求只吸积资源，却把有余锁进中心，把风险外包给外围，它不是健康的需求引力，而是吸积型抽血。
+如果一个需求只吸积资源，却把有余锁进中心，把风险外包给外围，它不是健康的需求引力，而是单向吸积型抽取。
 
 ### 6. 验证层
 

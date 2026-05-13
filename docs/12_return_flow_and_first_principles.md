@@ -107,7 +107,7 @@ It also adds a first-principles reading layer: ancient texts, modern protocols, 
 
 > 没有回流，扩有余会退化成中心化死循环。
 
-> 有回流，人之道的吸积才可能被融之道接管。
+> 有回流，人之道的吸积才可能被融之道转化。
 
 ## 天之道作为系统级校正
 
@@ -115,7 +115,7 @@ It also adds a first-principles reading layer: ancient texts, modern protocols, 
 
 在协议语言中，它可以被理解为：
 
-> 当系统长期阻断循环、积累过高压差、锁死有余并抽干不足时，物理现实、生态约束、市场反馈、技术革命、社会成本和时间反馈共同形成的系统级校正。
+> 当系统长期阻断循环、积累过高压差、锁死有余并持续消耗不足侧承载能力时，物理现实、生态约束、市场反馈、技术革命、社会成本和时间反馈共同形成的系统级校正。
 
 这类校正可能表现为：
 
@@ -168,7 +168,7 @@ It also adds a first-principles reading layer: ancient texts, modern protocols, 
 
 - 系统如何长期运行？
 - 有余从哪里来？
-- 不足为何被抽干？
+- 不足侧为何被持续消耗？
 - 为什么署名、居功、中心化控制会增加脆弱性？
 - 为什么协议必须可复制、可分叉、可审计？
 - 为什么设计者有时必须退场，系统才能继续？
@@ -239,7 +239,7 @@ It also adds a first-principles reading layer: ancient texts, modern protocols, 
 
 本文件不把收益回流等同于金融回报承诺。
 
-本文件不把人之道合理化为剥削正当性。
+本文件不把人之道合理化为非对称抽取的正当性。
 
 本文件不把天之道人格化为神秘裁判。
 
