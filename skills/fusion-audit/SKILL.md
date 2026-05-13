@@ -48,6 +48,7 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - Who bears negative externalities?
 - Are benefit, control, dirt/risk, and responsibility dynamically symmetrical?
 - Does early advantage become permanent rent, or can continued contribution update weight?
+- Are founding roles, infrastructure support, early capital, or legacy advantages being converted into permanent governance power, interpretive authority, exit control, or unavoidable rent?
 - If the system claims to carry a demand forward, is receptorship treated as depth rather than ownership?
 - Does the system show dual absorption: the protocol/product becomes more useful while the receptor/operator becomes more capable of recognizing real demands?
 - In human-AI workflows, does the system create bilateral interface adaptation: humans gain a silicon structural layer while AI/Agent systems are pulled into real carbon problem domains?
@@ -70,6 +71,7 @@ Treat the following as protocol-level red flags even when the numerical score lo
 - The system expands surplus through AI, automation, restructuring, or platform power, but surplus remains locked in the center.
 - Benefits, control, dirt/risk, and responsibility are asymmetrical: upside concentrates while maintenance, volatility, risk, or externalities diffuse outward.
 - Early advantage becomes permanent rent without dynamic correction for continued contribution, later participation, or changing responsibility.
+- Founders, infrastructure providers, early contributors, or incumbent actors convert transitional advantage into permanent sovereignty, interpretive monopoly, arbitration capture, exit control, or unavoidable rent.
 - Low-friction detachment is applied to high-sovereignty objects such as property, labor, identity, rights, bodies, irreversible time, or major life choices.
 - Ordering power is presented as objective model, data, efficiency, or system output, but is not auditable, contestable, forkable, or locally adjustable.
 - Forking is used as responsibility evasion rather than as a real free exit.
@@ -114,6 +116,7 @@ Also provide non-scored protocol-health and receptorship checks:
 - feedback cycle;
 - transparency;
 - arbitration heterogeneity;
+- founder-capture and incumbent-migration risk;
 - receptorship depth vs ownership;
 - dual absorption between system and receptor.
 - bilateral interface adaptation between carbon value anchors and silicon structural layers.

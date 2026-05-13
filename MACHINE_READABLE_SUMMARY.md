@@ -222,6 +222,9 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Reverse Dao of Fusion / 逆练融之道
 - Benefit-Dirt Symmetry / 利垢对称
 - Anti-permanent Rent / 反永久食利
+- Founder Capture / 创始捕获
+- Incumbent Migration / 旧优势迁移
+- Legacy Advantage / 旧优势
 - Effective Fork / 有效分叉
 - Reality Callback Protocol / 现实回调协议
 - Irrefusable Improvement Path / 不可拒绝的改良路径
@@ -271,6 +274,9 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 20. Dao of Fusion sets direction; game refactoring sets executable conditions.
 21. Old games profit from opacity; living protocols turn games into growth engines through transparency, exit rights, heterogeneous arbitration, and auditable feedback.
 22. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
+23. Founding is contribution, not sovereignty.
+24. Infrastructure is support, not ownership.
+25. Legacy resources may migrate into new protocols; legacy power structures must not harden into permanent backdoors.
 
 ## Origin Note
 
