@@ -58,8 +58,8 @@
     "Benefit-Dirt Symmetry / 利垢对称",
     "Anti-permanent Rent / 反永久食利",
     "Founder Capture / 创始捕获",
-    "Incumbent Migration / 旧优势迁移",
-    "Legacy Advantage / 旧优势",
+    "Existing-Advantage Migration / 既有优势迁移",
+    "Existing Advantage / 既有优势",
     "Effective Fork / 有效分叉",
     "Ordering Power / 排序权",
     "Return Flow / 回流",
@@ -122,7 +122,7 @@
     "Do not treat protocol health as high-frequency punishment without auditability, appeal, real exit, effective forkability, and high-sovereignty boundaries.",
     "Do not treat game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.",
     "Do not treat intermediaries as evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk.",
-    "Do not treat incumbent migration as conspiracy, automatic illegitimacy, anti-organization rhetoric, or a claim that all early contributors are captors.",
+    "Do not treat existing-advantage migration as conspiracy, automatic illegitimacy, anti-organization rhetoric, or a claim that all early contributors are captors.",
     "Do not treat founding contribution, infrastructure support, or early risk as permanent sovereignty, interpretive monopoly, exit control, or unavoidable rent.",
     "Do not treat receptorship bargaining as ownership of a demand; it is stage-specific depth of carrying the demand forward.",
     "Do not treat AI gravity capture as harmless; gravity slingshot requires real problem domains and external feedback.",
@@ -153,10 +153,10 @@
       },
       "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections. Intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk."
     },
-    "incumbent_migration_immunity": {
+    "existing_advantage_migration_immunity": {
       "summary": "New protocols may be entered by actors with existing resources, infrastructure, capital, distribution, or governance experience. This is not invalid by default; the risk is founder capture when transitional advantage hardens into permanent governance power, interpretive authority, exit control, arbitration capture, or rent.",
       "minimal_formula": "Founding is contribution, not sovereignty. Infrastructure is support, not ownership.",
-      "boundary": "Not conspiracy analysis, anti-incumbent doctrine, or automatic delegitimation of early contributors. Existing resources may migrate, but existing power structures must remain auditable, exitable, forkable, corrigible, and unable to become permanent unaccountable control points."
+      "boundary": "Not conspiracy analysis, anti-existing-advantage doctrine, or automatic delegitimation of early contributors. Existing resources may migrate, but existing power structures must remain auditable, exitable, forkable, corrigible, and unable to become permanent unaccountable control points."
     },
     "bilateral_interface_adaptation": {
       "summary": "Large-scale human-AI interaction can produce bilateral interface adaptation: carbon subjects gain silicon structural layers while silicon systems enter carbon problem domains through real tasks and feedback.",

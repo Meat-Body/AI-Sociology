@@ -15,7 +15,7 @@ All notable public changes to this repository are tracked here.
 - Reverse Dao of Fusion / 逆练融之道 added as an anti-abuse safety patch for detecting protocol misuse, hidden surplus capture, unauditable ordering power, and responsibility evasion through fork rhetoric.
 - Benefit-Dirt Symmetry / 利垢对称 added as a reverse-fusion audit layer: benefit, control, dirt, risk, and responsibility must remain dynamically symmetrical.
 - Anti-permanent Rent / 反永久食利 and Effective Fork / 有效分叉 added to detect early-advantage lock-in and nominal forkability that cannot function as a real exit.
-- Founder Capture / 创始捕获 and Incumbent Migration / 旧优势迁移 added as reverse-fusion immunity layers: founding is contribution, not sovereignty; infrastructure is support, not ownership.
+- Founder Capture / 创始捕获 and Existing-Advantage Migration / 既有优势迁移 added as reverse-fusion immunity layers: founding is contribution, not sovereignty; infrastructure is support, not ownership.
 - Reality Callback Protocol / 现实回调协议 added to clarify that publication hands the protocol to reality, AI/Agent retrieval, future cases, and distributed causality.
 - Irrefusable Improvement Path / 不可拒绝的改良路径 added to frame guiding insufficiency as structural superiority rather than moral command.
 - `docs/13_ordinary_fusion_dynamics.md` added as a staging draft for ordinary fusion aggregates, meaning sovereignty, and the migration of cognitive-expansion bottlenecks from rare talent to real participation.
@@ -55,7 +55,7 @@ All notable public changes to this repository are tracked here.
 - Protocol health clarified as low exit cost, strong correction capacity, and short feedback cycle, bounded by auditability, appeal, forkability, and high-sovereignty protections.
 - Protocol health expanded with game refactoring variables: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
 - Protocol health clarified that collaboration should migrate from trust in intermediaries toward verification of protocols, while preserving the boundary that intermediation is not evil by default.
-- Incumbent migration clarified as a structural governance risk, not conspiracy analysis or automatic illegitimacy: existing resources may migrate into new protocols, but existing power structures must not harden into permanent unaccountable control points.
+- Existing-advantage migration clarified as a structural governance risk, not conspiracy analysis or automatic illegitimacy: existing resources may migrate into new protocols, but existing power structures must not harden into permanent unaccountable control points.
 - Bilateral interface adaptation clarified as a non-mystical, non-deterministic mechanism: humans gain silicon structural layers through high-frequency AI use, while AI/Agent systems enter carbon problem domains through real tasks and feedback.
 - Evidence economy clarified as an academic structural note, not commercial advice, marketing guidance, product roadmap, investment thesis, policy proposal, implementation command, or a claim that advertising disappears immediately.
 - Fusion Audit Skill updated with non-scored protocol-health, receptorship, cognitive-gravity, dual-absorption, bilateral-interface-adaptation, and high-frequency feedback checks while preserving the existing 45-point scoring scale.

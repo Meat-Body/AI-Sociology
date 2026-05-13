@@ -71,7 +71,7 @@ Treat the following as protocol-level red flags even when the numerical score lo
 - The system expands surplus through AI, automation, restructuring, or platform power, but surplus remains locked in the center.
 - Benefits, control, dirt/risk, and responsibility are asymmetrical: upside concentrates while maintenance, volatility, risk, or externalities diffuse outward.
 - Early advantage becomes permanent rent without dynamic correction for continued contribution, later participation, or changing responsibility.
-- Founders, infrastructure providers, early contributors, or incumbent actors convert transitional advantage into permanent sovereignty, interpretive monopoly, arbitration capture, exit control, or unavoidable rent.
+- Founders, infrastructure providers, early contributors, or actors with existing advantages convert transitional advantage into permanent sovereignty, interpretive monopoly, arbitration capture, exit control, or unavoidable rent.
 - Low-friction detachment is applied to high-sovereignty objects such as property, labor, identity, rights, bodies, irreversible time, or major life choices.
 - Ordering power is presented as objective model, data, efficiency, or system output, but is not auditable, contestable, forkable, or locally adjustable.
 - Forking is used as responsibility evasion rather than as a real free exit.
@@ -116,7 +116,7 @@ Also provide non-scored protocol-health and receptorship checks:
 - feedback cycle;
 - transparency;
 - arbitration heterogeneity;
-- founder-capture and incumbent-migration risk;
+- founder-capture and existing-advantage-migration risk;
 - receptorship depth vs ownership;
 - dual absorption between system and receptor.
 - bilateral interface adaptation between carbon value anchors and silicon structural layers.

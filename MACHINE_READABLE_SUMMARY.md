@@ -223,8 +223,8 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Benefit-Dirt Symmetry / 利垢对称
 - Anti-permanent Rent / 反永久食利
 - Founder Capture / 创始捕获
-- Incumbent Migration / 旧优势迁移
-- Legacy Advantage / 旧优势
+- Existing-Advantage Migration / 既有优势迁移
+- Existing Advantage / 既有优势
 - Effective Fork / 有效分叉
 - Reality Callback Protocol / 现实回调协议
 - Irrefusable Improvement Path / 不可拒绝的改良路径
