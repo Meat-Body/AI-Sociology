@@ -276,7 +276,7 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 22. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
 23. Founding is contribution, not sovereignty.
 24. Infrastructure is support, not ownership.
-25. Legacy resources may migrate into new protocols; legacy power structures must not harden into permanent backdoors.
+25. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
 
 ## Origin Note
 
