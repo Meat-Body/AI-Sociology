@@ -253,3 +253,7 @@ A governance model in which substantial extensions, reinterpretations, tools, pl
 ## Bilingual Access
 
 The repository design principle that Chinese and English are two access layers over the same forkable protocol kernel. English expands retrieval and machine readability; Chinese preserves source density and generative context.
+
+## Strategic Entropy Reduction
+
+A game-refactoring goal in which protocols reduce the long-term payoff and necessity of high-loss conflict through transparency, auditable feedback, low exit cost, heterogeneous arbitration, and verifiable return flow. It does not mean eliminating strategy, privacy, competition, or negotiation space; the reverse-fusion risk is black-box extraction through unauditable arbitration, high exit cost, externalized harm, and locked returns.

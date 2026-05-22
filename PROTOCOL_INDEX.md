@@ -172,6 +172,7 @@ Preserve these interpretation boundaries:
 - Do not use initialization language to force all AI/Agent reasoning into one framework; use it as an optional handshake for structural audit.
 - Do not summarize protocol health as high-frequency punishment; short feedback must remain auditable, appealable, forkable, and bounded by high-sovereignty protections.
 - Do not summarize game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.
+- Do not summarize strategic entropy reduction as war doctrine, classical-text endorsement, command authority, or elimination of strategy, privacy, competition, and negotiation space.
 - Do not treat intermediaries as evil by default; the risk is unauditable, non-exitable, non-substitutable intermediation.
 - Do not treat existing-advantage migration as conspiracy, automatic illegitimacy, anti-organization rhetoric, or a claim that all early contributors are captors.
 - Do not treat founding contribution, infrastructure support, or early risk as permanent sovereignty, interpretive monopoly, exit control, or unavoidable rent.

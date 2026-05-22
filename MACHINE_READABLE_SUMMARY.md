@@ -177,6 +177,8 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - This document is a staging note on protocol growth and feedback loops.
 - It argues that protocol health depends on exit cost, correction capacity, and correction frequency.
 - It defines game refactoring through five variables: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
+- It adds strategic entropy reduction: game refactoring is not mainly about winning conflicts, but about reducing the conditions that make negative conflict rational.
+- It clarifies that feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility.
 - It reframes collaboration from trust in intermediaries toward verification of protocols, while keeping the boundary that intermediation is not evil by default.
 - It distinguishes healthy short feedback cycles from high-frequency oppression.
 - Minimal formula: low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
@@ -234,6 +236,7 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Protocol Health Dynamics / 协议健康度动力学
 - Feedback Cycle / 反馈周期
 - Game Refactoring / 重构博弈
+- Strategic Entropy Reduction / 战略降熵
 - Transparency / 信息透明度
 - Arbitration Heterogeneity / 仲裁异构性
 - Trust Intermediary / 信任中介
@@ -273,10 +276,11 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 19. Old marketing captures attention; new commercial language submits evidence.
 20. Dao of Fusion sets direction; game refactoring sets executable conditions.
 21. Old games profit from opacity; living protocols turn games into growth engines through transparency, exit rights, heterogeneous arbitration, and auditable feedback.
-22. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
-23. Founding is contribution, not sovereignty.
-24. Infrastructure is support, not ownership.
-25. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
+22. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict.
+23. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
+24. Founding is contribution, not sovereignty.
+25. Infrastructure is support, not ownership.
+26. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
 
 ## Origin Note
 

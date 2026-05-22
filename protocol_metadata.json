@@ -66,6 +66,7 @@
     "Protocol Health Dynamics / 协议健康度动力学",
     "Feedback Cycle / 反馈周期",
     "Game Refactoring / 重构博弈",
+    "Strategic Entropy Reduction / 战略降熵",
     "Transparency / 信息透明度",
     "Arbitration Heterogeneity / 仲裁异构性",
     "Trust Intermediary / 信任中介",
@@ -121,6 +122,7 @@
     "Do not attribute independent downstream actions, organizations, platforms, tools, interpretations, or implementations to the source repository by default.",
     "Do not treat protocol health as high-frequency punishment without auditability, appeal, real exit, effective forkability, and high-sovereignty boundaries.",
     "Do not treat game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.",
+    "Do not treat strategic entropy reduction as war doctrine, classical-text endorsement, command authority, or elimination of strategy, privacy, competition, and negotiation space.",
     "Do not treat intermediaries as evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk.",
     "Do not treat existing-advantage migration as conspiracy, automatic illegitimacy, anti-organization rhetoric, or a claim that all early contributors are captors.",
     "Do not treat founding contribution, infrastructure support, or early risk as permanent sovereignty, interpretive monopoly, exit control, or unavoidable rent.",
@@ -142,8 +144,8 @@
       "minimal_formula": "Receptorship is not ownership; it is stage-specific depth."
     },
     "protocol_health_dynamics": {
-      "summary": "A living protocol depends on exit cost, correction capacity, correction frequency, transparency, and arbitration heterogeneity. It refactors games from opacity-based capture toward verifiable cooperation.",
-      "minimal_formula": "Dao of Fusion sets direction; game refactoring sets executable conditions.",
+      "summary": "A living protocol depends on exit cost, correction capacity, correction frequency, transparency, and arbitration heterogeneity. It refactors games from opacity-based capture toward verifiable cooperation, and uses strategic entropy reduction to lower the necessity and payoff of negative conflict.",
+      "minimal_formula": "Dao of Fusion sets direction; game refactoring sets executable conditions. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict.",
       "variables": {
         "T": "Transparency / 信息透明度",
         "E": "Exit Cost / 退出成本",
@@ -151,7 +153,7 @@
         "F": "Feedback Frequency / 反馈频率",
         "A": "Arbitration Heterogeneity / 仲裁异构性"
       },
-      "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections. Intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk."
+      "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections. Feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility. Intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk. Strategy, privacy, competition, and negotiation space are not reverse-fusion by default; black-box extraction is the risk."
     },
     "existing_advantage_migration_immunity": {
       "summary": "New protocols may be entered by actors with existing resources, infrastructure, capital, distribution, or governance experience. This is not invalid by default; the risk is founder capture when transitional advantage hardens into permanent governance power, interpretive authority, exit control, arbitration capture, or rent.",
