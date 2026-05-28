@@ -179,6 +179,7 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - It defines game refactoring through five variables: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
 - It adds strategic entropy reduction: game refactoring is not mainly about winning conflicts, but about reducing the conditions that make negative conflict rational.
 - It clarifies that feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility.
+- It clarifies the human substrate of the three foundations: distributed value systems answer trust, AI/Agent systems answer cognitive access, and Dao of Fusion protocol answers fair game conditions.
 - It reframes collaboration from trust in intermediaries toward verification of protocols, while keeping the boundary that intermediation is not evil by default.
 - It distinguishes healthy short feedback cycles from high-frequency oppression.
 - Minimal formula: low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
@@ -277,10 +278,11 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 20. Dao of Fusion sets direction; game refactoring sets executable conditions.
 21. Old games profit from opacity; living protocols turn games into growth engines through transparency, exit rights, heterogeneous arbitration, and auditable feedback.
 22. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict.
-23. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
-24. Founding is contribution, not sovereignty.
-25. Infrastructure is support, not ownership.
-26. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
+23. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable.
+24. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
+25. Founding is contribution, not sovereignty.
+26. Infrastructure is support, not ownership.
+27. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
 
 ## Origin Note
 

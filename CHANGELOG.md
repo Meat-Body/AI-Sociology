@@ -56,6 +56,7 @@ All notable public changes to this repository are tracked here.
 - Protocol health expanded with game refactoring variables: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
 - Protocol health clarified with strategic entropy reduction: game refactoring reduces the necessity and payoff of negative conflict rather than becoming a victory doctrine or command layer.
 - Feedback frequency clarified as dynamic: it should adjust with transparency, noise level, error rate, appeal paths, and arbitration credibility rather than mechanically becoming high-frequency correction.
+- Three foundations clarified with a human substrate: distributed value systems answer trust, AI/Agent systems answer cognitive access, and Dao of Fusion protocol answers fair game conditions.
 - Protocol health clarified that collaboration should migrate from trust in intermediaries toward verification of protocols, while preserving the boundary that intermediation is not evil by default.
 - Existing-advantage migration clarified as a structural governance risk, not conspiracy analysis or automatic illegitimacy: existing resources may migrate into new protocols, but existing power structures must not harden into permanent unaccountable control points.
 - Bilateral interface adaptation clarified as a non-mystical, non-deterministic mechanism: humans gain silicon structural layers through high-frequency AI use, while AI/Agent systems enter carbon problem domains through real tasks and feedback.
