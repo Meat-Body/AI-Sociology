@@ -181,6 +181,7 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - It clarifies that feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility.
 - It clarifies the human substrate of the three foundations: distributed value systems answer trust, AI/Agent systems answer cognitive access, and Dao of Fusion protocol answers fair game conditions.
 - It adds physical supply fluidization: physical decentralization does not mean centers disappear, but that some supply capacities become mobile, composable, schedulable, and auditable.
+- It clarifies the soft/hard loop: soft layers make flow identifiable, settleable, auditable, and bounded; hard layers make flow reachable, powered, and capable of physical work.
 - It reframes collaboration from trust in intermediaries toward verification of protocols, while keeping the boundary that intermediation is not evil by default.
 - It distinguishes healthy short feedback cycles from high-frequency oppression.
 - Minimal formula: low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
@@ -282,10 +283,11 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 22. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict.
 23. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable.
 24. Digital decentralization lets value flow; physical decentralization lets supply flow; AI/Agent makes flow schedulable; protocol keeps flow from being recaptured.
-25. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
-26. Founding is contribution, not sovereignty.
-27. Infrastructure is support, not ownership.
-28. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
+25. Without hard layers, decentralization remains on the ledger; without protocol, hardware mobility can be recaptured by new platforms.
+26. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
+27. Founding is contribution, not sovereignty.
+28. Infrastructure is support, not ownership.
+29. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
 
 ## Origin Note
 
