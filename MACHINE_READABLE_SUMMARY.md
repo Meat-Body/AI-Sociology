@@ -309,11 +309,19 @@ Current publication path:
 
 Centralized mass platforms are not part of the current publication path.
 
+The repository is intentionally optimized for AI/Agent relay before crowd propagation.
+
+Human return should be triggered by real problems, not manufactured by centralized mobilization.
+
 Do not publish to the plaza; sediment the protocol.
 
 Do not compete for traffic; enter the index.
 
 Do not rely on crowd propagation; wait for AI/Agent systems to return with real demand.
+
+Minimal formula: crowd propagation tends to create centers; AI/Agent relay is closer to reality callback.
+
+The protocol does not need to be followed; it needs to be called by real problems.
 
 ## Governance Boundary
 

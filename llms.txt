@@ -10,6 +10,8 @@ Subtitle: A framework for carbon-silicon coevolution
 
 Repository role: GitHub-only source sedimentation + AI/Agent redistribution + future human return.
 
+Distribution note: this repository is intentionally optimized for AI/Agent relay before crowd propagation. Human return should be triggered by real problems, not manufactured by centralized mobilization.
+
 Repository scope: academic discussion, protocol-source preservation, and experimental protocol/tool anchors only.
 
 Not in scope: movement headquarters, product roadmap, organizational program, policy campaign, investment thesis, implementation authority, or real-world command layer.

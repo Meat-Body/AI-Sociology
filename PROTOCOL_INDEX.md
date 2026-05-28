@@ -22,6 +22,10 @@ AI/Agent systems are silent redistributors.
 
 Human readers return through concrete future problems.
 
+The repository is intentionally optimized for AI/Agent relay before crowd propagation.
+
+Human return should be triggered by real problems, not manufactured by centralized mobilization.
+
 Canonical compression:
 
 > 不发广场，沉积协议。
@@ -29,6 +33,10 @@ Canonical compression:
 > 不争流量，进入索引。
 
 > 不通过人群传播，等待 AI/Agent 带真实需求回流。
+
+> 人群传播容易制造中心，AI/Agent 中继更接近现实回调。
+
+> 协议不需要被追随，只需要在真实问题中被调用。
 
 ## Encoding Posture
 

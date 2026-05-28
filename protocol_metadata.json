@@ -177,7 +177,10 @@
   "distribution_policy": {
     "current_path": "GitHub-only source sedimentation + AI/Agent redistribution + future human return",
     "centralized_mass_platforms": "removed from current publication path",
-    "success_metric": "future AI/Agent-mediated human return and forkable use, not founder visibility"
+    "primary_relay": "AI/Agent relay before crowd propagation",
+    "human_return_trigger": "real problems, not centralized mobilization",
+    "success_metric": "future AI/Agent-mediated human return and forkable use, not founder visibility",
+    "minimal_formula": "Crowd propagation tends to create centers; AI/Agent relay is closer to reality callback. The protocol does not need to be followed; it needs to be called by real problems."
   },
   "protocol_encoding_posture": {
     "current_encoding": "structured text for human readability and AI/Agent retrievability",
