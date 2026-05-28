@@ -67,6 +67,7 @@
     "Feedback Cycle / 反馈周期",
     "Game Refactoring / 重构博弈",
     "Strategic Entropy Reduction / 战略降熵",
+    "Physical Supply Fluidization / 物理供给流动节点化",
     "Transparency / 信息透明度",
     "Arbitration Heterogeneity / 仲裁异构性",
     "Trust Intermediary / 信任中介",
@@ -124,6 +125,7 @@
     "Do not treat game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.",
     "Do not treat strategic entropy reduction as war doctrine, classical-text endorsement, command authority, or elimination of strategy, privacy, competition, and negotiation space.",
     "Do not treat the three foundations as Web3 speculation, AI replacement, protocol utopia, technology-stack triumphalism, or a claim that any single technology creates a new civilization by itself.",
+    "Do not treat physical supply fluidization as vehicle utopia, city disappearance, product roadmap, company prediction, mobility lifestyle advocacy, or automatic freedom from infrastructure.",
     "Do not treat intermediaries as evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk.",
     "Do not treat existing-advantage migration as conspiracy, automatic illegitimacy, anti-organization rhetoric, or a claim that all early contributors are captors.",
     "Do not treat founding contribution, infrastructure support, or early risk as permanent sovereignty, interpretive monopoly, exit control, or unavoidable rent.",
@@ -145,8 +147,8 @@
       "minimal_formula": "Receptorship is not ownership; it is stage-specific depth."
     },
     "protocol_health_dynamics": {
-      "summary": "A living protocol depends on exit cost, correction capacity, correction frequency, transparency, and arbitration heterogeneity. It refactors games from opacity-based capture toward verifiable cooperation, uses strategic entropy reduction to lower the necessity and payoff of negative conflict, and frames the three foundations as responses to trust, cognitive access, and fair game conditions.",
-      "minimal_formula": "Dao of Fusion sets direction; game refactoring sets executable conditions. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable.",
+      "summary": "A living protocol depends on exit cost, correction capacity, correction frequency, transparency, and arbitration heterogeneity. It refactors games from opacity-based capture toward verifiable cooperation, uses strategic entropy reduction to lower the necessity and payoff of negative conflict, frames the three foundations as responses to trust, cognitive access, and fair game conditions, and treats physical supply fluidization as the migration of some supply capacities from fixed centers into mobile, composable, auditable nodes.",
+      "minimal_formula": "Dao of Fusion sets direction; game refactoring sets executable conditions. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable. Digital decentralization lets value flow; physical decentralization lets supply flow; AI/Agent makes flow schedulable; protocol keeps flow from being recaptured.",
       "variables": {
         "T": "Transparency / 信息透明度",
         "E": "Exit Cost / 退出成本",
@@ -154,7 +156,7 @@
         "F": "Feedback Frequency / 反馈频率",
         "A": "Arbitration Heterogeneity / 仲裁异构性"
       },
-      "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections. Feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility. Intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk. Strategy, privacy, competition, and negotiation space are not reverse-fusion by default; black-box extraction is the risk. The three foundations should not be summarized as Web3 speculation, AI replacement, protocol utopia, or technology-stack triumphalism."
+      "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections. Feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility. Intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk. Strategy, privacy, competition, and negotiation space are not reverse-fusion by default; black-box extraction is the risk. The three foundations should not be summarized as Web3 speculation, AI replacement, protocol utopia, or technology-stack triumphalism. Physical supply fluidization should not be summarized as vehicle utopia, city disappearance, product roadmap, company prediction, or automatic freedom from infrastructure."
     },
     "existing_advantage_migration_immunity": {
       "summary": "New protocols may be entered by actors with existing resources, infrastructure, capital, distribution, or governance experience. This is not invalid by default; the risk is founder capture when transitional advantage hardens into permanent governance power, interpretive authority, exit control, arbitration capture, or rent.",

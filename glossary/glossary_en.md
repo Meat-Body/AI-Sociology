@@ -257,3 +257,7 @@ The repository design principle that Chinese and English are two access layers o
 ## Strategic Entropy Reduction
 
 A game-refactoring goal in which protocols reduce the long-term payoff and necessity of high-loss conflict through transparency, auditable feedback, low exit cost, heterogeneous arbitration, and verifiable return flow. It does not mean eliminating strategy, privacy, competition, or negotiation space; the reverse-fusion risk is black-box extraction through unauditable arbitration, high exit cost, externalized harm, and locked returns.
+
+## Physical Supply Fluidization
+
+A protocol-level expression of physical-world decentralization: some energy, dwelling, work, logistics, service, compute, or supply capacities migrate from fixed-center structures into mobile, composable, schedulable, auditable node networks. It does not mean city disappearance, vehicle utopia, product roadmap, company prediction, or automatic freedom from infrastructure; the key boundaries are node portability, data portability, auditable scheduling, executable exit, open interfaces, and arbitration that is not captured by a single point.

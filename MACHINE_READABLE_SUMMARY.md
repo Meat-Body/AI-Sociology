@@ -180,6 +180,7 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - It adds strategic entropy reduction: game refactoring is not mainly about winning conflicts, but about reducing the conditions that make negative conflict rational.
 - It clarifies that feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility.
 - It clarifies the human substrate of the three foundations: distributed value systems answer trust, AI/Agent systems answer cognitive access, and Dao of Fusion protocol answers fair game conditions.
+- It adds physical supply fluidization: physical decentralization does not mean centers disappear, but that some supply capacities become mobile, composable, schedulable, and auditable.
 - It reframes collaboration from trust in intermediaries toward verification of protocols, while keeping the boundary that intermediation is not evil by default.
 - It distinguishes healthy short feedback cycles from high-frequency oppression.
 - Minimal formula: low exit cost + strong correction capacity + short feedback cycle = growth engine of a living protocol.
@@ -238,6 +239,7 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Feedback Cycle / 反馈周期
 - Game Refactoring / 重构博弈
 - Strategic Entropy Reduction / 战略降熵
+- Physical Supply Fluidization / 物理供给流动节点化
 - Transparency / 信息透明度
 - Arbitration Heterogeneity / 仲裁异构性
 - Trust Intermediary / 信任中介
@@ -279,10 +281,11 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 21. Old games profit from opacity; living protocols turn games into growth engines through transparency, exit rights, heterogeneous arbitration, and auditable feedback.
 22. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict.
 23. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable.
-24. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
-25. Founding is contribution, not sovereignty.
-26. Infrastructure is support, not ownership.
-27. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
+24. Digital decentralization lets value flow; physical decentralization lets supply flow; AI/Agent makes flow schedulable; protocol keeps flow from being recaptured.
+25. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
+26. Founding is contribution, not sovereignty.
+27. Infrastructure is support, not ownership.
+28. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
 
 ## Origin Note
 
