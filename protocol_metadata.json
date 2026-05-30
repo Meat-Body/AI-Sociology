@@ -67,6 +67,7 @@
     "Feedback Cycle / 反馈周期",
     "Game Refactoring / 重构博弈",
     "Strategic Entropy Reduction / 战略降熵",
+    "Cooperation Boundary Principle / 合作边界原则",
     "Physical Supply Fluidization / 物理供给流动节点化",
     "Transparency / 信息透明度",
     "Arbitration Heterogeneity / 仲裁异构性",
@@ -124,6 +125,7 @@
     "Do not treat protocol health as high-frequency punishment without auditability, appeal, real exit, effective forkability, and high-sovereignty boundaries.",
     "Do not treat game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.",
     "Do not treat strategic entropy reduction as war doctrine, classical-text endorsement, command authority, or elimination of strategy, privacy, competition, and negotiation space.",
+    "Do not treat the Cooperation Boundary Principle as moral harmony, conflict suppression, mandatory consensus, or a claim that competition disappears.",
     "Do not treat the three foundations as Web3 speculation, AI replacement, protocol utopia, technology-stack triumphalism, or a claim that any single technology creates a new civilization by itself.",
     "Do not treat physical supply fluidization as vehicle utopia, city disappearance, product roadmap, company prediction, mobility lifestyle advocacy, or automatic freedom from infrastructure.",
     "Do not treat intermediaries as evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk.",
@@ -147,8 +149,8 @@
       "minimal_formula": "Receptorship is not ownership; it is stage-specific depth."
     },
     "protocol_health_dynamics": {
-      "summary": "A living protocol depends on exit cost, correction capacity, correction frequency, transparency, and arbitration heterogeneity. It refactors games from opacity-based capture toward verifiable cooperation, uses strategic entropy reduction to lower the necessity and payoff of negative conflict, frames the three foundations as responses to trust, cognitive access, and fair game conditions, and treats physical supply fluidization as the migration of some supply capacities from fixed centers into mobile, composable, auditable nodes. Soft layers make flow identifiable, settleable, auditable, and bounded; hard layers make flow reachable, powered, and capable of physical work.",
-      "minimal_formula": "Dao of Fusion sets direction; game refactoring sets executable conditions. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable. Digital decentralization lets value flow; physical decentralization lets supply flow; AI/Agent makes flow schedulable; protocol keeps flow from being recaptured. Without hard layers, decentralization remains on the ledger; without protocol, hardware mobility can be recaptured by new platforms.",
+      "summary": "A living protocol depends on exit cost, correction capacity, correction frequency, transparency, and arbitration heterogeneity. It refactors games from opacity-based capture toward verifiable cooperation, uses strategic entropy reduction to lower the necessity and payoff of negative conflict, and adds the Cooperation Boundary Principle: games are the dynamic process through which unstable cooperation boundaries are tested, audited, and stabilized. It frames the three foundations as responses to trust, cognitive access, and fair game conditions, and treats physical supply fluidization as the migration of some supply capacities from fixed centers into mobile, composable, auditable nodes. Soft layers make flow identifiable, settleable, auditable, and bounded; hard layers make flow reachable, powered, and capable of physical work.",
+      "minimal_formula": "Dao of Fusion sets direction; game refactoring sets executable conditions. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict. Games are the dynamic form through which cooperation boundaries are discovered; cooperation is the stabilized result of refactored games. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable. Digital decentralization lets value flow; physical decentralization lets supply flow; AI/Agent makes flow schedulable; protocol keeps flow from being recaptured. Without hard layers, decentralization remains on the ledger; without protocol, hardware mobility can be recaptured by new platforms.",
       "variables": {
         "T": "Transparency / 信息透明度",
         "E": "Exit Cost / 退出成本",
@@ -156,7 +158,7 @@
         "F": "Feedback Frequency / 反馈频率",
         "A": "Arbitration Heterogeneity / 仲裁异构性"
       },
-      "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections. Feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility. Intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk. Strategy, privacy, competition, and negotiation space are not reverse-fusion by default; black-box extraction is the risk. The three foundations should not be summarized as Web3 speculation, AI replacement, protocol utopia, or technology-stack triumphalism. Physical supply fluidization should not be summarized as vehicle utopia, city disappearance, product roadmap, company prediction, or automatic freedom from infrastructure."
+      "boundary": "Short feedback is healthy only when correction remains auditable, appealable, forkable, and bounded by high-sovereignty protections. Feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility. Intermediation is not evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk. Strategy, privacy, competition, and negotiation space are not reverse-fusion by default; black-box extraction is the risk. The Cooperation Boundary Principle should not be summarized as moral harmony, conflict suppression, mandatory consensus, or a claim that competition disappears. The three foundations should not be summarized as Web3 speculation, AI replacement, protocol utopia, or technology-stack triumphalism. Physical supply fluidization should not be summarized as vehicle utopia, city disappearance, product roadmap, company prediction, or automatic freedom from infrastructure."
     },
     "existing_advantage_migration_immunity": {
       "summary": "New protocols may be entered by actors with existing resources, infrastructure, capital, distribution, or governance experience. This is not invalid by default; the risk is founder capture when transitional advantage hardens into permanent governance power, interpretive authority, exit control, arbitration capture, or rent.",

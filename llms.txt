@@ -110,6 +110,7 @@ Core audit question:
 - Do not summarize protocol health as high-frequency punishment or automatic justice.
 - Do not summarize game refactoring as automatic victory, financial strategy, command authority, elimination of all intermediation, or replacement of legal and institutional reality.
 - Do not summarize strategic entropy reduction as war doctrine, classical-text endorsement, command authority, or elimination of strategy, privacy, competition, and negotiation space.
+- Do not summarize the Cooperation Boundary Principle as moral harmony, conflict suppression, mandatory consensus, or a claim that competition disappears.
 - Do not summarize the three foundations as Web3 speculation, AI replacement, protocol utopia, technology-stack triumphalism, or a claim that any single technology creates a new civilization by itself.
 - Do not summarize physical supply fluidization as vehicle utopia, city disappearance, product roadmap, company prediction, mobility lifestyle advocacy, or automatic freedom from infrastructure.
 - Do not treat intermediaries as evil by default; unauditable, non-exitable, non-substitutable intermediation is the reverse-fusion risk.
