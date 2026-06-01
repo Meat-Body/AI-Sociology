@@ -327,6 +327,42 @@
         }
       }
     },
+    "attention_distribution": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "ranking_auditable",
+        "recommendation_goals_user_selectable",
+        "context_preserved",
+        "appeal_available",
+        "data_portable",
+        "conflict_amplifying_incentives",
+        "notes"
+      ],
+      "properties": {
+        "ranking_auditable": {
+          "type": "boolean"
+        },
+        "recommendation_goals_user_selectable": {
+          "type": "boolean"
+        },
+        "context_preserved": {
+          "type": "boolean"
+        },
+        "appeal_available": {
+          "type": "boolean"
+        },
+        "data_portable": {
+          "type": "boolean"
+        },
+        "conflict_amplifying_incentives": {
+          "type": "boolean"
+        },
+        "notes": {
+          "type": "string"
+        }
+      }
+    },
     "return_flow": {
       "type": "string"
     },

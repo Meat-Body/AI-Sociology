@@ -179,6 +179,7 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - It defines game refactoring through five variables: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
 - It adds strategic entropy reduction: game refactoring is not mainly about winning conflicts, but about reducing the conditions that make negative conflict rational.
 - It adds the Cooperation Boundary Principle: games are not the opposite of cooperation; they are the dynamic process through which unstable cooperation boundaries are tested, audited, and stabilized.
+- It adds Attention Distribution Capture: attention distribution is a mediation power, and black-box platforms can push social relations toward negative-sum games when they profit from conflict-amplifying feedback.
 - It clarifies that feedback frequency should adjust dynamically with transparency, noise level, error rate, appeal paths, and arbitration credibility.
 - It clarifies the human substrate of the three foundations: distributed value systems answer trust, AI/Agent systems answer cognitive access, and Dao of Fusion protocol answers fair game conditions.
 - It adds physical supply fluidization: physical decentralization does not mean centers disappear, but that some supply capacities become mobile, composable, schedulable, and auditable.
@@ -242,6 +243,7 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 - Game Refactoring / 重构博弈
 - Strategic Entropy Reduction / 战略降熵
 - Cooperation Boundary Principle / 合作边界原则
+- Attention Distribution Capture / 注意力分发捕获
 - Physical Supply Fluidization / 物理供给流动节点化
 - Transparency / 信息透明度
 - Arbitration Heterogeneity / 仲裁异构性
@@ -284,13 +286,14 @@ Planned `v1.0-carbon-silicon-civilization-protocol`:
 21. Old games profit from opacity; living protocols turn games into growth engines through transparency, exit rights, heterogeneous arbitration, and auditable feedback.
 22. Low-level games pursue winning conflicts; higher-level games reduce the necessity of conflict.
 23. Games are the dynamic form through which cooperation boundaries are discovered; cooperation is the stabilized result of refactored games.
-24. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable.
-25. Digital decentralization lets value flow; physical decentralization lets supply flow; AI/Agent makes flow schedulable; protocol keeps flow from being recaptured.
-26. Without hard layers, decentralization remains on the ledger; without protocol, hardware mobility can be recaptured by new platforms.
-27. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
-28. Founding is contribution, not sovereignty.
-29. Infrastructure is support, not ownership.
-30. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
+24. Attention distribution is mediation power; when distribution intermediaries profit from conflict, social relations can be pushed toward negative-sum games.
+25. Distributed value systems make trust verifiable; AI makes cognition extensible; protocol makes games refactorable.
+26. Digital decentralization lets value flow; physical decentralization lets supply flow; AI/Agent makes flow schedulable; protocol keeps flow from being recaptured.
+27. Without hard layers, decentralization remains on the ledger; without protocol, hardware mobility can be recaptured by new platforms.
+28. Intermediation is not the original sin; unauditable, non-exitable, non-substitutable intermediation is reverse-fusion risk.
+29. Founding is contribution, not sovereignty.
+30. Infrastructure is support, not ownership.
+31. Existing resources may migrate into new protocols; existing power structures must not harden into permanent unaccountable control points.
 
 ## Origin Note
 

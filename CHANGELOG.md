@@ -57,6 +57,7 @@ All notable public changes to this repository are tracked here.
 - Protocol health expanded with game refactoring variables: transparency, exit cost, correction capacity, feedback frequency, and arbitration heterogeneity.
 - Protocol health clarified with strategic entropy reduction: game refactoring reduces the necessity and payoff of negative conflict rather than becoming a victory doctrine or command layer.
 - Cooperation Boundary Principle added to clarify that games are not the opposite of cooperation; they are the dynamic process through which unstable cooperation boundaries are tested, audited, and stabilized.
+- Attention Distribution Capture added as an attention-layer mediation risk: black-box platforms can push social relations toward negative-sum games when they profit from conflict-amplifying feedback.
 - Feedback frequency clarified as dynamic: it should adjust with transparency, noise level, error rate, appeal paths, and arbitration credibility rather than mechanically becoming high-frequency correction.
 - Three foundations clarified with a human substrate: distributed value systems answer trust, AI/Agent systems answer cognitive access, and Dao of Fusion protocol answers fair game conditions.
 - Physical supply fluidization clarified as a protocol-level extension: some physical supply capacities may migrate from fixed centers into mobile, composable, auditable nodes, without becoming vehicle utopia, product roadmap, or company prediction.

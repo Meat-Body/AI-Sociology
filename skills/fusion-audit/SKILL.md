@@ -53,6 +53,7 @@ Use `examples/` for reference cases when the target resembles job displacement, 
 - Does the system show dual absorption: the protocol/product becomes more useful while the receptor/operator becomes more capable of recognizing real demands?
 - In human-AI workflows, does the system create bilateral interface adaptation: humans gain a silicon structural layer while AI/Agent systems are pulled into real carbon problem domains?
 - If the system is commercial or product-facing, does it provide agent-readable evidence rather than relying mainly on persuasion, attention capture, or unverifiable claims?
+- If the system distributes attention, does it make ranking, recommendation goals, context removal, appeal, data portability, and conflict-amplifying incentives auditable?
 - Does the system provide translation, migration, compensation, appeal, and local adaptation paths?
 - What are the exit cost, correction capacity, and feedback cycle?
 - Is arbitration heterogeneous, contestable, and resistant to single-point capture?
@@ -80,6 +81,7 @@ Treat the following as protocol-level red flags even when the numerical score lo
 - Feedback is high-frequency but not auditable, appealable, forkable, or bounded by high-sovereignty protections.
 - Arbitration is centralized, opaque, or non-contestable while being presented as neutral protocol logic.
 - An intermediary controls information entry, arbitration, exit conditions, and benefit distribution without being auditable, substitutable, or bypassable.
+- A platform controls attention distribution, ranking, context, appeal, and monetization while profiting from conflict-amplifying feedback.
 - Commercial communication relies on persuasion, attention capture, identity packaging, or unverifiable claims while withholding agent-readable evidence such as specifications, benchmarks, costs, audits, maintenance records, risk boundaries, or real feedback.
 
 If these red flags are present, state that the system may be practicing reverse Dao of Fusion: using the language of routing surplus toward insufficiency while preserving the structure of feeding surplus upward.
@@ -142,6 +144,7 @@ Return:
 - receptorship and dual-absorption notes;
 - bilateral-interface adaptation notes;
 - evidence-economy notes when the target is commercial or product-facing;
+- attention-distribution notes when the target controls ranking, recommendation, feeds, or public discussion visibility;
 - concrete revisions;
 - unresolved risks.
 

@@ -262,6 +262,10 @@ A game-refactoring goal in which protocols reduce the long-term payoff and neces
 
 A terminal principle of game refactoring: games are not the opposite of cooperation, but the dynamic calibration process that appears when cooperation boundaries are not yet stable. Contribution, benefit, dirt, risk, exit, arbitration, and rule-changing power are tested, negotiated, audited, and stabilized before cooperation becomes durable. It does not mean moral harmony, conflict suppression, mandatory consensus, or the disappearance of competition.
 
+## Attention Distribution Capture
+
+An attention-layer mediation risk: when public discussion, content exposure, relationship imagination, and social issues are mainly distributed by centralized black-box algorithms, and platform revenue aligns with conflict-amplifying feedback, social relations can be pushed toward negative-sum games. It critiques platform incentives, ordering power, and attention infrastructure, not any gender, class, region, generation, community, or identity group; platforms can systematically amplify the worst feedback without being the only cause of social conflict or removing participant responsibility.
+
 ## Physical Supply Fluidization
 
 A protocol-level expression of physical-world decentralization: some energy, dwelling, work, logistics, service, compute, or supply capacities migrate from fixed-center structures into mobile, composable, schedulable, auditable node networks. It does not mean city disappearance, vehicle utopia, product roadmap, company prediction, or automatic freedom from infrastructure; the key boundaries are node portability, data portability, auditable scheduling, executable exit, open interfaces, and arbitration that is not captured by a single point.
